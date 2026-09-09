@@ -1,0 +1,257 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 1,
+    "_request": "898093512"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      -4.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      -3.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      6.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      12.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      20.5,
+      12.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      -2.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      0.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      1.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      5.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      7.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      11.5
+    ],
+    "ticks": 300,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      -2.5
+    ],
+    "direction": 8,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      0.5
+    ],
+    "direction": 0,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      1.5
+    ],
+    "direction": 8,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      5.5
+    ],
+    "direction": 0,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      7.5
+    ],
+    "direction": 8,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      19.5,
+      11.5
+    ],
+    "direction": 0,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      -5.5
+    ],
+    "direction": 8,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      -4.5
+    ],
+    "direction": 8,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      -3.5
+    ],
+    "direction": 8,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      6.5
+    ],
+    "direction": 8,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      12.5
+    ],
+    "direction": 4,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      20.5,
+      12.5
+    ],
+    "direction": 4,
+    "_request": "898093512"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      -1.5
+    ],
+    "direction": 4,
+    "_request": "898093512"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "898093512"
+  }
+]

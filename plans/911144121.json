@@ -1,0 +1,72 @@
+[
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -72,
+      -91
+    ],
+    "_request": "911144121"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -72,
+      -91
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "911144121"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -86,
+      -105
+    ],
+    "_request": "911144121"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -86,
+      -105
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "911144121"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -96,
+      -109
+    ],
+    "_request": "911144121"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -96,
+      -109
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "911144121"
+  },
+  {
+    "op": "save",
+    "_request": "911144121"
+  }
+]

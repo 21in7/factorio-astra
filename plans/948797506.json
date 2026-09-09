@@ -1,0 +1,78 @@
+[
+  {
+    "op": "walk_direction",
+    "direction": 0,
+    "ticks": 15,
+    "_request": "948797506"
+  },
+  {
+    "op": "walk_direction",
+    "direction": 4,
+    "ticks": 36,
+    "_request": "948797506"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -102.5
+    ],
+    "direction": 0,
+    "_request": "948797506"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -102.5
+    ],
+    "item": "iron-ore",
+    "_request": "948797506"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      56.5,
+      -102.5
+    ],
+    "direction": 0,
+    "_request": "948797506"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "long-handed-inserter",
+    "at": [
+      56.5,
+      -102.5
+    ],
+    "item": "coal",
+    "_request": "948797506"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -99.5
+    ],
+    "direction": 0,
+    "_request": "948797506"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -99.5
+    ],
+    "item": "iron-plate",
+    "_request": "948797506"
+  },
+  {
+    "op": "save",
+    "_request": "948797506"
+  }
+]

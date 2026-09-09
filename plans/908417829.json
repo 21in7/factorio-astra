@@ -1,0 +1,49 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      9.5
+    ],
+    "inventory": "chest",
+    "item": "electronic-circuit",
+    "count": 20,
+    "_request": "908417829"
+  },
+  {
+    "op": "craft",
+    "recipe": "repair-pack",
+    "count": 10,
+    "_request": "908417829"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "908417829"
+  },
+  {
+    "op": "put",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "inventory": "chest",
+    "item": "repair-pack",
+    "count": 5,
+    "_request": "908417829"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "_request": "908417829"
+  },
+  {
+    "op": "save",
+    "_request": "908417829"
+  }
+]

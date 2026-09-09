@@ -1,0 +1,204 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "item": "iron-plate",
+    "count": 40
+  },
+  {
+    "op": "mine",
+    "name": "pipe",
+    "at": [
+      -76.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 34
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe-to-ground",
+    "count": 2
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -105.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -103.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -93.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -60.5,
+      -104.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -73.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -72.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -71.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -70.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -69.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -68.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -67.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -66.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -65.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -64.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -63.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -62.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -61.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -60.5,
+      -92.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -74.5,
+      -92.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -76.5,
+      -92.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "save"
+  }
+]

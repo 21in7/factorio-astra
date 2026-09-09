@@ -1,0 +1,50 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      35.5
+    ],
+    "item": "iron-plate",
+    "count": 80,
+    "_request": "937848127"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 80,
+    "_request": "937848127"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      43.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "937848127"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      43.5
+    ],
+    "item": "iron-plate",
+    "count": 60,
+    "_request": "937848127"
+  },
+  {
+    "op": "save",
+    "_request": "937848127"
+  }
+]

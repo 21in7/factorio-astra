@@ -1,0 +1,165 @@
+[
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "905845796"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 4,
+    "_request": "905845796"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 4,
+    "_request": "905845796"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "905845796"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "_request": "905845796"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 4,
+    "_request": "905845796"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 4,
+    "_request": "905845796"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "905845796"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "_request": "905845796"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 4,
+    "_request": "905845796"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 4,
+    "_request": "905845796"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "905845796"
+  },
+  {
+    "op": "craft",
+    "recipe": "storage-tank",
+    "count": 1,
+    "_request": "905845796"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 1,
+    "_request": "905845796"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "905845796"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 2,
+    "_request": "905845796"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2,
+    "_request": "905845796"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "905845796"
+  }
+]

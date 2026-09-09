@@ -1,0 +1,267 @@
+[
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "897561743"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      11.5,
+      12.5
+    ],
+    "direction": 12,
+    "_request": "897561743"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "bar": 2,
+    "_request": "897561743"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "bar": 2,
+    "_request": "897561743"
+  },
+  {
+    "op": "rotate",
+    "name": "transport-belt",
+    "at": [
+      26.5,
+      2.5
+    ],
+    "_request": "897561743"
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      58.5,
+      2.5
+    ],
+    "ticks": 300,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "fast-inserter",
+    "at": [
+      58.5,
+      2.5
+    ],
+    "direction": 4,
+    "_request": "897561743"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "897561743"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 4,
+    "_request": "897561743"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 6,
+    "_request": "897561743"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      6.5,
+      11.5
+    ],
+    "direction": 0,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      12.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      13.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      14.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      15.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      16.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      15.5,
+      11.5
+    ],
+    "direction": 0,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      15.5,
+      12.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      15.5,
+      13.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      15.5,
+      14.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      15.5,
+      15.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      15.5,
+      16.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      15.5,
+      17.5
+    ],
+    "direction": 8,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      7.5,
+      16.5
+    ],
+    "direction": 12,
+    "_request": "897561743"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      15.5,
+      18.5
+    ],
+    "direction": 0,
+    "_request": "897561743"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      8.5,
+      16.5
+    ],
+    "bar": 2,
+    "_request": "897561743"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      15.5,
+      19.5
+    ],
+    "bar": 2,
+    "_request": "897561743"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "897561743"
+  }
+]

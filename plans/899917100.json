@@ -1,0 +1,127 @@
+[
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      46,
+      -126
+    ],
+    "_request": "899917100"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      46,
+      -126
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 40,
+    "_request": "899917100"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      59,
+      -129
+    ],
+    "_request": "899917100"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      59,
+      -129
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 40,
+    "_request": "899917100"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 3,
+    "_request": "899917100"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "899917100"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ],
+    "_request": "899917100"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 25,
+    "_request": "899917100"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "_request": "899917100"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 25,
+    "_request": "899917100"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      37,
+      -88
+    ],
+    "_request": "899917100"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      37,
+      -88
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 25,
+    "_request": "899917100"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "899917100"
+  }
+]

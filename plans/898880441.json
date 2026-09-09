@@ -1,0 +1,1011 @@
+[
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 60,
+    "_request": "898880441"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 60,
+    "_request": "898880441"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 60,
+    "_request": "898880441"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898880441"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898880441"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898880441"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898880441"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898880441"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898880441"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "898880441"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "898880441"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "898880441"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 10,
+    "_request": "898880441"
+  },
+  {
+    "op": "craft",
+    "recipe": "oil-refinery",
+    "count": 1,
+    "_request": "898880441"
+  },
+  {
+    "op": "craft",
+    "recipe": "storage-tank",
+    "count": 4,
+    "_request": "898880441"
+  },
+  {
+    "op": "craft",
+    "recipe": "chemical-plant",
+    "count": 1,
+    "_request": "898880441"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 3,
+    "_request": "898880441"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe-to-ground",
+    "count": 10,
+    "_request": "898880441"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 30,
+    "_request": "898880441"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "898880441"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "898880441"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -90,
+      -80
+    ],
+    "timeout": 9000,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "oil-refinery",
+    "at": [
+      -97.5,
+      -85.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "recipe",
+    "name": "oil-refinery",
+    "at": [
+      -97.5,
+      -85.5
+    ],
+    "recipe": "advanced-oil-processing",
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "storage-tank",
+    "at": [
+      -105.5,
+      -91.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "storage-tank",
+    "at": [
+      -98.5,
+      -94.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "storage-tank",
+    "at": [
+      -90.5,
+      -99.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "storage-tank",
+    "at": [
+      -109.5,
+      -79.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "chemical-plant",
+    "at": [
+      -105.5,
+      -85.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -88.5,
+      -97.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -93.5,
+      -90.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -101.5,
+      -89.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -99.5,
+      -88.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -99.5,
+      -89.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -99.5,
+      -90.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -100.5,
+      -90.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -101.5,
+      -90.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -102.5,
+      -90.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -103.5,
+      -90.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -88.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -89.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -90.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -91.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -92.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -95.5,
+      -88.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -95.5,
+      -89.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -95.5,
+      -90.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -95.5,
+      -91.5
+    ],
+    "direction": 8,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -95.5,
+      -97.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -95.5,
+      -98.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -94.5,
+      -98.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -93.5,
+      -98.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -93.5,
+      -99.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -93.5,
+      -100.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -92.5,
+      -100.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -88.5,
+      -98.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -87.5,
+      -98.5
+    ],
+    "direction": 12,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -80.5,
+      -98.5
+    ],
+    "direction": 4,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -104.5,
+      -89.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -105.5,
+      -89.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -106.5,
+      -89.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -106.5,
+      -88.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -106.5,
+      -87.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -106.5,
+      -83.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -106.5,
+      -82.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -106.5,
+      -81.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -107.5,
+      -81.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -108.5,
+      -81.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -109.5,
+      -81.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -110.5,
+      -81.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -81.5,
+      -92.5
+    ],
+    "direction": 4,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -91.5,
+      -92.5
+    ],
+    "direction": 12,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -92.5,
+      -92.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -92.5,
+      -91.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -92.5,
+      -83.5
+    ],
+    "direction": 8,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -92.5,
+      -82.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -93.5,
+      -82.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -94.5,
+      -82.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -95.5,
+      -82.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -96.5,
+      -82.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -46.5,
+      -75.5
+    ],
+    "direction": 4,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -56.5,
+      -75.5
+    ],
+    "direction": 12,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -57.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -58.5,
+      -75.5
+    ],
+    "direction": 4,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -68.5,
+      -75.5
+    ],
+    "direction": 12,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -69.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -70.5,
+      -75.5
+    ],
+    "direction": 4,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -80.5,
+      -75.5
+    ],
+    "direction": 12,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -81.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -82.5,
+      -75.5
+    ],
+    "direction": 4,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -92.5,
+      -75.5
+    ],
+    "direction": 12,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -93.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -94.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -95.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -96.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -98.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -98.5,
+      -76.5
+    ],
+    "direction": 8,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -98.5,
+      -81.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -98.5,
+      -82.5
+    ],
+    "direction": 0,
+    "_request": "898880441"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "898880441"
+  },
+  {
+    "op": "wait_research",
+    "name": "lubricant",
+    "_request": "898880441"
+  },
+  {
+    "op": "recipe",
+    "name": "chemical-plant",
+    "at": [
+      -105.5,
+      -85.5
+    ],
+    "recipe": "lubricant",
+    "_request": "898880441"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "898880441"
+  }
+]

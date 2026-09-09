@@ -1,0 +1,247 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "926699423"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "926699423"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "926699423"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "926699423"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-1",
+    "count": 2,
+    "_request": "926699423"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "926699423"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2,
+    "_request": "926699423"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 1,
+    "_request": "926699423"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "926699423"
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      56.5
+    ],
+    "_request": "926699423"
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      56.5
+    ],
+    "_request": "926699423"
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      1.5,
+      56.5
+    ],
+    "_request": "926699423"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -5,
+      53
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "926699423"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -2,
+      53
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "926699423"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      1,
+      53
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "926699423"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      55.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 20,
+    "_request": "926699423"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      55.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 20,
+    "_request": "926699423"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      56.5
+    ],
+    "direction": 0,
+    "_request": "926699423"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      55.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 20,
+    "_request": "926699423"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      55.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 20,
+    "_request": "926699423"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      56.5
+    ],
+    "direction": 0,
+    "_request": "926699423"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      55.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 20,
+    "_request": "926699423"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      55.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 20,
+    "_request": "926699423"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      1.5,
+      56.5
+    ],
+    "direction": 0,
+    "_request": "926699423"
+  },
+  {
+    "op": "save",
+    "_request": "926699423"
+  }
+]

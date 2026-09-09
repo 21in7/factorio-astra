@@ -1,0 +1,332 @@
+[
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 80,
+    "_request": "942431024"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "item": "iron-plate",
+    "count": 80,
+    "_request": "942431024"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 15,
+    "_request": "942431024"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "942431024"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 2,
+    "_request": "942431024"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "942431024"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "942431024"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -90.5,
+      -52.5
+    ],
+    "direction": 4,
+    "_request": "942431024"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -90.5,
+      -52.5
+    ],
+    "item": "electronic-circuit",
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -91.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -92.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -93.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -94.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -95.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -96.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -97.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -98.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -99.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -100.5,
+      -52.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -101.5,
+      -52.5
+    ],
+    "direction": 0,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -101.5,
+      -53.5
+    ],
+    "direction": 0,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -101.5,
+      -54.5
+    ],
+    "direction": 0,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -101.5,
+      -55.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -102.5,
+      -55.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -107.5,
+      -55.5
+    ],
+    "direction": 4,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -108.5,
+      -55.5
+    ],
+    "direction": 0,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -108.5,
+      -56.5
+    ],
+    "direction": 0,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -108.5,
+      -61.5
+    ],
+    "direction": 8,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -108.5,
+      -62.5
+    ],
+    "direction": 0,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -108.5,
+      -63.5
+    ],
+    "direction": 0,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -108.5,
+      -64.5
+    ],
+    "direction": 0,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -108.5,
+      -65.5
+    ],
+    "direction": 0,
+    "_request": "942431024"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -108.5,
+      -66.5
+    ],
+    "direction": 12,
+    "_request": "942431024"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "long-handed-inserter",
+    "at": [
+      -111.5,
+      -67.5
+    ],
+    "items": [
+      "steel-plate",
+      "electronic-circuit"
+    ],
+    "_request": "942431024"
+  },
+  {
+    "op": "save",
+    "_request": "942431024"
+  }
+]

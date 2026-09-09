@@ -1,0 +1,211 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 8
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      5.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      4.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      3.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      2.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      1.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      0.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -2.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -3.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -5.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -6.5,
+      -119.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -7.5,
+      -119.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -7.5,
+      -120.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -7.5,
+      -125.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      5.5,
+      -121.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -2.5,
+      -126.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -5.5,
+      -125.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      6.5,
+      -119.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "save"
+  }
+]

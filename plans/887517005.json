@@ -1,0 +1,718 @@
+[
+  {
+    "op": "research",
+    "name": "military-2",
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-1",
+    "count": 1,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-gear-wheel",
+    "count": 5,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 10,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      40.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      40.5,
+      -103.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      43.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      42.5,
+      -94.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -105.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -105.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -105.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 180,
+    "_request": "887517005"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -23,
+      -67
+    ],
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -24.5,
+      -67.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -28.5,
+      -71.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -33.5,
+      -79.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -29.5,
+      -79.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -25.5,
+      -79.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -35.5,
+      -71.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -31.5,
+      -71.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -17.5,
+      -71.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "walk",
+    "to": [
+      20,
+      10
+    ],
+    "_request": "887517005"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "_request": "887517005"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "recipe": "engine-unit",
+    "_request": "887517005"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      18.5,
+      15.5
+    ],
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-gear-wheel",
+    "count": 5,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "pipe",
+    "count": 10,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "steel-plate",
+    "count": 5,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "wooden-chest",
+    "at": [
+      -13.5,
+      32.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -5.5,
+      32.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -6.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 200,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      8.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 100,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      15.5,
+      19.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 100,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 400,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 150,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 150,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 400,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 150,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 150,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "wooden-chest",
+    "at": [
+      -9.5,
+      32.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 10,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 10,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "887517005"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 10,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "pumpjack",
+    "count": 4,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe-to-ground",
+    "count": 55,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "boiler",
+    "count": 1,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "steam-engine",
+    "count": 2,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 3,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 3,
+    "_request": "887517005"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "887517005"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "engine-unit",
+    "count": 5,
+    "_request": "887517005"
+  },
+  {
+    "op": "craft",
+    "recipe": "pump",
+    "count": 2,
+    "_request": "887517005"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "887517005"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "887517005"
+  }
+]

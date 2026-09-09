@@ -1,0 +1,186 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -42.5,
+      -61.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 10
+  },
+  {
+    "op": "craft",
+    "recipe": "electric-mining-drill",
+    "count": 2
+  },
+  {
+    "op": "craft",
+    "recipe": "steel-furnace",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-1",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 3
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      11.5,
+      -130.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      10,
+      -130
+    ]
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      9.5,
+      -132.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      13.5,
+      -132.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      9.5,
+      -122.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      -120.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      -120.5
+    ],
+    "recipe": "firearm-magazine"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      7.5,
+      -127.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      7.5,
+      -122.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      8.5,
+      -127.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      7.5,
+      -121.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      10.5,
+      -120.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "wait_inventory",
+    "name": "gun-turret",
+    "at": [
+      12,
+      -120
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 10
+  },
+  {
+    "op": "save"
+  }
+]

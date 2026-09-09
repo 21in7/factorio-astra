@@ -1,0 +1,40 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      33.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      34.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      35.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "save"
+  }
+]

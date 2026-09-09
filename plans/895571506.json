@@ -1,0 +1,98 @@
+[
+  {
+    "op": "research",
+    "name": "repair-pack",
+    "_request": "895571506"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 150,
+    "_request": "895571506"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 150,
+    "_request": "895571506"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      8.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 100,
+    "_request": "895571506"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      15.5,
+      19.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 100,
+    "_request": "895571506"
+  },
+  {
+    "op": "wait_research",
+    "name": "repair-pack",
+    "_request": "895571506"
+  },
+  {
+    "op": "craft",
+    "recipe": "repair-pack",
+    "count": 3,
+    "_request": "895571506"
+  },
+  {
+    "op": "research",
+    "name": "battery",
+    "_request": "895571506"
+  },
+  {
+    "op": "walk",
+    "to": [
+      58,
+      -109
+    ],
+    "timeout": 9000,
+    "_request": "895571506"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "895571506"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "_request": "895571506"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "895571506"
+  }
+]

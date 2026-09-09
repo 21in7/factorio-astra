@@ -1,0 +1,79 @@
+[
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100,
+    "_request": "903576237"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 4,
+    "_request": "903576237"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100,
+    "_request": "903576237"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 4,
+    "_request": "903576237"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100,
+    "_request": "903576237"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 4,
+    "_request": "903576237"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "903576237"
+  }
+]

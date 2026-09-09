@@ -1,0 +1,169 @@
+[
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2,
+    "_request": "910111889"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -37,
+      25
+    ],
+    "timeout": 9000,
+    "_request": "910111889"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "910111889"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -43,
+      25
+    ],
+    "_request": "910111889"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -43,
+      25
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 35,
+    "_request": "910111889"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -46,
+      34
+    ],
+    "_request": "910111889"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -46,
+      34
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 35,
+    "_request": "910111889"
+  },
+  {
+    "op": "repair",
+    "name": "steam-engine",
+    "at": [
+      -41.5,
+      38.5
+    ],
+    "_request": "910111889"
+  },
+  {
+    "op": "wait_research",
+    "name": "speed-module",
+    "_request": "910111889",
+    "started": 1900438
+  },
+  {
+    "op": "craft",
+    "recipe": "speed-module",
+    "count": 8,
+    "_request": "910111889"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "910111889"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "910111889"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      46.5,
+      26.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "910111889"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 1,
+    "_request": "910111889"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      46.5,
+      6.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 1,
+    "_request": "910111889"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 1,
+    "_request": "910111889"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 1,
+    "_request": "910111889"
+  },
+  {
+    "op": "research",
+    "name": "productivity-module",
+    "_request": "910111889"
+  },
+  {
+    "op": "save",
+    "_request": "910111889"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 24,
+    "_request": "929985707"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -42.5,
+      -61.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 10,
+    "_request": "929985707"
+  },
+  {
+    "op": "craft",
+    "recipe": "steel-furnace",
+    "count": 4,
+    "_request": "929985707"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "929985707"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      6,
+      -130
+    ],
+    "_request": "929985707"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      10,
+      -130
+    ],
+    "_request": "929985707"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      14,
+      -130
+    ],
+    "_request": "929985707"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      18,
+      -130
+    ],
+    "_request": "929985707"
+  },
+  {
+    "op": "save",
+    "_request": "929985707"
+  }
+]

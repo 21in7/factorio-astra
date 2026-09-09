@@ -1,0 +1,159 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 3
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      54.5,
+      -124.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      58.5,
+      -113.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      58.5,
+      -114.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      58.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -112.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -111.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "save"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -6.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -42.5,
+      -61.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 100
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2
+  },
+  {
+    "op": "craft",
+    "recipe": "piercing-rounds-magazine",
+    "count": 20
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 5
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 3
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "stone-wall",
+    "count": 20
+  },
+  {
+    "op": "wait_crafting"
+  }
+]

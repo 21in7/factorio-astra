@@ -1,0 +1,1261 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -48,
+      -66
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 66
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 5
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "mine",
+    "name": "iron-chest",
+    "at": [
+      -12.5,
+      48.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -47.5,
+      -62.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -61.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -60.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -59.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -58.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -57.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -56.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -55.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -54.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -53.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -52.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -51.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -50.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -49.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -48.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -47.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -46.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -45.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -44.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -43.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -42.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -41.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -40.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -39.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -38.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -37.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -36.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -35.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -34.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -33.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -32.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -31.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -30.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -29.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -28.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -27.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -26.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -25.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -24.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -23.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -22.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -21.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -20.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -19.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -18.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -17.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -16.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -15.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -14.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -13.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -12.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -11.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -10.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -9.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -8.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -7.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -6.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -5.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -4.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -3.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -2.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -1.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      -0.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      0.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      1.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      2.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      3.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      4.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      5.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      6.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      7.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      8.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      9.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      10.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      11.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      12.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      13.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      14.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      15.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      16.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      17.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -47.5,
+      18.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -47.5,
+      23.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      24.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      25.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      26.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      27.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      28.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      29.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      30.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      31.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      32.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      33.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      34.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      35.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      36.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      37.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      38.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      39.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -46.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -45.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -44.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -43.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -42.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -41.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -40.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -39.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -37.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -36.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -35.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -34.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -32.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -31.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -30.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -29.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -28.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -27.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -22.5,
+      40.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -21.5,
+      40.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -16.5,
+      40.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -15.5,
+      40.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -15.5,
+      41.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -15.5,
+      42.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -15.5,
+      47.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -15.5,
+      48.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -15.5,
+      49.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -16.5,
+      49.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -13.5,
+      49.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -12.5,
+      49.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -12.5,
+      48.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "save"
+  }
+]

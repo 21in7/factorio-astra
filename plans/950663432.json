@@ -1,0 +1,376 @@
+[
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 7,
+    "_request": "950663432"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "950663432"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-1",
+    "count": 1,
+    "_request": "950663432"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "950663432"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 6,
+    "_request": "950663432"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "950663432"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1,
+    "_request": "950663432"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "950663432"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 5,
+    "_request": "950663432"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      42.5,
+      -96.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      50.5,
+      -96.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      58.5,
+      -96.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      63.5,
+      -103.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      63.5,
+      -106.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      63.5,
+      -111.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      63.5,
+      -119.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      63.5,
+      -116.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      63.5,
+      -116.5
+    ],
+    "recipe": "firearm-magazine",
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      63.5,
+      -112.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      63.5,
+      -113.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      66.5,
+      -116.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      66.5,
+      -117.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      64.5,
+      -113.5
+    ],
+    "direction": 8,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      64.5,
+      -112.5
+    ],
+    "direction": 8,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      64.5,
+      -111.5
+    ],
+    "direction": 8,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      64.5,
+      -110.5
+    ],
+    "direction": 8,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      64.5,
+      -109.5
+    ],
+    "direction": 8,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      64.5,
+      -108.5
+    ],
+    "direction": 8,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      64.5,
+      -107.5
+    ],
+    "direction": 8,
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      61.5,
+      -112.5
+    ],
+    "direction": 12,
+    "_request": "950663432"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "long-handed-inserter",
+    "at": [
+      61.5,
+      -112.5
+    ],
+    "item": "iron-plate",
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      63.5,
+      -114.5
+    ],
+    "direction": 8,
+    "_request": "950663432"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      63.5,
+      -114.5
+    ],
+    "item": "iron-plate",
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      65.5,
+      -116.5
+    ],
+    "direction": 12,
+    "_request": "950663432"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      65.5,
+      -116.5
+    ],
+    "item": "firearm-magazine",
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      64.5,
+      -114.5
+    ],
+    "direction": 0,
+    "_request": "950663432"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      64.5,
+      -114.5
+    ],
+    "item": "firearm-magazine",
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      66.5,
+      -118.5
+    ],
+    "direction": 8,
+    "_request": "950663432"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      66.5,
+      -118.5
+    ],
+    "item": "firearm-magazine",
+    "_request": "950663432"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      65.5,
+      -107.5
+    ],
+    "direction": 12,
+    "_request": "950663432"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      65.5,
+      -107.5
+    ],
+    "item": "firearm-magazine",
+    "_request": "950663432"
+  },
+  {
+    "op": "save",
+    "_request": "950663432"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 1,
+    "_request": "926519281"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 1,
+    "_request": "926519281"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2,
+    "_request": "926519281"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      54.5,
+      -124.5
+    ],
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      58.5,
+      -124.5
+    ],
+    "_request": "926519281"
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      53.5,
+      -121.5
+    ],
+    "_request": "926519281"
+  },
+  {
+    "op": "mine",
+    "name": "electric-mining-drill",
+    "at": [
+      51.5,
+      -118.5
+    ],
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      52.5,
+      -121.5
+    ],
+    "direction": 8,
+    "_request": "926519281"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      52.5,
+      -121.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      52.5,
+      -119.5
+    ],
+    "direction": 12,
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      51.5,
+      -119.5
+    ],
+    "direction": 8,
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      51.5,
+      -118.5
+    ],
+    "direction": 8,
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      51.5,
+      -117.5
+    ],
+    "direction": 0,
+    "_request": "926519281"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 1,
+    "_request": "926519281"
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      57.5,
+      -121.5
+    ],
+    "_request": "926519281"
+  },
+  {
+    "op": "mine",
+    "name": "electric-mining-drill",
+    "at": [
+      55.5,
+      -118.5
+    ],
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      56.5,
+      -121.5
+    ],
+    "direction": 8,
+    "_request": "926519281"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      56.5,
+      -121.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      56.5,
+      -119.5
+    ],
+    "direction": 12,
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      55.5,
+      -119.5
+    ],
+    "direction": 8,
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      55.5,
+      -118.5
+    ],
+    "direction": 8,
+    "_request": "926519281"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -117.5
+    ],
+    "direction": 0,
+    "_request": "926519281"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 1,
+    "_request": "926519281"
+  },
+  {
+    "op": "save",
+    "_request": "926519281"
+  }
+]

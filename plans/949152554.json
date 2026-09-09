@@ -1,0 +1,88 @@
+[
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      -113,
+      -62
+    ],
+    "_request": "949152554"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -113,
+      -62
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 5,
+    "_request": "949152554"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 1,
+    "_request": "949152554"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "949152554"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -114.5,
+      -60.5
+    ],
+    "direction": 4,
+    "_request": "949152554"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -113.5,
+      -60.5
+    ],
+    "direction": 4,
+    "_request": "949152554"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -112.5,
+      -60.5
+    ],
+    "direction": 4,
+    "_request": "949152554"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      -92,
+      -57
+    ],
+    "_request": "949152554"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "949152554"
+  },
+  {
+    "op": "save",
+    "_request": "949152554"
+  }
+]

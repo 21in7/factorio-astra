@@ -1,0 +1,61 @@
+[
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 5,
+    "_request": "938762738"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "938762738"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -62.5,
+      -110.5
+    ],
+    "_request": "938762738"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -62.5,
+      -103.5
+    ],
+    "_request": "938762738"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -62.5,
+      -96.5
+    ],
+    "_request": "938762738"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -69.5,
+      -97.5
+    ],
+    "_request": "938762738"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -83.5,
+      -99.5
+    ],
+    "_request": "938762738"
+  },
+  {
+    "op": "save",
+    "_request": "938762738"
+  }
+]

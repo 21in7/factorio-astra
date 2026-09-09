@@ -1,0 +1,907 @@
+[
+  {
+    "op": "research",
+    "name": "advanced-material-processing",
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "engine-unit",
+    "count": 5,
+    "_request": "887969173"
+  },
+  {
+    "op": "walk",
+    "to": [
+      33,
+      -94
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      40.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      40.5,
+      -103.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      43.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      42.5,
+      -94.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -105.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -105.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -105.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "887969173"
+  },
+  {
+    "op": "craft",
+    "recipe": "pump",
+    "count": 2,
+    "_request": "887969173"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 60,
+    "_request": "887969173"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe-to-ground",
+    "count": 20,
+    "_request": "887969173"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -20.5,
+      -100
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -103.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -110.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -117.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -124.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -131.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -138.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -145.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -152.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -159.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -27.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -34.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -41.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -48.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -55.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -69.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -76.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -83.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -90.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -97.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -104.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -111.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -118.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -125.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -132.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -139.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -146.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -153.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -160.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -167.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -174.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -181.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -188.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -195.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -202.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -209.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -216.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -223.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -230.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -237.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -244.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -251.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -258.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -265.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -272.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -279.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -286.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -293.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -166.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -173.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -180.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -187.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -194.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -201.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -208.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -215.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -222.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -229.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -236.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -243.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -250.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -257.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -264.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -271.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -278.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -285.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -292.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -299.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -306.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -300.5,
+      -313.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -307.5,
+      -313.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -314.5,
+      -313.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -321.5,
+      -313.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -328.5,
+      -313.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -335.5,
+      -313.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -342.5,
+      -313.5
+    ],
+    "_request": "887969173"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "887969173"
+  }
+]

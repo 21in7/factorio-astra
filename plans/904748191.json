@@ -1,0 +1,58 @@
+[
+  {
+    "op": "build",
+    "name": "roboport",
+    "at": [
+      3,
+      -11
+    ],
+    "_request": "904748191"
+  },
+  {
+    "op": "build",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "_request": "904748191"
+  },
+  {
+    "op": "build",
+    "name": "storage-chest",
+    "at": [
+      5.5,
+      -6.5
+    ],
+    "_request": "904748191"
+  },
+  {
+    "op": "put",
+    "name": "roboport",
+    "at": [
+      3,
+      -11
+    ],
+    "inventory": "roboport_robot",
+    "item": "construction-robot",
+    "count": 5,
+    "_request": "904748191"
+  },
+  {
+    "op": "put",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "inventory": "chest",
+    "item": "repair-pack",
+    "count": 3,
+    "_request": "904748191"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "904748191"
+  }
+]

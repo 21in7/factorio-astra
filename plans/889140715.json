@@ -1,0 +1,845 @@
+[
+  {
+    "op": "craft",
+    "recipe": "lab",
+    "count": 3,
+    "_request": "889140715"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 6,
+    "_request": "889140715"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 10,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "chemical-plant",
+    "at": [
+      -73.5,
+      -103.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -75.5,
+      -105.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -75.5,
+      -99.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -75.5,
+      -100.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -75.5,
+      -101.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -74.5,
+      -101.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -73.5,
+      -106.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -73.5,
+      -105.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -33.5,
+      32.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -43.5,
+      32.5
+    ],
+    "direction": 12,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -44.5,
+      32.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      32.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      31.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      21.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      20.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      19.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      9.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      8.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      7.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -2.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -3.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -4.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -14.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -15.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -16.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -26.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -27.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -28.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -38.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -39.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -40.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -50.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -51.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -52.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -62.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -63.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -64.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -74.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -75.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -76.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -86.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -87.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -88.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -98.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -99.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -100.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -45.5,
+      -101.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -46.5,
+      -101.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -56.5,
+      -101.5
+    ],
+    "direction": 12,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -57.5,
+      -101.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -58.5,
+      -101.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -68.5,
+      -101.5
+    ],
+    "direction": 12,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -69.5,
+      -101.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -70.5,
+      -101.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -71.5,
+      -101.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -72.5,
+      -101.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "walk",
+    "to": [
+      18,
+      20
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      20.5,
+      26.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      20.5,
+      24.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      20.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      24.5,
+      26.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      24.5,
+      24.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      24.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      28.5,
+      26.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      28.5,
+      24.5
+    ],
+    "direction": 0,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      28.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      17.5,
+      26.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      22.5,
+      26.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      26.5,
+      26.5
+    ],
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      13.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      14.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      15.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      16.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      18.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      20.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      22.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      23.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      24.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      25.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      26.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      27.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      28.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "889140715"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "889140715"
+  }
+]

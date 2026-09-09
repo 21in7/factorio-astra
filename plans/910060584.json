@@ -1,0 +1,108 @@
+[
+  {
+    "op": "walk",
+    "to": [
+      -35,
+      36
+    ],
+    "timeout": 9000,
+    "_request": "910060584"
+  },
+  {
+    "op": "wait_research",
+    "name": "speed-module",
+    "_request": "910060584",
+    "started": 1900438
+  },
+  {
+    "op": "craft",
+    "recipe": "speed-module",
+    "count": 8,
+    "_request": "910060584"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "910060584"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "910060584"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      46.5,
+      26.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "910060584"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 1,
+    "_request": "910060584"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      46.5,
+      6.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 1,
+    "_request": "910060584"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 1,
+    "_request": "910060584"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_modules",
+    "item": "speed-module",
+    "count": 1,
+    "_request": "910060584"
+  },
+  {
+    "op": "research",
+    "name": "productivity-module",
+    "_request": "910060584"
+  },
+  {
+    "op": "save",
+    "_request": "910060584"
+  }
+]

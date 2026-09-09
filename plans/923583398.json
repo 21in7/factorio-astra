@@ -1,0 +1,294 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1,
+    "_request": "923583398"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "923583398"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "923583398"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -32.5,
+      -56.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -34.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -35.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -36.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -37.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -39.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -40.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -41.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -42.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -43.5,
+      -53.5
+    ],
+    "direction": 12,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -48.5,
+      -53.5
+    ],
+    "direction": 4,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -49.5,
+      -53.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -49.5,
+      -54.5
+    ],
+    "direction": 4,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -54.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -55.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -56.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -57.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -58.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -59.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -60.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -61.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -62.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -48.5,
+      -63.5
+    ],
+    "direction": 0,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -48.5,
+      -64.5
+    ],
+    "direction": 8,
+    "_request": "923583398"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -32.5,
+      -53.5
+    ],
+    "direction": 4,
+    "_request": "923583398"
+  },
+  {
+    "op": "save",
+    "_request": "923583398"
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 900,
+    "_request": "899766625"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2,
+    "_request": "899766625"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 160,
+    "_request": "899766625"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ],
+    "_request": "899766625"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "_request": "899766625"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "899766625"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      46,
+      -126
+    ],
+    "_request": "899766625"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      46,
+      -126
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 40,
+    "_request": "899766625"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      59,
+      -129
+    ],
+    "_request": "899766625"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      59,
+      -129
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 40,
+    "_request": "899766625"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      53,
+      -125
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "899766625"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "899766625"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "899766625"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "899766625"
+  }
+]

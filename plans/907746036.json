@@ -1,0 +1,44 @@
+[
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 1,
+    "_request": "907746036"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 40,
+    "_request": "907746036"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "907746036"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "_request": "907746036"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 35,
+    "_request": "907746036"
+  },
+  {
+    "op": "save",
+    "_request": "907746036"
+  }
+]

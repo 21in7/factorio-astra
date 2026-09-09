@@ -1,0 +1,344 @@
+[
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": -131.5,
+      "x": -6.5
+    },
+    "tick": 3288773
+  },
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": -131.5,
+      "x": -13.5
+    },
+    "tick": 3289152
+  },
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": -131.5,
+      "x": 0.5
+    },
+    "tick": 3289279
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -6.5
+    },
+    "tick": 3289549
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -8.5
+    },
+    "tick": 3289937
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -7.5
+    },
+    "tick": 3289937
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -9.5
+    },
+    "tick": 3289962
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -4.5
+    },
+    "tick": 3290189
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -5.5
+    },
+    "tick": 3290189
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -122.5,
+      "x": -9.5
+    },
+    "tick": 3290623
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -3.5
+    },
+    "tick": 3290892
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -2.5
+    },
+    "tick": 3290973
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -1.5
+    },
+    "tick": 3291487
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": -0.5
+    },
+    "tick": 3291561
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": 0.5
+    },
+    "tick": 3292093
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": 1.5
+    },
+    "tick": 3292158
+  },
+  {
+    "event": "entity_lost",
+    "name": "electric-mining-drill",
+    "position": {
+      "y": -132.5,
+      "x": 5.5
+    },
+    "tick": 3292405
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": 2.5
+    },
+    "tick": 3292954
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": 3.5
+    },
+    "tick": 3293030
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": 4.5
+    },
+    "tick": 3293829
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -128.5,
+      "x": 5.5
+    },
+    "tick": 3293986
+  },
+  {
+    "event": "entity_lost",
+    "name": "steel-furnace",
+    "position": {
+      "y": -130,
+      "x": 6
+    },
+    "tick": 3294020
+  },
+  {
+    "event": "entity_lost",
+    "name": "iron-chest",
+    "position": {
+      "y": -127.5,
+      "x": 5.5
+    },
+    "tick": 3294146
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -126.5,
+      "x": 5.5
+    },
+    "tick": 3294556
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -124.5,
+      "x": 5.5
+    },
+    "tick": 3294626
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -125.5,
+      "x": 5.5
+    },
+    "tick": 3294773
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": 5.5
+    },
+    "tick": 3294900
+  },
+  {
+    "event": "entity_lost",
+    "name": "iron-chest",
+    "position": {
+      "y": -127.5,
+      "x": 6.5
+    },
+    "tick": 3295046
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -128.5,
+      "x": 6.5
+    },
+    "tick": 3295094
+  },
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": -130.5,
+      "x": 7.5
+    },
+    "tick": 3295701
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -124.5,
+      "x": 6.5
+    },
+    "tick": 3295729
+  },
+  {
+    "event": "entity_lost",
+    "name": "long-handed-inserter",
+    "position": {
+      "y": -125.5,
+      "x": 6.5
+    },
+    "tick": 3295862
+  },
+  {
+    "event": "entity_lost",
+    "name": "underground-belt",
+    "position": {
+      "y": -127.5,
+      "x": 7.5
+    },
+    "tick": 3296111
+  },
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": -126.5,
+      "x": 7.5
+    },
+    "tick": 3296589
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": 6.5
+    },
+    "tick": 3296672
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -124.5,
+      "x": 7.5
+    },
+    "tick": 3296738
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -123.5,
+      "x": 7.5
+    },
+    "tick": 3297000
+  },
+  {
+    "event": "entity_lost",
+    "name": "underground-belt",
+    "position": {
+      "y": -122.5,
+      "x": 7.5
+    },
+    "tick": 3297149
+  }
+]

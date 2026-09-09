@@ -1,0 +1,107 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "915387838"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "915387838"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-1",
+    "count": 1,
+    "_request": "915387838"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 4,
+    "_request": "915387838"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 3,
+    "_request": "915387838"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 3,
+    "_request": "915387838"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 4,
+    "_request": "915387838"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 3,
+    "_request": "915387838"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "915387838"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -43.5,
+      -68.5
+    ],
+    "_request": "915387838"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -43.5,
+      -68.5
+    ],
+    "bar": 5,
+    "_request": "915387838"
+  },
+  {
+    "op": "rotate",
+    "name": "electric-mining-drill",
+    "at": [
+      -43.5,
+      -66.5
+    ],
+    "_request": "915387838"
+  },
+  {
+    "op": "rotate",
+    "name": "electric-mining-drill",
+    "at": [
+      -43.5,
+      -66.5
+    ],
+    "_request": "915387838"
+  },
+  {
+    "op": "save",
+    "_request": "915387838"
+  }
+]

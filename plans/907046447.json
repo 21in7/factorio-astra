@@ -1,0 +1,67 @@
+[
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "907046447"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 12,
+    "_request": "907046447"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "907046447"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 3,
+    "_request": "907046447"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "907046447"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 2,
+    "_request": "907046447"
+  },
+  {
+    "op": "craft",
+    "recipe": "fast-inserter",
+    "count": 5,
+    "_request": "907046447"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 1,
+    "_request": "907046447"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "907046447"
+  }
+]

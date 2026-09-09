@@ -1,0 +1,97 @@
+[
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      50.5,
+      -121.5
+    ],
+    "ticks": 300,
+    "_request": "893989767"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      50.5,
+      -120.5
+    ],
+    "direction": 8,
+    "_request": "893989767"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      50.5,
+      -121.5
+    ],
+    "direction": 8,
+    "_request": "893989767"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      54.5,
+      -121.5
+    ],
+    "ticks": 300,
+    "_request": "893989767"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      54.5,
+      -120.5
+    ],
+    "direction": 8,
+    "_request": "893989767"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      54.5,
+      -121.5
+    ],
+    "direction": 8,
+    "_request": "893989767"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      58.5,
+      -121.5
+    ],
+    "ticks": 300,
+    "_request": "893989767"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      58.5,
+      -120.5
+    ],
+    "direction": 8,
+    "_request": "893989767"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      58.5,
+      -121.5
+    ],
+    "direction": 8,
+    "_request": "893989767"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "893989767"
+  }
+]

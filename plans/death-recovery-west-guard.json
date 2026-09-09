@@ -1,0 +1,282 @@
+[
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      18,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 30
+  },
+  {
+    "op": "equip",
+    "inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 30
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "light-armor",
+    "count": 3
+  },
+  {
+    "op": "equip",
+    "inventory": "character_armor",
+    "item": "light-armor",
+    "count": 1
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "submachine-gun",
+    "count": 3
+  },
+  {
+    "op": "equip",
+    "inventory": "character_guns",
+    "item": "submachine-gun",
+    "count": 1
+  },
+  {
+    "op": "swap_equipment",
+    "inventory": "character_guns",
+    "a": 1,
+    "b": 2
+  },
+  {
+    "op": "select_weapon",
+    "index": 1
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "underground-belt",
+    "count": 1
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "pump",
+    "count": 1
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "stone-brick",
+    "count": 15
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "repair-pack",
+    "count": 1
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "burner-mining-drill",
+    "count": 3
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "stone-furnace",
+    "count": 6
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "productivity-module",
+    "count": 20
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "coal",
+    "count": 97
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "stone",
+    "count": 8
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "iron-ore",
+    "count": 5
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "iron-plate",
+    "count": 115
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "copper-plate",
+    "count": 30
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "plastic-bar",
+    "count": 19
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "automation-science-pack",
+    "count": 5
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "logistic-science-pack",
+    "count": 436
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "pistol",
+    "count": 3
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      -39.05078125,
+      38.8671875
+    ],
+    "inventory": "character_corpse",
+    "item": "firearm-magazine",
+    "count": 5
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -45,
+      35
+    ],
+    "direction": 12
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -45,
+      35
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 10
+  },
+  {
+    "op": "save"
+  }
+]

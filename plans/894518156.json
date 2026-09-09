@@ -1,0 +1,91 @@
+[
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "engine-unit",
+    "count": 20,
+    "_request": "894518156"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "advanced-circuit",
+    "count": 12,
+    "_request": "894518156"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "advanced-circuit",
+    "count": 12,
+    "_request": "894518156"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "advanced-circuit",
+    "count": 12,
+    "_request": "894518156"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "engine-unit",
+    "count": 20,
+    "_request": "894518156"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "advanced-circuit",
+    "count": 36,
+    "_request": "894518156"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 30,
+    "_request": "894518156"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "894518156"
+  }
+]

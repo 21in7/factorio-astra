@@ -1,0 +1,675 @@
+[
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 8,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -158.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -157.5,
+      -164.5
+    ],
+    "direction": 12,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -147.5,
+      -164.5
+    ],
+    "direction": 4,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -146.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -145.5,
+      -164.5
+    ],
+    "direction": 12,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -135.5,
+      -164.5
+    ],
+    "direction": 4,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -134.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -133.5,
+      -164.5
+    ],
+    "direction": 12,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -123.5,
+      -164.5
+    ],
+    "direction": 4,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -122.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -121.5,
+      -164.5
+    ],
+    "direction": 12,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -111.5,
+      -164.5
+    ],
+    "direction": 4,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -110.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -109.5,
+      -164.5
+    ],
+    "direction": 12,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -99.5,
+      -164.5
+    ],
+    "direction": 4,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -98.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -97.5,
+      -164.5
+    ],
+    "direction": 12,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -87.5,
+      -164.5
+    ],
+    "direction": 4,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -86.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -85.5,
+      -164.5
+    ],
+    "direction": 12,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -75.5,
+      -164.5
+    ],
+    "direction": 4,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -74.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -73.5,
+      -164.5
+    ],
+    "direction": 12,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -63.5,
+      -164.5
+    ],
+    "direction": 4,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -62.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -61.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -60.5,
+      -164.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -163.5
+    ],
+    "direction": 0,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -153.5
+    ],
+    "direction": 8,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -60.5,
+      -152.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -151.5
+    ],
+    "direction": 0,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -141.5
+    ],
+    "direction": 8,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -60.5,
+      -140.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -139.5
+    ],
+    "direction": 0,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -129.5
+    ],
+    "direction": 8,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -60.5,
+      -128.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -127.5
+    ],
+    "direction": 0,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -117.5
+    ],
+    "direction": 8,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -60.5,
+      -116.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -115.5
+    ],
+    "direction": 0,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -105.5
+    ],
+    "direction": 8,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -60.5,
+      -104.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -103.5
+    ],
+    "direction": 0,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -60.5,
+      -93.5
+    ],
+    "direction": 8,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -60.5,
+      -92.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -61.5,
+      -92.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -62.5,
+      -92.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -63.5,
+      -92.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -64.5,
+      -92.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -166.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -159.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -152.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -145.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -138.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -131.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -124.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -117.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -110.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -103.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -96.5
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "mine",
+    "name": "big-sand-rock",
+    "at": [
+      -67.0625,
+      -58.0625
+    ],
+    "ticks": 600,
+    "_request": "888462773"
+  },
+  {
+    "op": "craft",
+    "recipe": "stone-furnace",
+    "count": 2,
+    "_request": "888462773"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "888462773"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -70,
+      -92
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      -73,
+      -95
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -73,
+      -95
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 10,
+    "_request": "888462773"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -73,
+      -95
+    ],
+    "inventory": "furnace_source",
+    "item": "stone",
+    "count": 30,
+    "_request": "888462773"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      -76,
+      -95
+    ],
+    "_request": "888462773"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -76,
+      -95
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 10,
+    "_request": "888462773"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -76,
+      -95
+    ],
+    "inventory": "furnace_source",
+    "item": "stone",
+    "count": 30,
+    "_request": "888462773"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "888462773"
+  }
+]

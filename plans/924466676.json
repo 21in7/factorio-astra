@@ -1,0 +1,218 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 7,
+    "_request": "924466676"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "924466676"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1,
+    "_request": "924466676"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "924466676"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -37.5,
+      -76.5
+    ],
+    "direction": 0,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -36.5,
+      -83.5
+    ],
+    "direction": 12,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -37.5,
+      -83.5
+    ],
+    "direction": 12,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -83.5
+    ],
+    "direction": 8,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -82.5
+    ],
+    "direction": 8,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -81.5
+    ],
+    "direction": 8,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -80.5
+    ],
+    "direction": 8,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -79.5
+    ],
+    "direction": 8,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -78.5
+    ],
+    "direction": 8,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -77.5
+    ],
+    "direction": 8,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -76.5
+    ],
+    "direction": 8,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -75.5
+    ],
+    "direction": 8,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -74.5
+    ],
+    "direction": 4,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -37.5,
+      -74.5
+    ],
+    "direction": 4,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -36.5,
+      -74.5
+    ],
+    "direction": 12,
+    "_request": "924466676"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -34.5,
+      -83.5
+    ],
+    "direction": 4,
+    "_request": "924466676"
+  },
+  {
+    "op": "take",
+    "name": "steel-furnace",
+    "at": [
+      -35,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "924466676"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "steel-furnace",
+    "at": [
+      -35,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 5,
+    "_request": "924466676"
+  },
+  {
+    "op": "save",
+    "_request": "924466676"
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 600,
+    "_request": "901039882"
+  },
+  {
+    "op": "craft",
+    "recipe": "electric-mining-drill",
+    "count": 1,
+    "_request": "901039882"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "901039882"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "_request": "901039882"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "_request": "901039882"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "901039882"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "901039882"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "901039882"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "901039882"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "901039882"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "901039882"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "901039882"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "901039882"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "901039882"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "901039882"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "901039882"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "901039882"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 4,
+    "_request": "901039882"
+  },
+  {
+    "op": "craft",
+    "recipe": "chemical-plant",
+    "count": 2,
+    "_request": "901039882"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 45,
+    "_request": "901039882"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "901039882"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -24.5,
+      -49.5
+    ],
+    "_request": "901039882"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -25.5,
+      -52.5
+    ],
+    "direction": 0,
+    "_request": "901039882"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      -54.5
+    ],
+    "direction": 0,
+    "_request": "901039882"
+  },
+  {
+    "op": "put",
+    "name": "boiler",
+    "at": [
+      -33,
+      38.5
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "901039882"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "901039882"
+  }
+]

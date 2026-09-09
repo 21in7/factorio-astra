@@ -1,0 +1,68 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -105.5
+    ],
+    "item": "iron-plate",
+    "count": 300,
+    "_request": "936320243"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 2,
+    "_request": "936320243"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 3,
+    "_request": "936320243"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 2,
+    "_request": "936320243"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "936320243"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -50.5,
+      -63.5
+    ],
+    "item": "stone-brick",
+    "count": 300,
+    "_request": "936320243"
+  },
+  {
+    "op": "craft",
+    "recipe": "stone-wall",
+    "count": 50,
+    "_request": "936320243"
+  },
+  {
+    "op": "craft",
+    "recipe": "piercing-rounds-magazine",
+    "count": 13,
+    "_request": "936320243"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "936320243"
+  },
+  {
+    "op": "save",
+    "_request": "936320243"
+  }
+]

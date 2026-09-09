@@ -1,0 +1,1598 @@
+[
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -119,
+      "x": 63
+    },
+    "id": 7935,
+    "direction": 8,
+    "ghost_name": "gun-turret",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -96.5,
+      "x": -20.5
+    },
+    "id": 8985,
+    "direction": 0,
+    "ghost_name": "small-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -89.5,
+      "x": -20.5
+    },
+    "id": 8988,
+    "direction": 0,
+    "ghost_name": "small-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -84.5,
+      "x": -33.5
+    },
+    "id": 8994,
+    "direction": 8,
+    "ghost_name": "electric-mining-drill",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -84.5,
+      "x": -29.5
+    },
+    "id": 8987,
+    "direction": 8,
+    "ghost_name": "electric-mining-drill",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -84.5,
+      "x": -25.5
+    },
+    "id": 8993,
+    "direction": 8,
+    "ghost_name": "electric-mining-drill",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -82.5,
+      "x": -20.5
+    },
+    "id": 9003,
+    "direction": 0,
+    "ghost_name": "small-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -82,
+      "x": -33
+    },
+    "id": 8999,
+    "direction": 0,
+    "ghost_name": "stone-furnace",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -82,
+      "x": -29
+    },
+    "id": 9000,
+    "direction": 0,
+    "ghost_name": "steel-furnace",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -82,
+      "x": -25
+    },
+    "id": 9001,
+    "direction": 0,
+    "ghost_name": "steel-furnace",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 7.5,
+      "x": 33.5
+    },
+    "id": 8890,
+    "direction": 12,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 7.5,
+      "x": 34.5
+    },
+    "id": 8877,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 7.5,
+      "x": 41.5
+    },
+    "id": 8839,
+    "direction": 0,
+    "ghost_name": "medium-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 6.5,
+      "x": 46.5
+    },
+    "id": 8933,
+    "direction": 0,
+    "ghost_name": "assembling-machine-2",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 8.5,
+      "x": 46.5
+    },
+    "id": 8861,
+    "direction": 0,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 9.5,
+      "x": 46.5
+    },
+    "id": 8846,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 8.5,
+      "x": 49.5
+    },
+    "id": 8921,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 9.5,
+      "x": 49.5
+    },
+    "id": 8884,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 10.5,
+      "x": 46.5
+    },
+    "id": 8850,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 11.5,
+      "x": 46.5
+    },
+    "id": 8837,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 10.5,
+      "x": 49.5
+    },
+    "id": 8881,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 11.5,
+      "x": 49.5
+    },
+    "id": 8875,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 12.5,
+      "x": 49.5
+    },
+    "id": 8893,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 13.5,
+      "x": 49.5
+    },
+    "id": 8858,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 12.5,
+      "x": 48.5
+    },
+    "id": 8853,
+    "direction": 0,
+    "ghost_name": "medium-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 15.5,
+      "x": 49.5
+    },
+    "id": 8866,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 17,
+      "x": 38
+    },
+    "id": 8835,
+    "direction": 12,
+    "ghost_name": "gun-turret",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 17.5,
+      "x": 49.5
+    },
+    "id": 8856,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 16.5,
+      "x": 49.5
+    },
+    "id": 8852,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 18.5,
+      "x": 49.5
+    },
+    "id": 8864,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 19.5,
+      "x": 49.5
+    },
+    "id": 8851,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 18.5,
+      "x": 59.5
+    },
+    "id": 8992,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 19.5,
+      "x": 59.5
+    },
+    "id": 8984,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 20.5,
+      "x": 49.5
+    },
+    "id": 8860,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 21.5,
+      "x": 49.5
+    },
+    "id": 8847,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 21.5,
+      "x": 48.5
+    },
+    "id": 8840,
+    "direction": 0,
+    "ghost_name": "medium-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 20.5,
+      "x": 59.5
+    },
+    "id": 8973,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 21.5,
+      "x": 59.5
+    },
+    "id": 8966,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 23,
+      "x": 45
+    },
+    "id": 6580,
+    "direction": 0,
+    "ghost_name": "gun-turret",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 23.5,
+      "x": 46.5
+    },
+    "id": 8842,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 22.5,
+      "x": 46.5
+    },
+    "id": 8836,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 23.5,
+      "x": 49.5
+    },
+    "id": 8903,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 22.5,
+      "x": 49.5
+    },
+    "id": 8869,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 23.5,
+      "x": 50.5
+    },
+    "id": 8872,
+    "direction": 0,
+    "ghost_name": "medium-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 22.5,
+      "x": 59.5
+    },
+    "id": 8958,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 23.5,
+      "x": 59.5
+    },
+    "id": 8924,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 25.5,
+      "x": 43.5
+    },
+    "id": 8838,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 24.5,
+      "x": 46.5
+    },
+    "id": 8844,
+    "direction": 0,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 25.5,
+      "x": 49.5
+    },
+    "id": 8868,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 24.5,
+      "x": 49.5
+    },
+    "id": 8865,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 25.5,
+      "x": 48.5
+    },
+    "id": 8859,
+    "direction": 4,
+    "ghost_name": "long-handed-inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 25.5,
+      "x": 50.5
+    },
+    "id": 8873,
+    "direction": 0,
+    "ghost_name": "iron-chest",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 25.5,
+      "x": 59.5
+    },
+    "id": 8951,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 24.5,
+      "x": 59.5
+    },
+    "id": 8942,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 27.5,
+      "x": 38.5
+    },
+    "id": 8849,
+    "direction": 0,
+    "ghost_name": "medium-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 27.5,
+      "x": 40.5
+    },
+    "id": 8862,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 26.5,
+      "x": 43.5
+    },
+    "id": 8841,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 26.5,
+      "x": 44.5
+    },
+    "id": 8845,
+    "direction": 12,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 26.5,
+      "x": 46.5
+    },
+    "id": 8857,
+    "direction": 0,
+    "ghost_name": "assembling-machine-2",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 26.5,
+      "x": 49.5
+    },
+    "id": 8914,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 27.5,
+      "x": 49.5
+    },
+    "id": 8878,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 27.5,
+      "x": 59.5
+    },
+    "id": 8947,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 26.5,
+      "x": 59.5
+    },
+    "id": 8936,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 30.5
+    },
+    "id": 8950,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 31.5
+    },
+    "id": 8946,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 32.5
+    },
+    "id": 8941,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 33.5
+    },
+    "id": 8938,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 34.5
+    },
+    "id": 8935,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 35.5
+    },
+    "id": 8929,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 36.5
+    },
+    "id": 8937,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 37.5
+    },
+    "id": 8917,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 40.5
+    },
+    "id": 8874,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 28.5,
+      "x": 40.5
+    },
+    "id": 8871,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 28.5,
+      "x": 43.5
+    },
+    "id": 8848,
+    "direction": 0,
+    "ghost_name": "medium-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 46.5
+    },
+    "id": 8887,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 47.5
+    },
+    "id": 8883,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 28.5,
+      "x": 46.5
+    },
+    "id": 8870,
+    "direction": 0,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 49.5
+    },
+    "id": 8882,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 28.5,
+      "x": 49.5
+    },
+    "id": 8879,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 29.5,
+      "x": 59.5
+    },
+    "id": 8963,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 28.5,
+      "x": 59.5
+    },
+    "id": 8956,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 31.5,
+      "x": 36.5
+    },
+    "id": 8927,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 36.5
+    },
+    "id": 8926,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 37.5
+    },
+    "id": 8909,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 38.5
+    },
+    "id": 8905,
+    "direction": 12,
+    "ghost_name": "underground-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 31.5,
+      "x": 40.5
+    },
+    "id": 8892,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 40.5
+    },
+    "id": 8885,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 43.5
+    },
+    "id": 8897,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 42.5
+    },
+    "id": 8889,
+    "direction": 12,
+    "ghost_name": "underground-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 45.5
+    },
+    "id": 8898,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 44.5
+    },
+    "id": 8894,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 46.5
+    },
+    "id": 8886,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 47.5
+    },
+    "id": 8880,
+    "direction": 12,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 31.5,
+      "x": 49.5
+    },
+    "id": 8888,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 31.5,
+      "x": 59.5
+    },
+    "id": 8981,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 30.5,
+      "x": 59.5
+    },
+    "id": 8971,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 27.5
+    },
+    "id": 8964,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 28.5
+    },
+    "id": 8954,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 29.5
+    },
+    "id": 8952,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 30.5
+    },
+    "id": 8949,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 31.5
+    },
+    "id": 8944,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 32.5
+    },
+    "id": 8940,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 33.5
+    },
+    "id": 8934,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 34.5
+    },
+    "id": 8930,
+    "direction": 4,
+    "ghost_name": "underground-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 36.5
+    },
+    "id": 8925,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 33.5,
+      "x": 36.5
+    },
+    "id": 8922,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 38.5
+    },
+    "id": 8923,
+    "direction": 4,
+    "ghost_name": "underground-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 39.5
+    },
+    "id": 8913,
+    "direction": 4,
+    "ghost_name": "underground-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 33.5,
+      "x": 40.5
+    },
+    "id": 8904,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 40.5
+    },
+    "id": 8900,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 44.5
+    },
+    "id": 8907,
+    "direction": 4,
+    "ghost_name": "underground-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 45.5
+    },
+    "id": 8902,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 46.5
+    },
+    "id": 8901,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 47.5
+    },
+    "id": 8899,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 48.5
+    },
+    "id": 8896,
+    "direction": 4,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 49.5
+    },
+    "id": 8891,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 33.5,
+      "x": 59.5
+    },
+    "id": 8997,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 32.5,
+      "x": 59.5
+    },
+    "id": 8989,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 35.5,
+      "x": 29.5
+    },
+    "id": 8975,
+    "direction": 12,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 35.5,
+      "x": 31.5
+    },
+    "id": 8965,
+    "direction": 0,
+    "ghost_name": "assembling-machine-2",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 35.5,
+      "x": 33.5
+    },
+    "id": 8939,
+    "direction": 12,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 35.5,
+      "x": 34.5
+    },
+    "id": 8932,
+    "direction": 0,
+    "ghost_name": "iron-chest",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 35.5,
+      "x": 35.5
+    },
+    "id": 8931,
+    "direction": 12,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 34.5,
+      "x": 36.5
+    },
+    "id": 8920,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 35.5,
+      "x": 36.5
+    },
+    "id": 8916,
+    "direction": 0,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 35.5,
+      "x": 40.5
+    },
+    "id": 8912,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 34.5,
+      "x": 40.5
+    },
+    "id": 8906,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 35,
+      "x": 43
+    },
+    "id": 8547,
+    "direction": 8,
+    "ghost_name": "gun-turret",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 37.5,
+      "x": 29.5
+    },
+    "id": 8983,
+    "direction": 0,
+    "ghost_name": "small-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 37.5,
+      "x": 31.5
+    },
+    "id": 8980,
+    "direction": 8,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 37.5,
+      "x": 33.5
+    },
+    "id": 8970,
+    "direction": 0,
+    "ghost_name": "small-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 37.5,
+      "x": 40.5
+    },
+    "id": 8910,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": 36.5,
+      "x": 40.5
+    },
+    "id": 8908,
+    "direction": 8,
+    "ghost_name": "transport-belt",
+    "inventories": {}
+  }
+]

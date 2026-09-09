@@ -1,0 +1,374 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "924795233"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 13,
+    "_request": "924795233"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 3,
+    "_request": "924795233"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "924795233"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -33.5,
+      -76.5
+    ],
+    "direction": 0,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -33.5,
+      -81.5
+    ],
+    "direction": 8,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -82.5
+    ],
+    "direction": 0,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -83.5
+    ],
+    "direction": 0,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -84.5
+    ],
+    "direction": 0,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -85.5
+    ],
+    "direction": 0,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -86.5
+    ],
+    "direction": 0,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -32.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -31.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -30.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -29.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -28.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -27.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -26.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -24.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -23.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -22.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -21.5,
+      -87.5
+    ],
+    "direction": 8,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -21.5,
+      -86.5
+    ],
+    "direction": 8,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -21.5,
+      -81.5
+    ],
+    "direction": 0,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -21.5,
+      -80.5
+    ],
+    "direction": 8,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -21.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -21.5,
+      -74.5
+    ],
+    "direction": 12,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -22.5,
+      -74.5
+    ],
+    "direction": 12,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -23.5,
+      -74.5
+    ],
+    "direction": 12,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -24.5,
+      -74.5
+    ],
+    "direction": 12,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      -74.5
+    ],
+    "direction": 12,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -26.5,
+      -74.5
+    ],
+    "direction": 4,
+    "_request": "924795233"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "924795233"
+  },
+  {
+    "op": "take",
+    "name": "steel-furnace",
+    "at": [
+      -28,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "924795233"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "steel-furnace",
+    "at": [
+      -28,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 5,
+    "_request": "924795233"
+  },
+  {
+    "op": "save",
+    "_request": "924795233"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 700,
+    "_request": "900450076"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 3,
+    "_request": "900450076"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 100,
+    "_request": "900450076"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 15,
+    "_request": "900450076"
+  },
+  {
+    "op": "walk",
+    "to": [
+      44,
+      20
+    ],
+    "_request": "900450076"
+  },
+  {
+    "op": "observe",
+    "radius": 220,
+    "_request": "900450076"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -30.5,
+      -61.5
+    ],
+    "_request": "933318769"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1,
+    "_request": "933318769"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "933318769"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -30.5,
+      -61.5
+    ],
+    "direction": 8,
+    "_request": "933318769"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -30.5,
+      -57.5
+    ],
+    "direction": 0,
+    "_request": "933318769"
+  },
+  {
+    "op": "save",
+    "_request": "933318769"
+  }
+]

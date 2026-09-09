@@ -1,0 +1,77 @@
+[
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 80,
+    "_request": "942078887"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "item": "iron-plate",
+    "count": 80,
+    "_request": "942078887"
+  },
+  {
+    "op": "craft",
+    "recipe": "fast-underground-belt",
+    "count": 1,
+    "_request": "942078887"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "942078887"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      -94.5,
+      -64.5
+    ],
+    "_request": "942078887"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      -89.5,
+      -64.5
+    ],
+    "_request": "942078887"
+  },
+  {
+    "op": "build",
+    "name": "fast-underground-belt",
+    "at": [
+      -94.5,
+      -64.5
+    ],
+    "direction": 4,
+    "_request": "942078887"
+  },
+  {
+    "op": "build",
+    "name": "fast-underground-belt",
+    "at": [
+      -89.5,
+      -64.5
+    ],
+    "direction": 12,
+    "_request": "942078887"
+  },
+  {
+    "op": "save",
+    "_request": "942078887"
+  }
+]

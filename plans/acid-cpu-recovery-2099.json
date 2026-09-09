@@ -1,0 +1,418 @@
+[
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -69.5,
+      "x": -96.5
+    },
+    "id": 8188,
+    "direction": 0,
+    "ghost_name": "chemical-plant",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -69.5,
+      "x": -94.5
+    },
+    "id": 8193,
+    "direction": 4,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -69.5,
+      "x": -93.5
+    },
+    "id": 8195,
+    "direction": 0,
+    "ghost_name": "iron-chest",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -66.5,
+      "x": -100.5
+    },
+    "id": 8126,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -66.5,
+      "x": -101.5
+    },
+    "id": 8122,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -66.5,
+      "x": -98.5
+    },
+    "id": 8142,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -66.5,
+      "x": -99.5
+    },
+    "id": 8130,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -67.5,
+      "x": -97.5
+    },
+    "id": 8155,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -66.5,
+      "x": -97.5
+    },
+    "id": 8150,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -65.5,
+      "x": -103.5
+    },
+    "id": 8112,
+    "direction": 0,
+    "ghost_name": "storage-tank",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -65.5,
+      "x": -101.5
+    },
+    "id": 8120,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -64.5,
+      "x": -101.5
+    },
+    "id": 8118,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -64.5,
+      "x": -99.5
+    },
+    "id": 8137,
+    "direction": 0,
+    "ghost_name": "medium-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -65.5,
+      "x": -97.5
+    },
+    "id": 8145,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -63.5,
+      "x": -106.5
+    },
+    "id": 8096,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -62.5,
+      "x": -106.5
+    },
+    "id": 8091,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -63.5,
+      "x": -104.5
+    },
+    "id": 8102,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -63.5,
+      "x": -105.5
+    },
+    "id": 8099,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -63.5,
+      "x": -102.5
+    },
+    "id": 8115,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -63.5,
+      "x": -103.5
+    },
+    "id": 8105,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -63.5,
+      "x": -96.5
+    },
+    "id": 8161,
+    "direction": 0,
+    "ghost_name": "chemical-plant",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -61.5,
+      "x": -106.5
+    },
+    "id": 8086,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -60.5,
+      "x": -104.5
+    },
+    "id": 8180,
+    "direction": 4,
+    "ghost_name": "long-handed-inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -60.5,
+      "x": -102.5
+    },
+    "id": 8173,
+    "direction": 0,
+    "ghost_name": "iron-chest",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -60.5,
+      "x": -96.5
+    },
+    "id": 8169,
+    "direction": 0,
+    "ghost_name": "iron-chest",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -61.5,
+      "x": -96.5
+    },
+    "id": 8165,
+    "direction": 0,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -59.5,
+      "x": -109.5
+    },
+    "id": 8081,
+    "direction": 0,
+    "ghost_name": "iron-chest",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -59.5,
+      "x": -108.5
+    },
+    "id": 8076,
+    "direction": 12,
+    "ghost_name": "fast-inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -59.5,
+      "x": -106.5
+    },
+    "id": 8072,
+    "direction": 0,
+    "ghost_name": "assembling-machine-2",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -59.5,
+      "x": -103.5
+    },
+    "id": 8176,
+    "direction": 0,
+    "ghost_name": "medium-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -57.5,
+      "x": -109.5
+    },
+    "id": 8084,
+    "direction": 0,
+    "ghost_name": "medium-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -57.5,
+      "x": -106.5
+    },
+    "id": 8064,
+    "direction": 0,
+    "ghost_name": "inserter",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -56.5,
+      "x": -106.5
+    },
+    "id": 8061,
+    "direction": 0,
+    "ghost_name": "iron-chest",
+    "inventories": {}
+  }
+]

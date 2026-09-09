@@ -1,0 +1,163 @@
+[
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 2
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 15
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 15
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 15
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-gear-wheel",
+    "count": 40
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 80
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      32.5,
+      23.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      22.5,
+      24.5
+    ]
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      22.5,
+      26.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      26.5,
+      30.5
+    ]
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      26.5,
+      26.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      22.5,
+      26.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      26.5,
+      26.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "steel-plate",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-gear-wheel",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "pipe",
+    "count": 80
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

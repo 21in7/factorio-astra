@@ -1,0 +1,153 @@
+[
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      48,
+      -100
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      48,
+      -96
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 10,
+    "player_inventory": "character_ammo"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -171.625,
+      "x": -58.625
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -175.5,
+      "x": -65.25
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -171.875,
+      "x": -73.1875
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -166.4375,
+      "x": -76.5
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -160.1875,
+      "x": -92.125
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -158.875,
+      "x": -94.0625
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -158.0625,
+      "x": -97.25
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -142.8125,
+      "x": -101.9375
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -132.625,
+      "x": -94.1875
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -130.375,
+      "x": -94.1875
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -128.4375,
+      "x": -92.375
+    },
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": 50.9375,
+      "x": -91.5
+    },
+    "ticks": 300
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 8
+  },
+  {
+    "op": "walk",
+    "to": [
+      48,
+      -94
+    ]
+  }
+]

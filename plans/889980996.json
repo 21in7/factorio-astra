@@ -1,0 +1,51 @@
+[
+  {
+    "op": "put",
+    "name": "wooden-chest",
+    "at": [
+      -9.5,
+      32.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 200,
+    "_request": "889980996"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 200,
+    "_request": "889980996"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 200,
+    "_request": "889980996"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -85,
+      -108
+    ],
+    "_request": "889980996"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "889980996"
+  }
+]

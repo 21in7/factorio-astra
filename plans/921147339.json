@@ -1,0 +1,94 @@
+[
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      18.5,
+      66.5
+    ],
+    "_request": "921147339"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      66.5
+    ],
+    "_request": "921147339"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      66.5
+    ],
+    "direction": 8,
+    "_request": "921147339"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      67.5
+    ],
+    "direction": 12,
+    "_request": "921147339"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      18.5,
+      66.5
+    ],
+    "direction": 8,
+    "_request": "921147339"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      2.5,
+      18.5
+    ],
+    "direction": 0,
+    "_request": "921147339"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      65.5
+    ],
+    "bar": 2,
+    "_request": "921147339"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "921147339"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "921147339"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      1.5,
+      18.5
+    ],
+    "direction": 0,
+    "_request": "921147339"
+  },
+  {
+    "op": "save",
+    "_request": "921147339"
+  }
+]

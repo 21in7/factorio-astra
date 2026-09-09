@@ -1,0 +1,103 @@
+[
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      -91.5,
+      -55.5
+    ],
+    "_request": "949475475"
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -53.5
+    ],
+    "_request": "949475475"
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      -90.5,
+      -52.5
+    ],
+    "_request": "949475475"
+  },
+  {
+    "op": "craft",
+    "recipe": "fast-inserter",
+    "count": 3,
+    "_request": "949475475"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "949475475"
+  },
+  {
+    "op": "build",
+    "name": "fast-inserter",
+    "at": [
+      -91.5,
+      -55.5
+    ],
+    "direction": 12,
+    "_request": "949475475"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "fast-inserter",
+    "at": [
+      -91.5,
+      -55.5
+    ],
+    "item": "iron-plate",
+    "_request": "949475475"
+  },
+  {
+    "op": "build",
+    "name": "fast-inserter",
+    "at": [
+      -89.5,
+      -53.5
+    ],
+    "direction": 0,
+    "_request": "949475475"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "fast-inserter",
+    "at": [
+      -89.5,
+      -53.5
+    ],
+    "item": "electronic-circuit",
+    "_request": "949475475"
+  },
+  {
+    "op": "build",
+    "name": "fast-inserter",
+    "at": [
+      -90.5,
+      -52.5
+    ],
+    "direction": 4,
+    "_request": "949475475"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "fast-inserter",
+    "at": [
+      -90.5,
+      -52.5
+    ],
+    "item": "electronic-circuit",
+    "_request": "949475475"
+  },
+  {
+    "op": "save",
+    "_request": "949475475"
+  }
+]

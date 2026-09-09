@@ -1,0 +1,415 @@
+[
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 80,
+    "_request": "888599985"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "888599985"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -73,
+      -95
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 10,
+    "_request": "888599985"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -76,
+      -95
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 10,
+    "_request": "888599985"
+  },
+  {
+    "op": "craft",
+    "recipe": "oil-refinery",
+    "count": 2,
+    "_request": "888599985"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "oil-refinery",
+    "at": [
+      -65.5,
+      -95.5
+    ],
+    "direction": 0,
+    "_request": "888599985"
+  },
+  {
+    "op": "recipe",
+    "name": "oil-refinery",
+    "at": [
+      -65.5,
+      -95.5
+    ],
+    "recipe": "basic-oil-processing",
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "oil-refinery",
+    "at": [
+      -81.5,
+      -95.5
+    ],
+    "direction": 0,
+    "_request": "888599985"
+  },
+  {
+    "op": "recipe",
+    "name": "oil-refinery",
+    "at": [
+      -81.5,
+      -95.5
+    ],
+    "recipe": "basic-oil-processing",
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -69.5,
+      -97.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -76.5,
+      -99.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -83.5,
+      -99.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -65.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -66.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -67.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -68.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -69.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -70.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -71.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -72.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -73.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -74.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -75.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -76.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -77.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -78.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -79.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -80.5,
+      -92.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -63.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -64.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -65.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -66.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -67.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -68.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -69.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -70.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -71.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -72.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -73.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -74.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -75.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -76.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -77.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -78.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -79.5,
+      -98.5
+    ],
+    "_request": "888599985"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "888599985"
+  }
+]

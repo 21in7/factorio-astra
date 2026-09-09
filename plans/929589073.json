@@ -1,0 +1,559 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "929589073"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "929589073"
+  },
+  {
+    "op": "craft",
+    "recipe": "electric-mining-drill",
+    "count": 4,
+    "_request": "929589073"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 12,
+    "_request": "929589073"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 4,
+    "_request": "929589073"
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 6,
+    "_request": "929589073"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -13.5,
+      -131.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -6.5,
+      -131.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      0.5,
+      -131.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      7.5,
+      -130.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      7.5,
+      -126.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      6.0,
+      -130
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      5.5,
+      -132.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      5.5,
+      -127.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      5.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      6.5,
+      -127.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      6.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      5.5,
+      -128.5
+    ],
+    "direction": 0,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      6.5,
+      -128.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      6.5,
+      -125.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      11.5,
+      -130.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      11.5,
+      -126.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      10.0,
+      -130
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      9.5,
+      -132.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      9.5,
+      -127.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      9.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      10.5,
+      -127.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      10.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      9.5,
+      -128.5
+    ],
+    "direction": 0,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      10.5,
+      -128.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      10.5,
+      -125.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      15.5,
+      -130.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      15.5,
+      -126.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      14.0,
+      -130
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      13.5,
+      -132.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      13.5,
+      -127.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      13.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      -127.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      13.5,
+      -128.5
+    ],
+    "direction": 0,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      14.5,
+      -128.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      14.5,
+      -125.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      19.5,
+      -130.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      19.5,
+      -126.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      18.0,
+      -130
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      17.5,
+      -132.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      17.5,
+      -127.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      17.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      -127.5
+    ],
+    "_request": "929589073"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      17.5,
+      -128.5
+    ],
+    "direction": 0,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      18.5,
+      -128.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      18.5,
+      -125.5
+    ],
+    "direction": 8,
+    "_request": "929589073"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      5.5,
+      -127.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 1,
+    "_request": "929589073"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      9.5,
+      -127.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 1,
+    "_request": "929589073"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      13.5,
+      -127.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 1,
+    "_request": "929589073"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      17.5,
+      -127.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 1,
+    "_request": "929589073"
+  },
+  {
+    "op": "save",
+    "_request": "929589073"
+  }
+]

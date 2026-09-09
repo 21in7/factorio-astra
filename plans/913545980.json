@@ -1,0 +1,552 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      14.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 50,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -113,
+      -62
+    ],
+    "_request": "913545980"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -113,
+      -62
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 20,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -91,
+      -65
+    ],
+    "_request": "913545980"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -91,
+      -65
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 20,
+    "_request": "913545980"
+  },
+  {
+    "op": "craft",
+    "recipe": "chemical-plant",
+    "count": 2,
+    "_request": "913545980"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 3,
+    "_request": "913545980"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 5,
+    "_request": "913545980"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 16,
+    "_request": "913545980"
+  },
+  {
+    "op": "craft",
+    "recipe": "storage-tank",
+    "count": 1,
+    "_request": "913545980"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 3,
+    "_request": "913545980"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1,
+    "_request": "913545980"
+  },
+  {
+    "op": "craft",
+    "recipe": "fast-inserter",
+    "count": 1,
+    "_request": "913545980"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 1,
+    "_request": "913545980"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -73.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 250,
+    "_request": "913545980"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -69.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -94.5,
+      -69.5
+    ],
+    "direction": 4,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -93.5,
+      -69.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -100.5,
+      -66.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -101.5,
+      -66.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -98.5,
+      -66.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -99.5,
+      -66.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -67.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -66.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "storage-tank",
+    "at": [
+      -103.5,
+      -65.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -101.5,
+      -65.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -101.5,
+      -64.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -99.5,
+      -64.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -65.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -106.5,
+      -63.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -106.5,
+      -62.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -104.5,
+      -63.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -105.5,
+      -63.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -102.5,
+      -63.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -103.5,
+      -63.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -63.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -106.5,
+      -61.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -104.5,
+      -60.5
+    ],
+    "direction": 4,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -102.5,
+      -60.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -60.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -96.5,
+      -61.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -109.5,
+      -59.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "fast-inserter",
+    "at": [
+      -108.5,
+      -59.5
+    ],
+    "direction": 12,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      -106.5,
+      -59.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -103.5,
+      -59.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -109.5,
+      -57.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -106.5,
+      -57.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -106.5,
+      -56.5
+    ],
+    "direction": 0,
+    "_request": "913545980"
+  },
+  {
+    "op": "recipe",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -69.5
+    ],
+    "recipe": "sulfuric-acid",
+    "_request": "913545980"
+  },
+  {
+    "op": "recipe",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -63.5
+    ],
+    "recipe": "battery",
+    "_request": "913545980"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-2",
+    "at": [
+      -106.5,
+      -59.5
+    ],
+    "recipe": "processing-unit",
+    "_request": "913545980"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 250,
+    "_request": "913545980"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -93.5,
+      -69.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "913545980"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -109.5,
+      -59.5
+    ],
+    "inventory": "chest",
+    "item": "electronic-circuit",
+    "count": 150,
+    "_request": "913545980"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -102.5,
+      -60.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 20,
+    "_request": "913545980"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -106.5,
+      -56.5
+    ],
+    "inventory": "chest",
+    "item": "processing-unit",
+    "count": 1,
+    "_request": "913545980"
+  },
+  {
+    "op": "save",
+    "_request": "913545980"
+  }
+]

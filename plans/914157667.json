@@ -1,0 +1,298 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 1,
+    "_request": "914157667"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      8.5,
+      26.5
+    ],
+    "inventory": "lab_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      12.5,
+      26.5
+    ],
+    "inventory": "lab_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      16.5,
+      26.5
+    ],
+    "inventory": "lab_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      20.5,
+      26.5
+    ],
+    "inventory": "lab_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      24.5,
+      26.5
+    ],
+    "inventory": "lab_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      28.5,
+      26.5
+    ],
+    "inventory": "lab_modules",
+    "item": "speed-module",
+    "count": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "transport-belt",
+    "count": 7,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -2.5,
+      8.5
+    ],
+    "direction": 0,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      0.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -3.5,
+      9.5
+    ],
+    "direction": 12,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -2.5,
+      9.5
+    ],
+    "direction": 4,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      9.5
+    ],
+    "direction": 4,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -0.5,
+      9.5
+    ],
+    "direction": 8,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -0.5,
+      11.5
+    ],
+    "direction": 0,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      12.5
+    ],
+    "direction": 4,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      0.5,
+      12.5
+    ],
+    "direction": 4,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      1.5,
+      12.5
+    ],
+    "direction": 0,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      1.5,
+      11.5
+    ],
+    "direction": 4,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      2.5,
+      11.5
+    ],
+    "direction": 4,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      2.5,
+      12.5
+    ],
+    "direction": 0,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      2.5,
+      16.5
+    ],
+    "direction": 0,
+    "_request": "914157667"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      17.5
+    ],
+    "direction": 0,
+    "_request": "914157667"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      17.5
+    ],
+    "bar": 2,
+    "_request": "914157667"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      17.5
+    ],
+    "inventory": "chest",
+    "item": "productivity-module",
+    "count": 1,
+    "_request": "914157667"
+  },
+  {
+    "op": "save",
+    "_request": "914157667"
+  }
+]

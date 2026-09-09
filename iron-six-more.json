@@ -1,0 +1,331 @@
+[
+  {
+    "op": "walk",
+    "to": [
+      42,
+      -113
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      53.5,
+      -103.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      53.5,
+      -107.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      49.5,
+      -107.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      53.5,
+      -111.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      53.5,
+      -115.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      49.5,
+      -115.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      47.5,
+      -110.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      48.0,
+      -108.0
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48.0,
+      -108.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      47.5,
+      -106.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -105.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      51.5,
+      -110.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      52.0,
+      -108.0
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52.0,
+      -108.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      51.5,
+      -106.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -105.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      55.5,
+      -110.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      56.0,
+      -108.0
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56.0,
+      -108.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -106.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -105.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      47.5,
+      -118.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      48.0,
+      -116.0
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48.0,
+      -116.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      47.5,
+      -114.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -113.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      51.5,
+      -118.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      52.0,
+      -116.0
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52.0,
+      -116.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      51.5,
+      -114.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      55.5,
+      -118.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      56.0,
+      -116.0
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56.0,
+      -116.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -114.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ]
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

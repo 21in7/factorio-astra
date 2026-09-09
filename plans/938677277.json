@@ -1,0 +1,48 @@
+[
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -17.5,
+      43.5
+    ],
+    "item": "advanced-circuit",
+    "_request": "938677277"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "long-handed-inserter",
+    "at": [
+      -14.5,
+      43.5
+    ],
+    "item": "advanced-circuit",
+    "_request": "938677277"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -16.5,
+      43.5
+    ],
+    "item": "plastic-bar",
+    "count": 52,
+    "_request": "938677277"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      -4.5,
+      14.5
+    ],
+    "item": "plastic-bar",
+    "count": 80,
+    "_request": "938677277"
+  },
+  {
+    "op": "save",
+    "_request": "938677277"
+  }
+]

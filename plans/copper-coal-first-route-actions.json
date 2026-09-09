@@ -1,0 +1,147 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 50
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 3
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -12.5,
+      -79.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -82.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -14.5,
+      -82.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -14.5,
+      -81.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -14.5,
+      -76.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -14.5,
+      -75.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -14.5,
+      -74.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -15.5,
+      -74.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -11.5,
+      -82.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "take",
+    "name": "steel-furnace",
+    "at": [
+      -17,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100
+  },
+  {
+    "op": "wait_inventory",
+    "name": "steel-furnace",
+    "at": [
+      -17,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 5
+  },
+  {
+    "op": "save"
+  }
+]

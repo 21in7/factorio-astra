@@ -1,0 +1,55 @@
+[
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200,
+    "_request": "901413023"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 4,
+    "_request": "901413023"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200,
+    "_request": "901413023"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 4,
+    "_request": "901413023"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "901413023"
+  }
+]

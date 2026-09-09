@@ -1,0 +1,329 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 300
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 300
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 300
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 60
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ]
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 40
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ]
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      42,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      53,
+      -125
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20
+  },
+  {
+    "op": "research",
+    "name": "electric-energy-distribution-1"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 5
+  },
+  {
+    "op": "walk",
+    "to": [
+      3,
+      49
+    ],
+    "timeout": 9000
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -3.5,
+      46.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -3.5,
+      41.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      1.5,
+      47.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      0.5,
+      47.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      47.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      47.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -2.5,
+      47.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -3.5,
+      47.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      47.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -5.5,
+      47.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      46.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      43.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ]
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "bar": 3
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      46.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      43.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ]
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "bar": 3
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      1.5,
+      46.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      1.5,
+      43.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ]
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "bar": 3
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

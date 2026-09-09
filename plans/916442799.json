@@ -1,0 +1,45 @@
+[
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      50,
+      15
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 16,
+    "_request": "916442799"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      50,
+      25
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 16,
+    "_request": "916442799"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      50,
+      35
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 16,
+    "_request": "916442799"
+  },
+  {
+    "op": "save",
+    "_request": "916442799"
+  }
+]

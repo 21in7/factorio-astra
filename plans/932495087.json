@@ -1,0 +1,104 @@
+[
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      12,
+      -120
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 15,
+    "_request": "932495087"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "gun-turret",
+    "at": [
+      12,
+      -120
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 10,
+    "_request": "932495087"
+  },
+  {
+    "op": "take",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "932495087"
+  },
+  {
+    "op": "take",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "932495087"
+  },
+  {
+    "op": "take",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "932495087"
+  },
+  {
+    "op": "take",
+    "at": [
+      -42.5,
+      -61.5
+    ],
+    "item": "stone-brick",
+    "count": 40,
+    "_request": "932495087"
+  },
+  {
+    "op": "craft",
+    "recipe": "electric-mining-drill",
+    "count": 2,
+    "_request": "932495087"
+  },
+  {
+    "op": "craft",
+    "recipe": "steel-furnace",
+    "count": 2,
+    "_request": "932495087"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 30,
+    "_request": "932495087"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1,
+    "_request": "932495087"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 2,
+    "_request": "932495087"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "932495087"
+  },
+  {
+    "op": "save",
+    "_request": "932495087"
+  }
+]

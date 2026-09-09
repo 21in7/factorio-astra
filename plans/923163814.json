@@ -1,0 +1,57 @@
+[
+  {
+    "op": "research_focus",
+    "name": "landfill",
+    "_request": "923163814"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      11.5,
+      65.5
+    ],
+    "inventory": "chest",
+    "item": "stone",
+    "count": 50,
+    "_request": "923163814"
+  },
+  {
+    "op": "wait_research",
+    "name": "landfill",
+    "_request": "923163814"
+  },
+  {
+    "op": "craft",
+    "recipe": "landfill",
+    "count": 1,
+    "_request": "923163814"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "923163814"
+  },
+  {
+    "op": "build",
+    "name": "landfill",
+    "at": [
+      -16.5,
+      48.5
+    ],
+    "_request": "923163814"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -16.5,
+      48.5
+    ],
+    "direction": 8,
+    "_request": "923163814"
+  },
+  {
+    "op": "save",
+    "_request": "923163814"
+  }
+]

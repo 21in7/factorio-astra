@@ -1,0 +1,302 @@
+[
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2,
+    "_request": "895335417"
+  },
+  {
+    "op": "craft",
+    "recipe": "fast-inserter",
+    "count": 1,
+    "_request": "895335417"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1,
+    "_request": "895335417"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-gear-wheel",
+    "count": 30,
+    "_request": "895335417"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 60,
+    "_request": "895335417"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "furnace_result",
+    "item": "steel-plate",
+    "count": 10,
+    "_request": "895335417"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "furnace_result",
+    "item": "steel-plate",
+    "count": 10,
+    "_request": "895335417"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "furnace_result",
+    "item": "steel-plate",
+    "count": 10,
+    "_request": "895335417"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "895335417"
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      24.5,
+      5.5
+    ],
+    "ticks": 300,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "fast-inserter",
+    "at": [
+      24.5,
+      5.5
+    ],
+    "direction": 12,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      34.5,
+      20.5
+    ],
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      22.5,
+      15.5
+    ],
+    "direction": 12,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      23.5,
+      15.5
+    ],
+    "direction": 0,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      23.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      24.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      25.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      26.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      27.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      28.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      29.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      30.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      31.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      32.5,
+      14.5
+    ],
+    "direction": 4,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      33.5,
+      14.5
+    ],
+    "direction": 8,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      33.5,
+      15.5
+    ],
+    "direction": 8,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      33.5,
+      20.5
+    ],
+    "direction": 0,
+    "_request": "895335417"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      33.5,
+      21.5
+    ],
+    "direction": 0,
+    "_request": "895335417"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "steel-plate",
+    "count": 30,
+    "_request": "895335417"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-gear-wheel",
+    "count": 30,
+    "_request": "895335417"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "pipe",
+    "count": 60,
+    "_request": "895335417"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "895335417"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      22.75,
+      55.8125
+    ],
+    "_request": "917714642"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      19.9375,
+      57.5625
+    ],
+    "_request": "917714642"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      22.4375,
+      59.4375
+    ],
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      59.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      58.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      57.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      56.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      55.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      54.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      53.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      52.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      45.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      44.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      43.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      42.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      41.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      40.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      39.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      38.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      37.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      36.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      35.5
+    ],
+    "direction": 0,
+    "_request": "917714642"
+  },
+  {
+    "op": "wait_research",
+    "name": "productivity-module-2",
+    "_request": "917714642"
+  },
+  {
+    "op": "research_focus",
+    "name": "productivity-module-3",
+    "_request": "917714642"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "lab",
+    "at": [
+      20.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "production-science-pack",
+    "count": 1,
+    "_request": "917714642"
+  },
+  {
+    "op": "save",
+    "_request": "917714642"
+  }
+]

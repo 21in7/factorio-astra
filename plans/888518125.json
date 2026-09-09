@@ -1,0 +1,211 @@
+[
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -159.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -152.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -145.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -138.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -131.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -124.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -117.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -110.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -103.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -62.5,
+      -96.5
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "mine",
+    "name": "big-sand-rock",
+    "at": [
+      -111.9375,
+      -131.1875
+    ],
+    "ticks": 600,
+    "_request": "888518125"
+  },
+  {
+    "op": "mine",
+    "name": "big-sand-rock",
+    "at": [
+      -115.5,
+      -126
+    ],
+    "ticks": 600,
+    "_request": "888518125"
+  },
+  {
+    "op": "mine",
+    "name": "big-sand-rock",
+    "at": [
+      -67.0625,
+      -58.0625
+    ],
+    "ticks": 600,
+    "_request": "888518125"
+  },
+  {
+    "op": "craft",
+    "recipe": "stone-furnace",
+    "count": 2,
+    "_request": "888518125"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "888518125"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -70,
+      -92
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      -73,
+      -95
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -73,
+      -95
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 10,
+    "_request": "888518125"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -73,
+      -95
+    ],
+    "inventory": "furnace_source",
+    "item": "stone",
+    "count": 30,
+    "_request": "888518125"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      -76,
+      -95
+    ],
+    "_request": "888518125"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -76,
+      -95
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 10,
+    "_request": "888518125"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -76,
+      -95
+    ],
+    "inventory": "furnace_source",
+    "item": "stone",
+    "count": 30,
+    "_request": "888518125"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "888518125"
+  }
+]

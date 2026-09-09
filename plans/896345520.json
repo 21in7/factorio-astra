@@ -1,0 +1,185 @@
+[
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -40.5
+    ],
+    "_request": "896345520"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 4,
+    "_request": "896345520"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -50.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -49.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -48.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -47.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -46.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -45.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -44.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -43.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -42.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -41.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -40.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -39.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -38.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -37.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      -36.5
+    ],
+    "direction": 8,
+    "_request": "896345520"
+  },
+  {
+    "op": "repair",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -47.5
+    ],
+    "_request": "896345520"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "896345520"
+  }
+]

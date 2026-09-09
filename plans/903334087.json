@@ -1,0 +1,77 @@
+[
+  {
+    "op": "craft",
+    "recipe": "copper-cable",
+    "count": 68,
+    "_request": "903334087"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -81.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "plastic-bar",
+    "count": 300,
+    "_request": "903334087"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "903334087"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100,
+    "_request": "903334087"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100,
+    "_request": "903334087"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100,
+    "_request": "903334087"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200,
+    "_request": "903334087"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "903334087"
+  }
+]

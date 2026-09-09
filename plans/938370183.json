@@ -1,0 +1,129 @@
+[
+  {
+    "op": "craft",
+    "recipe": "electric-mining-drill",
+    "count": 3,
+    "_request": "938370183"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "938370183"
+  },
+  {
+    "op": "craft",
+    "recipe": "steel-furnace",
+    "count": 3,
+    "_request": "938370183"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "938370183"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 4,
+    "_request": "938370183"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      0.5,
+      -131.5
+    ],
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      7.5,
+      -130.5
+    ],
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      11.5,
+      -130.5
+    ],
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      15.5,
+      -130.5
+    ],
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      6,
+      -130
+    ],
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      10,
+      -130
+    ],
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      14,
+      -130
+    ],
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      5.5,
+      -132.5
+    ],
+    "direction": 8,
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      9.5,
+      -132.5
+    ],
+    "direction": 8,
+    "_request": "938370183"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      13.5,
+      -132.5
+    ],
+    "direction": 8,
+    "_request": "938370183"
+  },
+  {
+    "op": "save",
+    "_request": "938370183"
+  }
+]

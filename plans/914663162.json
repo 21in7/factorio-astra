@@ -1,0 +1,282 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "914663162"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "914663162"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      14.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 70,
+    "_request": "914663162"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 3,
+    "_request": "914663162"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2,
+    "_request": "914663162"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 3,
+    "_request": "914663162"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 2,
+    "_request": "914663162"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "914663162"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      -12.5,
+      44.5
+    ],
+    "direction": 0,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -15.5,
+      43.5
+    ],
+    "direction": 0,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -10.5,
+      47.5
+    ],
+    "direction": 0,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -8.5,
+      41.5
+    ],
+    "direction": 4,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -10.5,
+      41.5
+    ],
+    "direction": 12,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -11.5,
+      41.5
+    ],
+    "direction": 12,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -12.5,
+      41.5
+    ],
+    "direction": 12,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -12.5,
+      42.5
+    ],
+    "direction": 0,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -16.5,
+      43.5
+    ],
+    "direction": 0,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -14.5,
+      43.5
+    ],
+    "direction": 12,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -12.5,
+      48.5
+    ],
+    "direction": 0,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -12.5,
+      46.5
+    ],
+    "direction": 8,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -10.5,
+      44.5
+    ],
+    "direction": 12,
+    "_request": "914663162"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -9.5,
+      44.5
+    ],
+    "direction": 0,
+    "_request": "914663162"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      -12.5,
+      44.5
+    ],
+    "recipe": "electric-furnace",
+    "_request": "914663162"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -16.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 100,
+    "_request": "914663162"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -12.5,
+      48.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 140,
+    "_request": "914663162"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -9.5,
+      44.5
+    ],
+    "bar": 2,
+    "_request": "914663162"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -9.5,
+      44.5
+    ],
+    "inventory": "chest",
+    "item": "electric-furnace",
+    "count": 1,
+    "_request": "914663162"
+  },
+  {
+    "op": "wait_research",
+    "name": "logistics-2",
+    "_request": "914663162"
+  },
+  {
+    "op": "research_focus",
+    "name": "railway",
+    "_request": "914663162"
+  },
+  {
+    "op": "save",
+    "_request": "914663162"
+  }
+]

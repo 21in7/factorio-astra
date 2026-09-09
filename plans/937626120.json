@@ -1,0 +1,82 @@
+[
+  {
+    "op": "mine",
+    "name": "pipe",
+    "at": [
+      -91.5,
+      -92.5
+    ],
+    "_request": "937626120"
+  },
+  {
+    "op": "mine",
+    "name": "pipe-to-ground",
+    "at": [
+      -90.5,
+      -92.5
+    ],
+    "_request": "937626120"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -91.5,
+      -92.5
+    ],
+    "direction": 12,
+    "_request": "937626120"
+  },
+  {
+    "op": "mine",
+    "name": "flamethrower-turret",
+    "at": [
+      -90.5,
+      -91
+    ],
+    "_request": "937626120"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -96.5,
+      -89.5
+    ],
+    "direction": 12,
+    "_request": "937626120"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -92.5,
+      -89.5
+    ],
+    "direction": 4,
+    "_request": "937626120"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -91.5,
+      -89.5
+    ],
+    "_request": "937626120"
+  },
+  {
+    "op": "build",
+    "name": "flamethrower-turret",
+    "at": [
+      -90.5,
+      -91
+    ],
+    "direction": 4,
+    "_request": "937626120"
+  },
+  {
+    "op": "save",
+    "_request": "937626120"
+  }
+]

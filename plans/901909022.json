@@ -1,0 +1,178 @@
+[
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "901909022"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "_request": "901909022"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "_request": "901909022"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "901909022"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "901909022"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "901909022"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "901909022"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "901909022"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "901909022"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "901909022"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "901909022"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "901909022"
+  },
+  {
+    "op": "craft",
+    "recipe": "flying-robot-frame",
+    "count": 5,
+    "_request": "901909022"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 100,
+    "_request": "901909022"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "901909022"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 50,
+    "_request": "901909022"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 50,
+    "_request": "901909022"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "901909022"
+  }
+]

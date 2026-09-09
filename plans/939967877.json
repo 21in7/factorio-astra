@@ -1,0 +1,90 @@
+[
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1,
+    "_request": "939967877"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 1,
+    "_request": "939967877"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "939967877"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -111.5,
+      -67.5
+    ],
+    "_request": "939967877"
+  },
+  {
+    "op": "rotate",
+    "name": "transport-belt",
+    "at": [
+      -111.5,
+      -66.5
+    ],
+    "_request": "939967877"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -110.5,
+      -66.5
+    ],
+    "direction": 4,
+    "_request": "939967877"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -109.5,
+      -66.5
+    ],
+    "direction": 0,
+    "_request": "939967877"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -109.5,
+      -67.5
+    ],
+    "direction": 0,
+    "_request": "939967877"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -111.5,
+      -67.5
+    ],
+    "direction": 4,
+    "_request": "939967877"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "long-handed-inserter",
+    "at": [
+      -111.5,
+      -67.5
+    ],
+    "item": "steel-plate",
+    "_request": "939967877"
+  },
+  {
+    "op": "save",
+    "_request": "939967877"
+  }
+]

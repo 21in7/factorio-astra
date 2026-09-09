@@ -1,0 +1,361 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 250,
+    "_request": "887651759"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "887651759"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "887651759"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "887651759"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 250,
+    "_request": "887651759"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "887651759"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "887651759"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "887651759"
+  },
+  {
+    "op": "craft",
+    "recipe": "pumpjack",
+    "count": 4,
+    "_request": "887651759"
+  },
+  {
+    "op": "craft",
+    "recipe": "boiler",
+    "count": 1,
+    "_request": "887651759"
+  },
+  {
+    "op": "craft",
+    "recipe": "steam-engine",
+    "count": 2,
+    "_request": "887651759"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 3,
+    "_request": "887651759"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "887651759"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe-to-ground",
+    "count": 55,
+    "_request": "887651759"
+  },
+  {
+    "op": "walk",
+    "to": [
+      33,
+      -94
+    ],
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      40,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      43,
+      -103
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      46,
+      -106
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      43,
+      -97
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48,
+      -108
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52,
+      -108
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56,
+      -108
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48,
+      -116
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52,
+      -116
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56,
+      -116
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "id": 287,
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "id": 469,
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "887651759"
+  },
+  {
+    "op": "put",
+    "id": 477,
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "887651759"
+  },
+  {
+    "op": "walk",
+    "to": [
+      20,
+      10
+    ],
+    "_request": "887651759"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "887651759"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "engine-unit",
+    "count": 5,
+    "_request": "887651759"
+  },
+  {
+    "op": "craft",
+    "recipe": "pump",
+    "count": 2,
+    "_request": "887651759"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "887651759"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "887651759"
+  }
+]

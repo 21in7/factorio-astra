@@ -1,0 +1,90 @@
+[
+  {
+    "op": "walk",
+    "to": [
+      -30.5,
+      -79
+    ],
+    "_request": "932787540"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -29,
+      -82
+    ],
+    "_request": "932787540"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -25,
+      -82
+    ],
+    "_request": "932787540"
+  },
+  {
+    "op": "put",
+    "name": "boiler",
+    "at": [
+      -33,
+      38.5
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "932787540"
+  },
+  {
+    "op": "take",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "932787540"
+  },
+  {
+    "op": "take",
+    "at": [
+      24.5,
+      35.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "932787540"
+  },
+  {
+    "op": "take",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "932787540"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 4,
+    "_request": "932787540"
+  },
+  {
+    "op": "craft",
+    "recipe": "piercing-rounds-magazine",
+    "count": 20,
+    "_request": "932787540"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "932787540"
+  },
+  {
+    "op": "save",
+    "_request": "932787540"
+  }
+]

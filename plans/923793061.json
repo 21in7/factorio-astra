@@ -1,0 +1,90 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -17.5,
+      -55.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 600,
+    "_request": "923793061"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -29,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "923793061"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -25,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "923793061"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -35,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "923793061"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -31,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "923793061"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -28,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "923793061"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -17,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "923793061"
+  },
+  {
+    "op": "save",
+    "_request": "923793061"
+  }
+]

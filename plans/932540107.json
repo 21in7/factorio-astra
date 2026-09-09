@@ -1,0 +1,506 @@
+[
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -32.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -31.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -30.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -29.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -28.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -27.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -26.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -24.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -23.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -22.5,
+      -87.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -21.5,
+      -87.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -86.5
+    ],
+    "direction": 0,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -32.5,
+      -86.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -31.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -30.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -29.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -28.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -27.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -26.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -24.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -23.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -22.5,
+      -86.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -21.5,
+      -86.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -85.5
+    ],
+    "direction": 0,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -32.5,
+      -85.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -84.5
+    ],
+    "direction": 0,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -32.5,
+      -84.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -29.5,
+      -84.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -25.5,
+      -84.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -22.5,
+      -84.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -83.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -37.5,
+      -83.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -36.5,
+      -83.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -34.5,
+      -83.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -83.5
+    ],
+    "direction": 0,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -32.5,
+      -83.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -38.5,
+      -82.5
+    ],
+    "direction": 8,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -33.5,
+      -82.5
+    ],
+    "direction": 0,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -32.5,
+      -82.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -31.5,
+      -82.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -30.5,
+      -82.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -23.5,
+      -82.5
+    ],
+    "direction": 4,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -22.5,
+      -82.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -21.5,
+      -82.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -20.5,
+      -82.5
+    ],
+    "direction": 12,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -29,
+      -82
+    ],
+    "direction": 0,
+    "_request": "932540107"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -25,
+      -82
+    ],
+    "direction": 0,
+    "_request": "932540107"
+  },
+  {
+    "op": "save",
+    "_request": "932540107"
+  }
+]

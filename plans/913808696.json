@@ -1,0 +1,180 @@
+[
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      -106.5,
+      -59.5
+    ],
+    "direction": 0,
+    "_request": "913808696"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -103.5,
+      -59.5
+    ],
+    "direction": 0,
+    "_request": "913808696"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -109.5,
+      -57.5
+    ],
+    "direction": 0,
+    "_request": "913808696"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -106.5,
+      -57.5
+    ],
+    "direction": 0,
+    "_request": "913808696"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -106.5,
+      -56.5
+    ],
+    "direction": 0,
+    "_request": "913808696"
+  },
+  {
+    "op": "recipe",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -69.5
+    ],
+    "recipe": "sulfuric-acid",
+    "_request": "913808696"
+  },
+  {
+    "op": "recipe",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -63.5
+    ],
+    "recipe": "battery",
+    "_request": "913808696"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-2",
+    "at": [
+      -106.5,
+      -59.5
+    ],
+    "recipe": "processing-unit",
+    "_request": "913808696"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 250,
+    "_request": "913808696"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -93.5,
+      -69.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "913808696"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -109.5,
+      -59.5
+    ],
+    "inventory": "chest",
+    "item": "electronic-circuit",
+    "count": 150,
+    "_request": "913808696"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -102.5,
+      -60.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 20,
+    "_request": "913808696"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -106.5,
+      -56.5
+    ],
+    "inventory": "chest",
+    "item": "processing-unit",
+    "count": 1,
+    "_request": "913808696"
+  },
+  {
+    "op": "save",
+    "_request": "913808696"
+  },
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      38,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 10,
+    "_request": "913808696"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      38,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 20,
+    "_request": "913808696"
+  },
+  {
+    "op": "research_focus",
+    "name": "logistics-2",
+    "_request": "913808696"
+  },
+  {
+    "op": "save",
+    "_request": "913808696"
+  }
+]

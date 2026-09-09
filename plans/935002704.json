@@ -1,0 +1,286 @@
+[
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      5.5,
+      -132.5
+    ],
+    "direction": 8,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -13.5,
+      -131.5
+    ],
+    "direction": 0,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -6.5,
+      -131.5
+    ],
+    "direction": 0,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      0.5,
+      -131.5
+    ],
+    "direction": 0,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      6,
+      -130
+    ],
+    "direction": 0,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      5.5,
+      -128.5
+    ],
+    "direction": 0,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      5.5,
+      -127.5
+    ],
+    "direction": 0,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      5.5,
+      -126.5
+    ],
+    "direction": 0,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      5.5,
+      -125.5
+    ],
+    "direction": 8,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      5.5,
+      -124.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -9.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -8.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -7.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -6.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -5.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -3.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -2.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      0.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      1.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      2.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      3.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      4.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      5.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "935002704"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -9.5,
+      -122.5
+    ],
+    "direction": 0,
+    "_request": "935002704"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      5.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "935002704"
+  },
+  {
+    "op": "save",
+    "_request": "935002704"
+  }
+]

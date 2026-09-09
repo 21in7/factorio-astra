@@ -1,0 +1,114 @@
+[
+  {
+    "op": "research_focus",
+    "name": "productivity-module",
+    "_request": "913301725"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      42,
+      -110
+    ],
+    "_request": "913301725"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      53,
+      -125
+    ],
+    "_request": "913301725"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      37,
+      -88
+    ],
+    "_request": "913301725"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 300,
+    "_request": "913301725"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 300,
+    "_request": "913301725"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 4,
+    "_request": "913301725"
+  },
+  {
+    "op": "craft",
+    "recipe": "piercing-rounds-magazine",
+    "count": 35,
+    "_request": "913301725"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -73.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 400,
+    "_request": "913301725"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      32.5,
+      20.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 200,
+    "_request": "913301725"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      50.5,
+      25.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 200,
+    "_request": "913301725"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "913301725"
+  },
+  {
+    "op": "save",
+    "_request": "913301725"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "event": "entity_lost",
+    "name": "gun-turret",
+    "position": {
+      "y": -120,
+      "x": 67
+    },
+    "tick": 3308893
+  },
+  {
+    "event": "entity_lost",
+    "name": "gun-turret",
+    "position": {
+      "y": -113,
+      "x": 67
+    },
+    "tick": 3309091
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -105.5,
+      "x": 59.5
+    },
+    "tick": 3309475
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -104.5,
+      "x": 59.5
+    },
+    "tick": 3309840
+  },
+  {
+    "event": "entity_lost",
+    "name": "underground-belt",
+    "position": {
+      "y": -105.5,
+      "x": 58.5
+    },
+    "tick": 3310198
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -106.5,
+      "x": 58.5
+    },
+    "tick": 3310545
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -104.5,
+      "x": 58.5
+    },
+    "tick": 3310902
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -103.5,
+      "x": 59.5
+    },
+    "tick": 3311259
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -102.5,
+      "x": 59.5
+    },
+    "tick": 3311618
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -107.5,
+      "x": 58.5
+    },
+    "tick": 3311810
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -121.5,
+      "x": 69.5
+    },
+    "tick": 3314554
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -122.5,
+      "x": 69.5
+    },
+    "tick": 3314817
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -120.5,
+      "x": 69.5
+    },
+    "tick": 3315146
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -118.5,
+      "x": 69.5
+    },
+    "tick": 3316127
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -123.5,
+      "x": 69.5
+    },
+    "tick": 3316496
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -119.5,
+      "x": 69.5
+    },
+    "tick": 3317369
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -124.5,
+      "x": 69.5
+    },
+    "tick": 3317475
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -117.5,
+      "x": 69.5
+    },
+    "tick": 3317530
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -116.5,
+      "x": 69.5
+    },
+    "tick": 3318517
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -124.5,
+      "x": 68.5
+    },
+    "tick": 3319289
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -115.5,
+      "x": 69.5
+    },
+    "tick": 3319622
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -114.5,
+      "x": 69.5
+    },
+    "tick": 3320369
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -124.5,
+      "x": 67.5
+    },
+    "tick": 3321143
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -113.5,
+      "x": 69.5
+    },
+    "tick": 3321487
+  },
+  {
+    "event": "entity_lost",
+    "name": "long-handed-inserter",
+    "position": {
+      "y": -118.5,
+      "x": 66.5
+    },
+    "tick": 3321674
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": 35.5,
+      "x": 54.5
+    },
+    "tick": 3321744
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -124.5,
+      "x": 65.5
+    },
+    "tick": 3321804
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -116.5,
+      "x": 65.5
+    },
+    "tick": 3322023
+  },
+  {
+    "event": "entity_lost",
+    "name": "iron-chest",
+    "position": {
+      "y": -116.5,
+      "x": 66.5
+    },
+    "tick": 3322301
+  },
+  {
+    "event": "entity_lost",
+    "name": "long-handed-inserter",
+    "position": {
+      "y": -114.5,
+      "x": 66.5
+    },
+    "tick": 3322313
+  },
+  {
+    "event": "entity_lost",
+    "name": "gun-turret",
+    "position": {
+      "y": 35,
+      "x": 52
+    },
+    "tick": 3322475
+  },
+  {
+    "event": "entity_lost",
+    "name": "medium-electric-pole",
+    "position": {
+      "y": -115.5,
+      "x": 65.5
+    },
+    "tick": 3322576
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -112.5,
+      "x": 63.5
+    },
+    "tick": 3323112
+  },
+  {
+    "event": "entity_lost",
+    "name": "assembling-machine-1",
+    "position": {
+      "y": -116.5,
+      "x": 63.5
+    },
+    "tick": 3323631
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -114.5,
+      "x": 63.5
+    },
+    "tick": 3323836
+  },
+  {
+    "event": "entity_lost",
+    "name": "long-handed-inserter",
+    "position": {
+      "y": -112.5,
+      "x": 61.5
+    },
+    "tick": 3323909
+  },
+  {
+    "event": "entity_lost",
+    "name": "medium-electric-pole",
+    "position": {
+      "y": -115.5,
+      "x": 61.5
+    },
+    "tick": 3324021
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -112.5,
+      "x": 69.5
+    },
+    "tick": 3324096
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -111.5,
+      "x": 69.5
+    },
+    "tick": 3324331
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -124.5,
+      "x": 66.5
+    },
+    "tick": 3324744
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -109.5,
+      "x": 69.5
+    },
+    "tick": 3325042
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -108.5,
+      "x": 69.5
+    },
+    "tick": 3325573
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -107.5,
+      "x": 69.5
+    },
+    "tick": 3326160
+  },
+  {
+    "event": "entity_lost",
+    "name": "stone-wall",
+    "position": {
+      "y": -106.5,
+      "x": 69.5
+    },
+    "tick": 3329722
+  },
+  {
+    "event": "entity_lost",
+    "name": "electric-mining-drill",
+    "position": {
+      "y": -132.5,
+      "x": 9.5
+    },
+    "tick": 3343437
+  },
+  {
+    "event": "entity_lost",
+    "name": "electric-mining-drill",
+    "position": {
+      "y": -132.5,
+      "x": 5.5
+    },
+    "tick": 3344098
+  },
+  {
+    "event": "entity_lost",
+    "name": "medium-electric-pole",
+    "position": {
+      "y": -131.5,
+      "x": 0.5
+    },
+    "tick": 3345247
+  },
+  {
+    "event": "entity_lost",
+    "name": "electric-mining-drill",
+    "position": {
+      "y": -132.5,
+      "x": 13.5
+    },
+    "tick": 3345768
+  },
+  {
+    "event": "entity_lost",
+    "name": "gun-turret",
+    "position": {
+      "y": -126,
+      "x": 46
+    },
+    "tick": 3345924
+  },
+  {
+    "event": "entity_lost",
+    "name": "medium-electric-pole",
+    "position": {
+      "y": -130.5,
+      "x": 7.5
+    },
+    "tick": 3346027
+  },
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": -130.5,
+      "x": 11.5
+    },
+    "tick": 3346692
+  },
+  {
+    "event": "entity_lost",
+    "name": "steel-furnace",
+    "position": {
+      "y": -130,
+      "x": 10
+    },
+    "tick": 3347736
+  },
+  {
+    "event": "entity_lost",
+    "name": "steel-furnace",
+    "position": {
+      "y": -130,
+      "x": 6
+    },
+    "tick": 3347864
+  },
+  {
+    "event": "entity_lost",
+    "name": "steel-furnace",
+    "position": {
+      "y": -130,
+      "x": 14
+    },
+    "tick": 3349030
+  },
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": -130.5,
+      "x": 15.5
+    },
+    "tick": 3349685
+  }
+]

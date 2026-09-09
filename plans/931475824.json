@@ -1,0 +1,42 @@
+[
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      -120.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "firearm-magazine",
+    "count": 1,
+    "_request": "931475824"
+  },
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      12,
+      -120
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 15,
+    "_request": "931475824"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "gun-turret",
+    "at": [
+      12,
+      -120
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 10,
+    "_request": "931475824"
+  },
+  {
+    "op": "save",
+    "_request": "931475824"
+  }
+]

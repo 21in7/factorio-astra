@@ -1,0 +1,67 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "911602113"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "911602113"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 40,
+    "_request": "911602113"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "911602113"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 3,
+    "_request": "911602113"
+  },
+  {
+    "op": "craft",
+    "recipe": "piercing-rounds-magazine",
+    "count": 60,
+    "_request": "911602113"
+  },
+  {
+    "op": "craft",
+    "recipe": "stone-wall",
+    "count": 24,
+    "_request": "911602113"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "911602113"
+  }
+]

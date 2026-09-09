@@ -1,0 +1,81 @@
+[
+  {
+    "op": "craft",
+    "recipe": "pipe-to-ground",
+    "count": 1,
+    "_request": "938829102"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "938829102"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 5,
+    "_request": "938829102"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "938829102"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -80.5,
+      -98.5
+    ],
+    "direction": 4,
+    "_request": "938829102"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -79.5,
+      -98.5
+    ],
+    "_request": "938829102"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -79.5,
+      -99.5
+    ],
+    "_request": "938829102"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -79.5,
+      -100.5
+    ],
+    "_request": "938829102"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -79.5,
+      -101.5
+    ],
+    "_request": "938829102"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -80.5,
+      -101.5
+    ],
+    "_request": "938829102"
+  },
+  {
+    "op": "save",
+    "_request": "938829102"
+  }
+]

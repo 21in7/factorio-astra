@@ -1,0 +1,129 @@
+[
+  {
+    "op": "walk",
+    "to": [
+      -335,
+      -322
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -322.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -321.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -320.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -319.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -318.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -317.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -316.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -315.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -314.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -313.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -312.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -311.5
+    ],
+    "_request": "888245062"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 60,
+    "_request": "888245062"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "888245062"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "op": "craft",
+    "recipe": "pipe-to-ground",
+    "count": 13
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 9
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -90.5,
+      -89.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -80.5,
+      -89.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -79.5,
+      -89.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -69.5,
+      -89.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -68.5,
+      -89.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -58.5,
+      -89.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -57.5,
+      -89.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -57.5,
+      -90.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -57.5,
+      -100.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -57.5,
+      -101.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -57.5,
+      -111.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -57.5,
+      -112.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -57.5,
+      -122.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -57.5,
+      -123.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -57.5,
+      -133.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -57.5,
+      -134.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -56.5,
+      -134.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -46.5,
+      -134.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -45.5,
+      -134.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -35.5,
+      -134.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -34.5,
+      -134.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -24.5,
+      -134.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -23.5,
+      -134.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -13.5,
+      -134.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -12.5,
+      -134.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -2.5,
+      -134.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -1.5,
+      -134.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      8.5,
+      -134.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      9.5,
+      -134.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      10.5,
+      -134.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      11.5,
+      -134.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      11.5,
+      -135.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      11.5,
+      -136.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      11.5,
+      -137.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      11.5,
+      -138.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "flamethrower-turret",
+    "at": [
+      13,
+      -139.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "save"
+  }
+]

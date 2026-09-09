@@ -1,0 +1,362 @@
+[
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": 1.5,
+      "x": 52.5
+    },
+    "tick": 1697838
+  },
+  {
+    "event": "entity_lost",
+    "name": "medium-electric-pole",
+    "position": {
+      "y": -2.5,
+      "x": 49.5
+    },
+    "tick": 1697841
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -3.5,
+      "x": 46.5
+    },
+    "tick": 1698050
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 51.5
+    },
+    "tick": 1698104
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 52.5
+    },
+    "tick": 1698276
+  },
+  {
+    "event": "entity_lost",
+    "name": "long-handed-inserter",
+    "position": {
+      "y": 0.5,
+      "x": 47.5
+    },
+    "tick": 1698301
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 55.5
+    },
+    "tick": 1698328
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 54.5
+    },
+    "tick": 1698330
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 53.5
+    },
+    "tick": 1698578
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 50.5
+    },
+    "tick": 1698629
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -4.5,
+      "x": 45.5
+    },
+    "tick": 1699309
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 49.5
+    },
+    "tick": 1699541
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -3.5,
+      "x": 44.5
+    },
+    "tick": 1699705
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 48.5
+    },
+    "tick": 1699750
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 56.5
+    },
+    "tick": 1699789
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -4.5,
+      "x": 46.5
+    },
+    "tick": 1699959
+  },
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": 1.5,
+      "x": 57.5
+    },
+    "tick": 1700329
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -2.5,
+      "x": 44.5
+    },
+    "tick": 1700368
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 47.5
+    },
+    "tick": 1700501
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -4.5,
+      "x": 44.5
+    },
+    "tick": 1700589
+  },
+  {
+    "event": "entity_lost",
+    "name": "assembling-machine-1",
+    "position": {
+      "y": -1.5,
+      "x": 46.5
+    },
+    "tick": 1700913
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 57.5
+    },
+    "tick": 1701086
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -1.5,
+      "x": 44.5
+    },
+    "tick": 1701320
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -4.5,
+      "x": 43.5
+    },
+    "tick": 1701373
+  },
+  {
+    "event": "entity_lost",
+    "name": "fast-inserter",
+    "position": {
+      "y": 2.5,
+      "x": 58.5
+    },
+    "tick": 1701893
+  },
+  {
+    "event": "entity_lost",
+    "name": "underground-belt",
+    "position": {
+      "y": -0.5,
+      "x": 44.5
+    },
+    "tick": 1701919
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -5.5,
+      "x": 44.5
+    },
+    "tick": 1702170
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 2.5,
+      "x": 59.5
+    },
+    "tick": 1702688
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -4.5,
+      "x": 42.5
+    },
+    "tick": 1702946
+  },
+  {
+    "event": "entity_lost",
+    "name": "assembling-machine-1",
+    "position": {
+      "y": -1.5,
+      "x": 42.5
+    },
+    "tick": 1703434
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 1.5,
+      "x": 59.5
+    },
+    "tick": 1703480
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -3.5,
+      "x": 42.5
+    },
+    "tick": 1703590
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": 0.5,
+      "x": 59.5
+    },
+    "tick": 1704243
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -0.5,
+      "x": 59.5
+    },
+    "tick": 1705030
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -1.5,
+      "x": 59.5
+    },
+    "tick": 1705800
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -2.5,
+      "x": 59.5
+    },
+    "tick": 1706575
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -3.5,
+      "x": 59.5
+    },
+    "tick": 1707348
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -4.5,
+      "x": 59.5
+    },
+    "tick": 1708128
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -5.5,
+      "x": 59.5
+    },
+    "tick": 1708910
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -6.5,
+      "x": 59.5
+    },
+    "tick": 1709688
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "op": "walk",
+    "to": [
+      -16,
+      28
+    ]
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -12,
+      28
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "player_inventory": "character_ammo"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -4,
+      28
+    ]
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      30.5
+    ],
+    "ticks": 120
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      29.5
+    ],
+    "ticks": 120
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      30.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -2.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -3.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -5.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -6.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -7.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -8.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -9.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -10.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -11.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -12.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -14.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -15.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -16.5,
+      29.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -17.5,
+      29.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -17.5,
+      30.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -17.5,
+      31.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -17.5,
+      32.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -17.5,
+      33.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -18.5,
+      32.5
+    ]
+  },
+  {
+    "op": "put",
+    "name": "wooden-chest",
+    "at": [
+      -9.5,
+      32.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 80
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 20
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

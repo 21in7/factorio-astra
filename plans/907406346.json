@@ -1,0 +1,166 @@
+[
+  {
+    "op": "build",
+    "name": "burner-mining-drill",
+    "at": [
+      -43,
+      -66
+    ],
+    "direction": 8,
+    "_request": "907406346"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      -43,
+      -64
+    ],
+    "_request": "907406346"
+  },
+  {
+    "op": "put",
+    "name": "burner-mining-drill",
+    "at": [
+      -43,
+      -66
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "907406346"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -43,
+      -64
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "907406346"
+  },
+  {
+    "op": "build",
+    "name": "burner-mining-drill",
+    "at": [
+      -48,
+      -68
+    ],
+    "direction": 8,
+    "_request": "907406346"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      -48,
+      -66
+    ],
+    "_request": "907406346"
+  },
+  {
+    "op": "put",
+    "name": "burner-mining-drill",
+    "at": [
+      -48,
+      -68
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "907406346"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -48,
+      -66
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "907406346"
+  },
+  {
+    "op": "build",
+    "name": "burner-mining-drill",
+    "at": [
+      -51,
+      -68
+    ],
+    "direction": 8,
+    "_request": "907406346"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      -51,
+      -66
+    ],
+    "_request": "907406346"
+  },
+  {
+    "op": "put",
+    "name": "burner-mining-drill",
+    "at": [
+      -51,
+      -68
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "907406346"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -51,
+      -66
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "907406346"
+  },
+  {
+    "op": "save",
+    "_request": "907406346"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "907406346"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 60,
+    "_request": "907406346"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "907406346"
+  }
+]

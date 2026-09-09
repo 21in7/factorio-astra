@@ -1,0 +1,118 @@
+[
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      45.5,
+      -100.5
+    ],
+    "_request": "948715416"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      42.5,
+      -96.5
+    ],
+    "_request": "948715416"
+  },
+  {
+    "op": "mine",
+    "name": "medium-electric-pole",
+    "at": [
+      48.5,
+      -100.5
+    ],
+    "_request": "948715416"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      48.5,
+      -100.5
+    ],
+    "_request": "948715416"
+  },
+  {
+    "op": "walk",
+    "to": [
+      44,
+      -104
+    ],
+    "_request": "948715416"
+  },
+  {
+    "op": "walk",
+    "to": [
+      52,
+      -104
+    ],
+    "_request": "948715416"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -102.5
+    ],
+    "direction": 0,
+    "_request": "948715416"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -102.5
+    ],
+    "item": "iron-ore",
+    "_request": "948715416"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      56.5,
+      -102.5
+    ],
+    "direction": 0,
+    "_request": "948715416"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "long-handed-inserter",
+    "at": [
+      56.5,
+      -102.5
+    ],
+    "item": "coal",
+    "_request": "948715416"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -99.5
+    ],
+    "direction": 0,
+    "_request": "948715416"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -99.5
+    ],
+    "item": "iron-plate",
+    "_request": "948715416"
+  },
+  {
+    "op": "save",
+    "_request": "948715416"
+  }
+]

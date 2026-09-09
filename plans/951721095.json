@@ -1,0 +1,64 @@
+[
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "951721095"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "951721095"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      18.5,
+      25.5
+    ],
+    "_request": "951721095"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      18.5,
+      26.5
+    ],
+    "_request": "951721095"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      18.5,
+      26.5
+    ],
+    "direction": 0,
+    "_request": "951721095"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      18.5,
+      25.5
+    ],
+    "direction": 4,
+    "_request": "951721095"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      18.5,
+      25.5
+    ],
+    "item": "utility-science-pack",
+    "_request": "951721095"
+  },
+  {
+    "op": "save",
+    "_request": "951721095"
+  }
+]

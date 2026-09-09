@@ -1,0 +1,113 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "895660984"
+  },
+  {
+    "op": "put",
+    "name": "wooden-chest",
+    "at": [
+      -9.5,
+      32.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "895660984"
+  },
+  {
+    "op": "wait_research",
+    "name": "repair-pack",
+    "_request": "895660984"
+  },
+  {
+    "op": "craft",
+    "recipe": "repair-pack",
+    "count": 3,
+    "_request": "895660984"
+  },
+  {
+    "op": "research",
+    "name": "battery",
+    "_request": "895660984"
+  },
+  {
+    "op": "walk",
+    "to": [
+      58,
+      -109
+    ],
+    "timeout": 9000,
+    "_request": "895660984"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "895660984"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "_request": "895660984"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "895660984"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      42,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "895660984"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "895660984"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      53,
+      -125
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "895660984"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "895660984"
+  }
+]

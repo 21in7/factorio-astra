@@ -1,0 +1,46 @@
+[
+  {
+    "op": "research_focus",
+    "name": "speed-module",
+    "_request": "909870056"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      9.5
+    ],
+    "inventory": "chest",
+    "item": "electronic-circuit",
+    "count": 40,
+    "_request": "909870056"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      14.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 40,
+    "_request": "909870056"
+  },
+  {
+    "op": "wait_research",
+    "name": "speed-module",
+    "_request": "909870056"
+  },
+  {
+    "op": "craft",
+    "recipe": "speed-module",
+    "count": 8,
+    "_request": "909870056"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "909870056"
+  }
+]

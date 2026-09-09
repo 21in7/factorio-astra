@@ -1,0 +1,220 @@
+[
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-1",
+    "count": 3
+  },
+  {
+    "op": "craft",
+    "recipe": "electronic-circuit",
+    "count": 90
+  },
+  {
+    "op": "craft",
+    "recipe": "copper-cable",
+    "count": 180
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -81.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "plastic-bar",
+    "count": 180
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -73.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 100
+  },
+  {
+    "op": "walk",
+    "to": [
+      23,
+      21
+    ],
+    "timeout": 9000
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      22.5,
+      21.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      29.5,
+      21.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "recipe": "advanced-circuit"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "electronic-circuit",
+    "count": 30
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 60
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 120
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "recipe": "advanced-circuit"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "electronic-circuit",
+    "count": 30
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 60
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 120
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "recipe": "advanced-circuit"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "electronic-circuit",
+    "count": 30
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 60
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 120
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 3,
+    "_request": "917865863"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "917865863"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "917865863"
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      10.5,
+      26.5
+    ],
+    "_request": "917865863"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      9.5,
+      24.5
+    ],
+    "_request": "917865863"
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      14.5,
+      26.5
+    ],
+    "_request": "917865863"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      15.5,
+      24.5
+    ],
+    "_request": "917865863"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      18.5,
+      24.5
+    ],
+    "_request": "917865863"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      18.5,
+      26.5
+    ],
+    "direction": 4,
+    "_request": "917865863"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      14.5,
+      26.5
+    ],
+    "direction": 4,
+    "_request": "917865863"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      10.5,
+      26.5
+    ],
+    "direction": 4,
+    "_request": "917865863"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "lab",
+    "at": [
+      8.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "production-science-pack",
+    "count": 1,
+    "_request": "917865863"
+  },
+  {
+    "op": "save",
+    "_request": "917865863"
+  }
+]

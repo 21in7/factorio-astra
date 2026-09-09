@@ -1,0 +1,90 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -17.5,
+      -55.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 200,
+    "_request": "921774933"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -5.5,
+      41.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 50,
+    "_request": "921774933"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -2.5,
+      41.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 50,
+    "_request": "921774933"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      0.5,
+      41.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 50,
+    "_request": "921774933"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -5.5,
+      56.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 50,
+    "_request": "921774933"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -2.5,
+      56.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 50,
+    "_request": "921774933"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      0.5,
+      56.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 50,
+    "_request": "921774933"
+  },
+  {
+    "op": "save",
+    "_request": "921774933"
+  }
+]

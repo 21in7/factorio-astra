@@ -1,0 +1,167 @@
+[
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ]
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ]
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ]
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "reverse": true
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 10
+  },
+  {
+    "op": "craft",
+    "recipe": "oil-refinery",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "storage-tank",
+    "count": 4
+  },
+  {
+    "op": "craft",
+    "recipe": "chemical-plant",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 3
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe-to-ground",
+    "count": 10
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 30
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

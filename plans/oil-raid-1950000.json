@@ -1,0 +1,470 @@
+[
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -100.5,
+      "x": -92.5
+    },
+    "tick": 1947070
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -105.5,
+      "x": -87.5
+    },
+    "tick": 1947316
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -100.5,
+      "x": -93.5
+    },
+    "tick": 1947608
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -104.5,
+      "x": -87.5
+    },
+    "tick": 1948092
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -99.5,
+      "x": -93.5
+    },
+    "tick": 1948141
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -98.5,
+      "x": -93.5
+    },
+    "tick": 1948680
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -103.5,
+      "x": -87.5
+    },
+    "tick": 1948865
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -98.5,
+      "x": -94.5
+    },
+    "tick": 1949223
+  },
+  {
+    "event": "entity_lost",
+    "name": "gun-turret",
+    "position": {
+      "y": -110,
+      "x": 63
+    },
+    "tick": 1949480
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -106.5,
+      "x": -87.5
+    },
+    "tick": 1949647
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -98.5,
+      "x": -95.5
+    },
+    "tick": 1949766
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -107.5,
+      "x": -87.5
+    },
+    "tick": 1950444
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe-to-ground",
+    "position": {
+      "y": -97.5,
+      "x": -95.5
+    },
+    "tick": 1950544
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -108.5,
+      "x": -87.5
+    },
+    "tick": 1951228
+  },
+  {
+    "event": "entity_lost",
+    "name": "underground-belt",
+    "position": {
+      "y": -108.5,
+      "x": -86.5
+    },
+    "tick": 1952006
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -107.5,
+      "x": -84.5
+    },
+    "tick": 1952795
+  },
+  {
+    "event": "entity_lost",
+    "name": "storage-tank",
+    "position": {
+      "y": -99.5,
+      "x": -90.5
+    },
+    "tick": 1953076
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -108.5,
+      "x": -84.5
+    },
+    "tick": 1953572
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -98.5,
+      "x": -88.5
+    },
+    "tick": 1953623
+  },
+  {
+    "event": "entity_lost",
+    "name": "medium-electric-pole",
+    "position": {
+      "y": -97.5,
+      "x": -88.5
+    },
+    "tick": 1954155
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -106.5,
+      "x": -84.5
+    },
+    "tick": 1954350
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe-to-ground",
+    "position": {
+      "y": -98.5,
+      "x": -87.5
+    },
+    "tick": 1954933
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -109.5,
+      "x": -84.5
+    },
+    "tick": 1955134
+  },
+  {
+    "event": "entity_lost",
+    "name": "underground-belt",
+    "position": {
+      "y": -96.5,
+      "x": -87.5
+    },
+    "tick": 1955711
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -109.5,
+      "x": -83.5
+    },
+    "tick": 1955916
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -95.5,
+      "x": -87.5
+    },
+    "tick": 1956493
+  },
+  {
+    "event": "entity_lost",
+    "name": "underground-belt",
+    "position": {
+      "y": -108.5,
+      "x": -82.5
+    },
+    "tick": 1956702
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -94.5,
+      "x": -87.5
+    },
+    "tick": 1957281
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -109.5,
+      "x": -82.5
+    },
+    "tick": 1957478
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -93.5,
+      "x": -87.5
+    },
+    "tick": 1958068
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -108.5,
+      "x": -81.5
+    },
+    "tick": 1958267
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -92.5,
+      "x": -87.5
+    },
+    "tick": 1958856
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -107.5,
+      "x": -81.5
+    },
+    "tick": 1959043
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -91.5,
+      "x": -87.5
+    },
+    "tick": 1959636
+  },
+  {
+    "event": "entity_lost",
+    "name": "iron-chest",
+    "position": {
+      "y": -106.5,
+      "x": -81.5
+    },
+    "tick": 1960069
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -90.5,
+      "x": -87.5
+    },
+    "tick": 1960427
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -105.5,
+      "x": -81.5
+    },
+    "tick": 1960846
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe-to-ground",
+    "position": {
+      "y": -92.5,
+      "x": -91.5
+    },
+    "tick": 1961219
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -105.5,
+      "x": -84.5
+    },
+    "tick": 1961628
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -92.5,
+      "x": -92.5
+    },
+    "tick": 1961757
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -104.5,
+      "x": -84.5
+    },
+    "tick": 1962398
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe-to-ground",
+    "position": {
+      "y": -91.5,
+      "x": -92.5
+    },
+    "tick": 1962533
+  },
+  {
+    "event": "entity_lost",
+    "name": "medium-electric-pole",
+    "position": {
+      "y": -90.5,
+      "x": -93.5
+    },
+    "tick": 1963084
+  },
+  {
+    "event": "entity_lost",
+    "name": "inserter",
+    "position": {
+      "y": -103.5,
+      "x": -83.5
+    },
+    "tick": 1963176
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe-to-ground",
+    "position": {
+      "y": -91.5,
+      "x": -95.5
+    },
+    "tick": 1963875
+  },
+  {
+    "event": "entity_lost",
+    "name": "iron-chest",
+    "position": {
+      "y": -103.5,
+      "x": -84.5
+    },
+    "tick": 1964183
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -90.5,
+      "x": -95.5
+    },
+    "tick": 1964415
+  },
+  {
+    "event": "entity_lost",
+    "name": "small-electric-pole",
+    "position": {
+      "y": -102.5,
+      "x": -84.5
+    },
+    "tick": 1964711
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -91.5,
+      "x": -97.5
+    },
+    "tick": 1964953
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -92.5,
+      "x": -97.5
+    },
+    "tick": 1965485
+  },
+  {
+    "event": "entity_lost",
+    "name": "transport-belt",
+    "position": {
+      "y": -102.5,
+      "x": -87.5
+    },
+    "tick": 1965505
+  },
+  {
+    "event": "entity_lost",
+    "name": "pipe",
+    "position": {
+      "y": -90.5,
+      "x": -97.5
+    },
+    "tick": 1966041
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 2,
+    "_request": "917544074"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 10,
+    "_request": "917544074"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "917544074"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      21.5,
+      60.5
+    ],
+    "direction": 8,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      21.5,
+      51.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      21.5,
+      46.5
+    ],
+    "direction": 8,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      21.5,
+      34.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      21.5,
+      30.5
+    ],
+    "direction": 8,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      59.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      58.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      57.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      56.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      55.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      54.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      53.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      52.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      45.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      44.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      43.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      42.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      41.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      40.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      39.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      38.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      37.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      36.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      35.5
+    ],
+    "direction": 0,
+    "_request": "917544074"
+  },
+  {
+    "op": "wait_research",
+    "name": "productivity-module-2",
+    "_request": "917544074"
+  },
+  {
+    "op": "research_focus",
+    "name": "productivity-module-3",
+    "_request": "917544074"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "lab",
+    "at": [
+      20.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "production-science-pack",
+    "count": 1,
+    "_request": "917544074"
+  },
+  {
+    "op": "save",
+    "_request": "917544074"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "op": "mine",
+    "name": "electric-mining-drill",
+    "at": [
+      -29.5,
+      -58.5
+    ],
+    "ticks": 300,
+    "_request": "900612974"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -25.5,
+      -58.5
+    ],
+    "direction": 8,
+    "_request": "900612974"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      -56.5
+    ],
+    "direction": 8,
+    "_request": "900612974"
+  },
+  {
+    "op": "put",
+    "name": "boiler",
+    "at": [
+      -33,
+      38.5
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "900612974"
+  },
+  {
+    "op": "put",
+    "name": "boiler",
+    "at": [
+      -33,
+      34.5
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "900612974"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "900612974"
+  }
+]

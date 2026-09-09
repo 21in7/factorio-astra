@@ -1,0 +1,54 @@
+[
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      52,
+      25
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 5,
+    "_request": "935700748"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "gun-turret",
+    "at": [
+      52,
+      25
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 10,
+    "_request": "935700748"
+  },
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      52,
+      35
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 5,
+    "_request": "935700748"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "gun-turret",
+    "at": [
+      52,
+      35
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 10,
+    "_request": "935700748"
+  },
+  {
+    "op": "save",
+    "_request": "935700748"
+  }
+]

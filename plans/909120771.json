@@ -1,0 +1,212 @@
+[
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 60,
+    "_request": "909120771"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "909120771"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -43,
+      -64
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 100,
+    "_request": "909120771"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -48,
+      -66
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 100,
+    "_request": "909120771"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -51,
+      -66
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 100,
+    "_request": "909120771"
+  },
+  {
+    "op": "craft",
+    "recipe": "steel-furnace",
+    "count": 3,
+    "_request": "909120771"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 3,
+    "_request": "909120771"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 3,
+    "_request": "909120771"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2,
+    "_request": "909120771"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -36.5,
+      -67.5
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -41.5,
+      -61.5
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -49.5,
+      -61.5
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -42.5,
+      -61.5
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -42.5,
+      -62.5
+    ],
+    "direction": 0,
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -47.5,
+      -63.5
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -47.5,
+      -64.5
+    ],
+    "direction": 0,
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -50.5,
+      -63.5
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -50.5,
+      -64.5
+    ],
+    "direction": 0,
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "_request": "909120771"
+  },
+  {
+    "op": "save",
+    "_request": "909120771"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 1,
+    "_request": "895145161"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 30,
+    "_request": "895145161"
+  },
+  {
+    "op": "equip",
+    "inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 43,
+    "_request": "895145161"
+  },
+  {
+    "op": "select_weapon",
+    "index": 1,
+    "_request": "895145161"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -100,
+      -170
+    ],
+    "timeout": 9000,
+    "_request": "895145161"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -130,
+      -210
+    ],
+    "timeout": 9000,
+    "_request": "895145161"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "895145161"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -140,
+      -226
+    ],
+    "_request": "895145161"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -140,
+      -226
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 25,
+    "_request": "895145161"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -156.4375,
+      -240.6875
+    ],
+    "ticks": 300,
+    "timeout": 9000,
+    "_request": "895145161"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -156.5625,
+      -247.5
+    ],
+    "ticks": 300,
+    "timeout": 9000,
+    "_request": "895145161"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -164.125,
+      -242.6875
+    ],
+    "ticks": 300,
+    "timeout": 9000,
+    "_request": "895145161"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -155.625,
+      -253.0625
+    ],
+    "ticks": 300,
+    "timeout": 9000,
+    "_request": "895145161"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -162.3125,
+      -250.75
+    ],
+    "ticks": 300,
+    "timeout": 9000,
+    "_request": "895145161"
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 10,
+    "_request": "895145161"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -130,
+      -210
+    ],
+    "timeout": 9000,
+    "_request": "895145161"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -84.5,
+      -103.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 150,
+    "_request": "895145161"
+  },
+  {
+    "op": "walk",
+    "to": [
+      25,
+      12
+    ],
+    "timeout": 9000,
+    "_request": "895145161"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "895145161"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "895145161"
+  }
+]

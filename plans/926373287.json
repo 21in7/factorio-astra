@@ -1,0 +1,139 @@
+[
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 2,
+    "_request": "926373287"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "926373287"
+  },
+  {
+    "op": "mine",
+    "name": "electric-mining-drill",
+    "at": [
+      43.5,
+      -114.5
+    ],
+    "_request": "926373287"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      43.5,
+      -112.5
+    ],
+    "_request": "926373287"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      44.5,
+      -112.5
+    ],
+    "_request": "926373287"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      45.5,
+      -112.5
+    ],
+    "_request": "926373287"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      43.5,
+      -112.5
+    ],
+    "direction": 4,
+    "belt_to_ground_type": "input",
+    "_request": "926373287"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      45.5,
+      -112.5
+    ],
+    "direction": 12,
+    "belt_to_ground_type": "output",
+    "_request": "926373287"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      44.5,
+      -112.5
+    ],
+    "direction": 0,
+    "belt_to_ground_type": "input",
+    "_request": "926373287"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      44.5,
+      -115.5
+    ],
+    "direction": 8,
+    "belt_to_ground_type": "output",
+    "_request": "926373287"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      44.5,
+      -110.5
+    ],
+    "direction": 0,
+    "_request": "926373287"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      44.5,
+      -110.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "926373287"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      45.5,
+      -113.5
+    ],
+    "_request": "926373287"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 1,
+    "_request": "926373287"
+  },
+  {
+    "op": "save",
+    "_request": "926373287"
+  }
+]

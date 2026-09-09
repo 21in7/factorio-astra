@@ -1,0 +1,42 @@
+[
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      -120.5,
+      -53.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "processing-unit",
+    "count": 20,
+    "_request": "927378111"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -106.5,
+      -56.5
+    ],
+    "inventory": "chest",
+    "item": "processing-unit",
+    "count": 20,
+    "_request": "927378111"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      -120.5,
+      -53.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "processing-unit",
+    "count": 2,
+    "_request": "927378111"
+  },
+  {
+    "op": "save",
+    "_request": "927378111"
+  }
+]

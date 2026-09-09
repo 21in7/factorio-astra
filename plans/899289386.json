@@ -1,0 +1,74 @@
+[
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -84.5,
+      -103.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 80,
+    "_request": "899289386"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -81.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "plastic-bar",
+    "count": 300,
+    "_request": "899289386"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -25.5,
+      -79.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 600,
+    "_request": "899289386"
+  },
+  {
+    "op": "craft",
+    "recipe": "copper-cable",
+    "count": 300,
+    "_request": "899289386"
+  },
+  {
+    "op": "craft",
+    "recipe": "electric-mining-drill",
+    "count": 1,
+    "_request": "899289386"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -17.5,
+      -55.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 400,
+    "_request": "899289386"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -84.5,
+      -103.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 300,
+    "_request": "899289386"
+  }
+]

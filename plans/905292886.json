@@ -1,0 +1,375 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -73.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 600,
+    "_request": "905292886"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "905292886"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "905292886"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1,
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "905292886"
+  },
+  {
+    "op": "put",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "inventory": "chest",
+    "item": "medium-electric-pole",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "put",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "inventory": "chest",
+    "item": "long-handed-inserter",
+    "count": 1,
+    "_request": "905292886"
+  },
+  {
+    "op": "put",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "inventory": "chest",
+    "item": "inserter",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "put",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "inventory": "chest",
+    "item": "iron-chest",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "ghost",
+    "name": "medium-electric-pole",
+    "at": [
+      34.5,
+      21.5
+    ],
+    "direction": 0,
+    "_request": "905292886"
+  },
+  {
+    "op": "ghost",
+    "name": "medium-electric-pole",
+    "at": [
+      50.5,
+      23.5
+    ],
+    "direction": 0,
+    "_request": "905292886"
+  },
+  {
+    "op": "ghost",
+    "name": "iron-chest",
+    "at": [
+      32.5,
+      20.5
+    ],
+    "direction": 0,
+    "_request": "905292886"
+  },
+  {
+    "op": "ghost",
+    "name": "iron-chest",
+    "at": [
+      50.5,
+      25.5
+    ],
+    "direction": 0,
+    "_request": "905292886"
+  },
+  {
+    "op": "ghost",
+    "name": "inserter",
+    "at": [
+      32.5,
+      21.5
+    ],
+    "direction": 0,
+    "_request": "905292886"
+  },
+  {
+    "op": "ghost",
+    "name": "long-handed-inserter",
+    "at": [
+      48.5,
+      25.5
+    ],
+    "direction": 4,
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_entity",
+    "name": "medium-electric-pole",
+    "at": [
+      34.5,
+      21.5
+    ],
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_entity",
+    "name": "medium-electric-pole",
+    "at": [
+      50.5,
+      23.5
+    ],
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_entity",
+    "name": "iron-chest",
+    "at": [
+      32.5,
+      20.5
+    ],
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_entity",
+    "name": "iron-chest",
+    "at": [
+      50.5,
+      25.5
+    ],
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_entity",
+    "name": "inserter",
+    "at": [
+      32.5,
+      21.5
+    ],
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_entity",
+    "name": "long-handed-inserter",
+    "at": [
+      48.5,
+      25.5
+    ],
+    "_request": "905292886"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      32.5,
+      20.5
+    ],
+    "bar": 5,
+    "_request": "905292886"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      32.5,
+      20.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 200,
+    "_request": "905292886"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      50.5,
+      25.5
+    ],
+    "bar": 5,
+    "_request": "905292886"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      50.5,
+      25.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 200,
+    "_request": "905292886"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-2",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 100,
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-2",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-2",
+    "at": [
+      46.5,
+      26.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 100,
+    "_request": "905292886"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-2",
+    "at": [
+      46.5,
+      26.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 2,
+    "_request": "905292886"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "905292886"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "926171364"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 1,
+    "_request": "926171364"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "926171364"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "_request": "926171364"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 7,
+    "_request": "926171364"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      47,
+      -14
+    ],
+    "_request": "926171364"
+  },
+  {
+    "op": "save",
+    "_request": "926171364"
+  }
+]

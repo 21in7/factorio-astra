@@ -1,0 +1,45 @@
+[
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -57.5
+    ],
+    "_request": "942399376"
+  },
+  {
+    "op": "craft",
+    "recipe": "fast-inserter",
+    "count": 1,
+    "_request": "942399376"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "942399376"
+  },
+  {
+    "op": "build",
+    "name": "fast-inserter",
+    "at": [
+      -89.5,
+      -57.5
+    ],
+    "direction": 0,
+    "_request": "942399376"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "fast-inserter",
+    "at": [
+      -89.5,
+      -57.5
+    ],
+    "item": "copper-cable",
+    "_request": "942399376"
+  },
+  {
+    "op": "save",
+    "_request": "942399376"
+  }
+]

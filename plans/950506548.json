@@ -1,0 +1,118 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 4,
+    "_request": "950506548"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "950506548"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -99.5
+    ],
+    "direction": 8,
+    "_request": "950506548"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -98.5
+    ],
+    "direction": 8,
+    "_request": "950506548"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -97.5
+    ],
+    "direction": 8,
+    "_request": "950506548"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -96.5
+    ],
+    "direction": 8,
+    "_request": "950506548"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -95.5
+    ],
+    "direction": 8,
+    "_request": "950506548"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -94.5
+    ],
+    "direction": 8,
+    "_request": "950506548"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -93.5
+    ],
+    "direction": 8,
+    "_request": "950506548"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      59.5,
+      -92.5
+    ],
+    "direction": 8,
+    "_request": "950506548"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "950506548"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      43.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "950506548"
+  },
+  {
+    "op": "save",
+    "_request": "950506548"
+  }
+]

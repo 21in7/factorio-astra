@@ -1,0 +1,208 @@
+[
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      -91,
+      -65
+    ],
+    "inventory": "turret_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 16,
+    "_request": "942301474"
+  },
+  {
+    "op": "mine",
+    "name": "gun-turret",
+    "at": [
+      -91,
+      -65
+    ],
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -92,
+      -57
+    ],
+    "direction": 4,
+    "_request": "942301474"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -92,
+      -57
+    ],
+    "inventory": "turret_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 16,
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -91.5,
+      -64.5
+    ],
+    "direction": 8,
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -91.5,
+      -62.5
+    ],
+    "direction": 0,
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -91.5,
+      -61.5
+    ],
+    "direction": 4,
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -90.5,
+      -61.5
+    ],
+    "direction": 0,
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -90.5,
+      -62.5
+    ],
+    "direction": 4,
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -89.5,
+      -62.5
+    ],
+    "direction": 8,
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -61.5
+    ],
+    "direction": 0,
+    "_request": "942301474"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -61.5
+    ],
+    "item": "copper-plate",
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -57.5
+    ],
+    "direction": 0,
+    "_request": "942301474"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -57.5
+    ],
+    "item": "copper-cable",
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -91.5,
+      -55.5
+    ],
+    "direction": 12,
+    "_request": "942301474"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -91.5,
+      -55.5
+    ],
+    "item": "iron-plate",
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -89.5,
+      -52.5
+    ],
+    "_request": "942301474"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -89.5,
+      -52.5
+    ],
+    "bar": 2,
+    "_request": "942301474"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -53.5
+    ],
+    "direction": 0,
+    "_request": "942301474"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -53.5
+    ],
+    "item": "electronic-circuit",
+    "_request": "942301474"
+  },
+  {
+    "op": "save",
+    "_request": "942301474"
+  }
+]

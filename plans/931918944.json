@@ -1,0 +1,46 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -28.5,
+      -71.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 100,
+    "_request": "931918944"
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 2,
+    "_request": "931918944"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "931918944"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -96.5
+    ],
+    "_request": "931918944"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -89.5
+    ],
+    "_request": "931918944"
+  },
+  {
+    "op": "save",
+    "_request": "931918944"
+  }
+]

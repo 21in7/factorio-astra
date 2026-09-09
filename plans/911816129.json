@@ -1,0 +1,324 @@
+[
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -5.5,
+      41.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 50,
+    "_request": "911816129"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -2.5,
+      41.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 50,
+    "_request": "911816129"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      0.5,
+      41.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 50,
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 20,
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      67,
+      -113
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      67,
+      -113
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 20,
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      67,
+      -120
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      67,
+      -120
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 20,
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -124.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -123.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -122.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -121.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -120.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -119.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -118.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -117.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -116.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -115.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -114.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -113.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -112.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -111.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -110.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -109.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -108.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -107.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -106.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -105.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      65.5,
+      -124.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      66.5,
+      -124.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      67.5,
+      -124.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      68.5,
+      -124.5
+    ],
+    "_request": "911816129"
+  },
+  {
+    "op": "save",
+    "_request": "911816129"
+  }
+]

@@ -1,0 +1,4295 @@
+[
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-1",
+    "count": 2
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 60
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 15
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 3
+  },
+  {
+    "op": "walk",
+    "to": [
+      -150,
+      -170
+    ],
+    "timeout": 9000
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      12.9375,
+      329.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      9.1875,
+      327.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      28.3125,
+      326.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      6.9375,
+      326.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      22.25,
+      325.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-09-red",
+    "at": [
+      -29.125,
+      324
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      7,
+      323.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      22.5625,
+      322.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-09-red",
+    "at": [
+      -29.0625,
+      322.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      7.625,
+      321
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      26.75,
+      321
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      30.9375,
+      319.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      27.5625,
+      317.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      30.75,
+      317.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      34.625,
+      310.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-09-red",
+    "at": [
+      -21.0625,
+      310.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      82.1875,
+      300.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      56.875,
+      299.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      54.0625,
+      299.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      50.875,
+      298.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      75,
+      296.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      58.125,
+      294.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      51.75,
+      294.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      77.25,
+      293.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      59.4375,
+      293.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      69.625,
+      293.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      79.375,
+      293.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      58.1875,
+      292.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      85.4375,
+      291.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      62.4375,
+      291
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      86.1875,
+      290.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      85.875,
+      288.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      71.25,
+      286.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      89.75,
+      286.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      70.25,
+      283.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      79.875,
+      283.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      78.1875,
+      281
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      73.5625,
+      250.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -148.375,
+      213.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -144.0625,
+      210
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -149.9375,
+      205.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -121.25,
+      204.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -110.1875,
+      203.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -132.125,
+      203.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -121.3125,
+      202.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -126.75,
+      201.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -113,
+      200.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -129.125,
+      200
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -104.25,
+      199.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -140.0625,
+      198.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -148.5625,
+      197.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -106.75,
+      197.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -151,
+      196.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -100.375,
+      196.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -152.6875,
+      195.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -135.5,
+      193.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -151.4375,
+      191.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -146.4375,
+      190.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -144.5625,
+      190.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -99.3125,
+      189.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -133.375,
+      188.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -95.6875,
+      187.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -93.5625,
+      187.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -132.1875,
+      186.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -87.25,
+      185.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -139.125,
+      184.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -87.5625,
+      182.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -83.6875,
+      182.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -95.875,
+      182.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -136.1875,
+      181
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -137.5625,
+      178.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -85.6875,
+      160.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -83.875,
+      160.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -88.6875,
+      154.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -50.4375,
+      153.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -41.0625,
+      152.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -49.6875,
+      151.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -88.25,
+      149.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -38.125,
+      149.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -43.1875,
+      149
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -51.5,
+      148.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -76.8125,
+      148.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -84.5,
+      148.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -41.875,
+      148.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -89.125,
+      148.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -37.625,
+      147.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -84.4375,
+      146.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -33.9375,
+      146.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -77.1875,
+      145.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -39.25,
+      145
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -92.875,
+      144.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -33.25,
+      143.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -75.25,
+      143.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -73.3125,
+      142.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -42.0625,
+      142.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -94.3125,
+      142.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -49.75,
+      142.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -37.25,
+      141.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -86.6875,
+      141.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -29.5625,
+      141.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -102.8125,
+      140.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -71.125,
+      140.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -65,
+      140.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -43.875,
+      140.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -35,
+      139.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -67.8125,
+      138.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -71.875,
+      138.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -40.9375,
+      137.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -35.9375,
+      137.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -89.75,
+      136.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -105.9375,
+      136.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -92.125,
+      136.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -44,
+      136.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -39.625,
+      136.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -36.875,
+      135.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -86.5,
+      135.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -72.125,
+      135.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -46.5625,
+      135
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -105.25,
+      134.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -81.5625,
+      134.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -90.3125,
+      134.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -76.4375,
+      134.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -99.4375,
+      133.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -43.8125,
+      133.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -108.4375,
+      132.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -41.25,
+      132.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -102.4375,
+      132.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -84.5625,
+      132.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -86.0625,
+      132.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -68.3125,
+      132.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -90.75,
+      131.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -83.0625,
+      131.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -73.875,
+      131.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -113.5,
+      131.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -89.25,
+      131.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -48.875,
+      130.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -112.0625,
+      130.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -40.5625,
+      130.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -91.8125,
+      130.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -42.3125,
+      130
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -35.25,
+      129.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -105.625,
+      129.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -74.0625,
+      128.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -101.75,
+      127.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -88.3125,
+      127.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -84.3125,
+      127.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -67.5,
+      126.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -75.5,
+      126.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -77.5,
+      125.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -119.75,
+      125.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -103.6875,
+      125.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -97.125,
+      124.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -117.625,
+      124
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -112.6875,
+      123.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -110.875,
+      123.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -108.125,
+      122.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -109.5,
+      122.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -62.75,
+      121.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -91.5625,
+      121.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -123.75,
+      119.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -126.5625,
+      118.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -95.4375,
+      118.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -116.75,
+      118.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -120.3125,
+      117.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -128.625,
+      117.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -131.125,
+      117.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -126.625,
+      116.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -82.5625,
+      116.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -125.375,
+      116.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -110.8125,
+      115.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -130.5625,
+      115.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -102,
+      115.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -135.6875,
+      114.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -93.0625,
+      114.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -91.5,
+      113.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -114.3125,
+      112.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -143.8125,
+      111.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -138.3125,
+      111.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -93.25,
+      111.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -95.4375,
+      111.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -122.25,
+      111.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -96.8125,
+      110.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -89.9375,
+      110.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -99.8125,
+      109.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -119.875,
+      109.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -139.125,
+      108.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -84.8125,
+      108.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -113.9375,
+      108.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -143.125,
+      107.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -127.3125,
+      107.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -136.5,
+      106.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -91.6875,
+      106.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -107.5,
+      106
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -120.9375,
+      105.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -105.0625,
+      105.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -125.625,
+      105.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -137.8125,
+      104.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -86.375,
+      104.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -107.1875,
+      104.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -90,
+      104
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -105.4375,
+      102.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -131.375,
+      102
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -147.5,
+      101.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -108.1875,
+      101
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -150.6875,
+      100.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -99.5,
+      100.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -150.375,
+      99.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -125.9375,
+      99.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -130.375,
+      99.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -107,
+      98.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -92.4375,
+      98.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -136.625,
+      98.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -94.1875,
+      97.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -104.625,
+      97.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -145.0625,
+      97.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -116.9375,
+      95.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -110.8125,
+      94.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -99,
+      93.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -116.5625,
+      93.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -97.125,
+      93.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -95.25,
+      92.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -149.0625,
+      92.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -125.5,
+      92.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -141.8125,
+      92.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -142.8125,
+      90.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -121.125,
+      90.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -97.0625,
+      89.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -129.75,
+      88.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -142.875,
+      88.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -127.4375,
+      88
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -116,
+      87.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -119.9375,
+      87.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -141.625,
+      85.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -139.625,
+      79.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -145.0625,
+      74.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -137.875,
+      71.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      8.9375,
+      71
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      45.375,
+      69.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -139.25,
+      69.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -133.0625,
+      69.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      53.875,
+      68.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -160.0625,
+      68.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      12.25,
+      68.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      14.3125,
+      68.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -138.875,
+      68.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -134.125,
+      68
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -158.125,
+      67.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      46.75,
+      67.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      15.75,
+      67.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      51.9375,
+      66.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      39.5625,
+      66.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      21.625,
+      66.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -129.875,
+      65.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -158.6875,
+      65.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      13.5625,
+      64.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -139.125,
+      63.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      156.375,
+      63
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -144.25,
+      62.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      42.75,
+      62.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      25.875,
+      62.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      28.3125,
+      62.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      13.5625,
+      61.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      41.1875,
+      61.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -150.25,
+      61.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      33.3125,
+      61.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -140.875,
+      61.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      11.125,
+      61.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -164.25,
+      60.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -105.1875,
+      60.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      13.625,
+      60.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      17.5,
+      60.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -148.0625,
+      60
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      22.4375,
+      59.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -114.8125,
+      59.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -159.1875,
+      58.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -142.875,
+      58.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -129.3125,
+      58.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -103.75,
+      58
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -122.25,
+      57.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -109.4375,
+      57.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      19.9375,
+      57.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -132,
+      57.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      35.375,
+      57.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      16.1875,
+      57.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -143.6875,
+      56.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -140.0625,
+      56.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      40.3125,
+      56.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -158.9375,
+      56.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      24.0625,
+      56.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      38.0625,
+      55.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      22.75,
+      55.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -149.5625,
+      55.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -155.375,
+      54.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -91.4375,
+      54.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      34.0625,
+      54
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -113,
+      53.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -155.9375,
+      53.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -98.8125,
+      52.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      40.875,
+      52.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -152.3125,
+      51
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -147.75,
+      50.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      254.5,
+      49.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -110.875,
+      48.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -157.5625,
+      47.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -153.4375,
+      46.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -161.5,
+      46.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -157.0625,
+      45.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -161.3125,
+      45.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -154.0625,
+      44.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -156.8125,
+      42.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -158.25,
+      41.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -163.5625,
+      40.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -160.375,
+      40.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -157.5,
+      40.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -164.6875,
+      38.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -159.1875,
+      38.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      117.1875,
+      37.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      259.375,
+      35.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -160.5,
+      35.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      103.25,
+      35.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      134.25,
+      34.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      -164.5625,
+      32
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      103,
+      31.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      134.5,
+      31.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      204.75,
+      -32.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      194.9375,
+      -34.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      208.8125,
+      -36.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      211.625,
+      -36.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      200.5,
+      -36.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      178.0625,
+      -37.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      190.8125,
+      -40
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      212.8125,
+      -40.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      174.5,
+      -41.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      175.75,
+      -41.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      202.25,
+      -41.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      205.25,
+      -42.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      175.5,
+      -42.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      195.5,
+      -42.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      199.25,
+      -42.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      215.8125,
+      -44.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      211.125,
+      -45.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      197.8125,
+      -45.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      211.375,
+      -46.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      214.8125,
+      -46.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      230.5,
+      -47.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      185.5,
+      -47.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      217.1875,
+      -47.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      201,
+      -48
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      207,
+      -48
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      223.5625,
+      -48.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      236.125,
+      -48.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      220.0625,
+      -48.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      204,
+      -48.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      193.8125,
+      -49.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      196.125,
+      -49.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      176.9375,
+      -49.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      192.5625,
+      -50.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      218.25,
+      -50.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      198.125,
+      -50.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      216.5,
+      -50.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      230.8125,
+      -51.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      225.375,
+      -51.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      223.8125,
+      -51.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      220.5,
+      -52.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      181.9375,
+      -53.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      178.6875,
+      -53.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      232.375,
+      -54.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      185.6875,
+      -54.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      191.3125,
+      -54.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      230.875,
+      -54.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      215.9375,
+      -54.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      217.5625,
+      -54.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      204.0625,
+      -55.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      219.3125,
+      -55.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      225,
+      -56
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      182.75,
+      -56.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      195.8125,
+      -57.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      220.5,
+      -57.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      200.0625,
+      -57.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      237.3125,
+      -58.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      220.1875,
+      -58.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      183.125,
+      -59.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      235,
+      -59.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      190.875,
+      -60.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      237.0625,
+      -60.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      201.5625,
+      -62.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      175.625,
+      -63.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      179.875,
+      -63.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      223.625,
+      -63.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      184.1875,
+      -66.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      175.6875,
+      -66.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      165.375,
+      -66.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      231.875,
+      -66.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      200.125,
+      -67.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      193.5,
+      -67.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      198.125,
+      -69
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      193.9375,
+      -70.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      177.625,
+      -70.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      182.1875,
+      -70.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      180.8125,
+      -70.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      200.1875,
+      -70.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      202,
+      -71
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      175.125,
+      -71.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      171.4375,
+      -71.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      194.875,
+      -72.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      170.5,
+      -73
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      164.125,
+      -73.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      162.625,
+      -73.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      200.625,
+      -73.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      163.875,
+      -74.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      166.75,
+      -74.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      187.4375,
+      -74.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      199.25,
+      -75.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      305.6875,
+      -75.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      172.125,
+      -75.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      154.3125,
+      -75.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      165.375,
+      -76.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      174.3125,
+      -76.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      178.3125,
+      -77.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      172.5,
+      -77.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      183.8125,
+      -77.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      167,
+      -78
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      185.3125,
+      -78.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      171.6875,
+      -79.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      160.625,
+      -79.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      192.875,
+      -80
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      165.5,
+      -80.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      189.5,
+      -80.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      173.625,
+      -81
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      153.1875,
+      -81.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      197.3125,
+      -81.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      183.3125,
+      -81.75
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      166.375,
+      -81.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      198.8125,
+      -82
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      201.375,
+      -83.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      199.625,
+      -84.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      189.9375,
+      -84.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      186.5,
+      -86.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      180.5625,
+      -87.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      156.9375,
+      -201.1875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      174.1875,
+      -201.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      161,
+      -202.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      173.3125,
+      -203.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      154.625,
+      -204.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      179.1875,
+      -204.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      158.125,
+      -205.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      156.125,
+      -205.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dry-hairy-tree",
+    "at": [
+      134.0625,
+      -207.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      130.0625,
+      -207.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      132.6875,
+      -208.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      173.5,
+      -209
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      131.3125,
+      -210.375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      157.625,
+      -211.6875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      132.8125,
+      -211.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      172.4375,
+      -212.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      138,
+      -212.3125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      134.5625,
+      -212.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      157.75,
+      -213.8125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      138,
+      -213.9375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "tree-06-brown",
+    "at": [
+      170.25,
+      -218.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      141.875,
+      -238.625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      137.875,
+      -239
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      115.625,
+      -239.0625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      119.8125,
+      -242.875
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      124.75,
+      -248.25
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      111.0625,
+      -249.4375
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      124.4375,
+      -250.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      123.875,
+      -252.125
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": [
+      119.4375,
+      -253.5625
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 10
+  },
+  {
+    "op": "walk",
+    "to": [
+      -150,
+      -170
+    ],
+    "timeout": 9000
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -84.5,
+      -103.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 150
+  },
+  {
+    "op": "walk",
+    "to": [
+      25,
+      12
+    ],
+    "timeout": 9000
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

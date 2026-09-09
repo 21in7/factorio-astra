@@ -1,0 +1,392 @@
+[
+  {
+    "op": "walk",
+    "to": [
+      4,
+      24
+    ]
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      4.5,
+      19.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      4.5,
+      19.5
+    ],
+    "recipe": "iron-gear-wheel"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      19.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      19.5
+    ],
+    "recipe": "automation-science-pack"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      12.5,
+      15.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      12.5,
+      15.5
+    ],
+    "recipe": "iron-gear-wheel"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      12.5,
+      19.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      12.5,
+      19.5
+    ],
+    "recipe": "automation-science-pack"
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      8.5,
+      26.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      12.5,
+      26.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      8.5,
+      16.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      15.5,
+      19.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      4.5,
+      17.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      8.5,
+      17.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      13.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      14.5,
+      19.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      6.5,
+      19.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      17.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      8.5,
+      21.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      21.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      8.5,
+      24.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      24.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      8.5,
+      28.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      28.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      5.5,
+      30.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      10.5,
+      26.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      10.5,
+      21.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      6.5,
+      17.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      14.5,
+      17.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      14.5,
+      13.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      22.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      12.5,
+      22.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      23.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      9.5,
+      23.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      10.5,
+      23.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      11.5,
+      23.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      12.5,
+      23.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      8.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 50
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      15.5,
+      19.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 50
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

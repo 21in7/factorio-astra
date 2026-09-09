@@ -1,0 +1,49 @@
+[
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "952389323"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "952389323"
+  },
+  {
+    "op": "mine",
+    "name": "fast-inserter",
+    "at": [
+      -82.5,
+      -69.5
+    ],
+    "_request": "952389323"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -82.5,
+      -69.5
+    ],
+    "direction": 0,
+    "_request": "952389323"
+  },
+  {
+    "op": "inserter_filter",
+    "at": [
+      -82.5,
+      -69.5
+    ],
+    "item": "copper-plate",
+    "_request": "952389323"
+  },
+  {
+    "op": "observe",
+    "radius": 220,
+    "_request": "952389323"
+  },
+  {
+    "op": "save",
+    "_request": "952389323"
+  }
+]

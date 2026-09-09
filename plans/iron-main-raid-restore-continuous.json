@@ -1,0 +1,238 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 13
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      34.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      35.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      36.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      37.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      38.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      39.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      40.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      41.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      42.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      43.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      44.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      45.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      46.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      47.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      48.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      49.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      50.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      51.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      52.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      53.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      54.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      55.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      56.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      57.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      58.5,
+      -112.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "save"
+  }
+]

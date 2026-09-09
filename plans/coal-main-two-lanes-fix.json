@@ -1,0 +1,75 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 2
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      -30.5,
+      -61.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -30.5,
+      -61.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -31.5,
+      -61.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -31.5,
+      -62.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -31.5,
+      -63.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -30.5,
+      -63.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -30.5,
+      -62.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "save"
+  }
+]

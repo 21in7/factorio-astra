@@ -1,0 +1,90 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -43.5,
+      -68.5
+    ],
+    "inventory": "chest",
+    "item": "stone",
+    "count": 200,
+    "_request": "918823999"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -9.5,
+      44.5
+    ],
+    "inventory": "chest",
+    "item": "electric-furnace",
+    "count": 10,
+    "_request": "918823999"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      17.5
+    ],
+    "inventory": "chest",
+    "item": "productivity-module",
+    "count": 10,
+    "_request": "918823999"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      11.5,
+      65.5
+    ],
+    "inventory": "chest",
+    "item": "stone",
+    "count": 200,
+    "_request": "918823999"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      61.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "918823999"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      57.5
+    ],
+    "inventory": "chest",
+    "item": "electric-furnace",
+    "count": 10,
+    "_request": "918823999"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      65.5
+    ],
+    "inventory": "chest",
+    "item": "productivity-module",
+    "count": 10,
+    "_request": "918823999"
+  },
+  {
+    "op": "save",
+    "_request": "918823999"
+  }
+]

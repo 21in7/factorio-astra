@@ -1,0 +1,131 @@
+[
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 60,
+    "_request": "896374516"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 60,
+    "_request": "896374516"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 12,
+    "_request": "896374516"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 12,
+    "_request": "896374516"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 12,
+    "_request": "896374516"
+  },
+  {
+    "op": "craft",
+    "recipe": "steel-furnace",
+    "count": 6,
+    "_request": "896374516"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "896374516"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      48,
+      -108
+    ],
+    "_request": "896374516"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      52,
+      -108
+    ],
+    "_request": "896374516"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      56,
+      -108
+    ],
+    "_request": "896374516"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      48,
+      -100
+    ],
+    "_request": "896374516"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      52,
+      -100
+    ],
+    "_request": "896374516"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      56,
+      -100
+    ],
+    "_request": "896374516"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "896374516"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "item": "steel-plate",
+    "count": 200
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -6.5,
+      39.5
+    ],
+    "item": "copper-plate",
+    "count": 250
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      9.5
+    ],
+    "item": "electronic-circuit",
+    "count": 1000
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2
+  },
+  {
+    "op": "craft",
+    "recipe": "piercing-rounds-magazine",
+    "count": 15
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -81.5,
+      -106.5
+    ],
+    "item": "plastic-bar",
+    "count": 500
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "save"
+  }
+]

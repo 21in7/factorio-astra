@@ -1,0 +1,261 @@
+[
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      11.5,
+      57.5
+    ],
+    "_request": "915766703"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      61.5
+    ],
+    "inventory": "chest",
+    "item": "rail",
+    "count": 30,
+    "_request": "915766703"
+  },
+  {
+    "op": "save",
+    "_request": "915766703"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "915766703"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      17.5
+    ],
+    "inventory": "chest",
+    "item": "productivity-module",
+    "count": 10,
+    "_request": "915766703"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -9.5,
+      44.5
+    ],
+    "inventory": "chest",
+    "item": "electric-furnace",
+    "count": 10,
+    "_request": "915766703"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 1,
+    "_request": "915766703"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 3,
+    "_request": "915766703"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "915766703"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 3,
+    "_request": "915766703"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "915766703"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "915766703"
+  },
+  {
+    "op": "walk",
+    "to": [
+      18,
+      56
+    ],
+    "tolerance": 1,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      18.5,
+      61.5
+    ],
+    "direction": 0,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      16.5,
+      58.5
+    ],
+    "direction": 0,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      20.5,
+      63.5
+    ],
+    "direction": 0,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      16.5,
+      61.5
+    ],
+    "direction": 12,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      57.5
+    ],
+    "direction": 0,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      18.5,
+      59.5
+    ],
+    "direction": 0,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      65.5
+    ],
+    "direction": 0,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      18.5,
+      63.5
+    ],
+    "direction": 8,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      20.5,
+      61.5
+    ],
+    "direction": 12,
+    "_request": "915766703"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      21.5,
+      61.5
+    ],
+    "direction": 0,
+    "_request": "915766703"
+  },
+  {
+    "op": "wait_research",
+    "name": "production-science-pack",
+    "_request": "915766703"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-2",
+    "at": [
+      18.5,
+      61.5
+    ],
+    "recipe": "production-science-pack",
+    "_request": "915766703"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      57.5
+    ],
+    "inventory": "chest",
+    "item": "electric-furnace",
+    "count": 10,
+    "_request": "915766703"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      65.5
+    ],
+    "inventory": "chest",
+    "item": "productivity-module",
+    "count": 10,
+    "_request": "915766703"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      21.5,
+      61.5
+    ],
+    "inventory": "chest",
+    "item": "production-science-pack",
+    "count": 3,
+    "_request": "915766703"
+  },
+  {
+    "op": "save",
+    "_request": "915766703"
+  }
+]

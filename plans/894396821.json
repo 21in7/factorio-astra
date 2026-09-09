@@ -1,0 +1,108 @@
+[
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "advanced-circuit",
+    "count": 3,
+    "_request": "894396821"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "advanced-circuit",
+    "count": 3,
+    "_request": "894396821"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "advanced-circuit",
+    "count": 3,
+    "_request": "894396821"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "advanced-circuit",
+    "count": 9,
+    "_request": "894396821"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "engine-unit",
+    "count": 3,
+    "_request": "894396821"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 10,
+    "_request": "894396821"
+  },
+  {
+    "op": "wait",
+    "ticks": 3100,
+    "_request": "894396821"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "chemical-science-pack",
+    "count": 2,
+    "_request": "894396821"
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      28.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "chemical-science-pack",
+    "count": 2,
+    "_request": "894396821"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "894396821"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "898725087"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "_request": "898725087"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "_request": "898725087"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898725087"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898725087"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898725087"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898725087"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898725087"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "898725087"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "898725087"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "898725087"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "898725087"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 10,
+    "_request": "898725087"
+  },
+  {
+    "op": "craft",
+    "recipe": "oil-refinery",
+    "count": 1,
+    "_request": "898725087"
+  },
+  {
+    "op": "craft",
+    "recipe": "storage-tank",
+    "count": 4,
+    "_request": "898725087"
+  },
+  {
+    "op": "craft",
+    "recipe": "chemical-plant",
+    "count": 1,
+    "_request": "898725087"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 3,
+    "_request": "898725087"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe-to-ground",
+    "count": 10,
+    "_request": "898725087"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 30,
+    "_request": "898725087"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "898725087"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "898725087"
+  }
+]

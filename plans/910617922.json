@@ -1,0 +1,90 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 90,
+    "_request": "910617922"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 60,
+    "_request": "910617922"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2,
+    "_request": "910617922"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 10,
+    "_request": "910617922"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "910617922"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ],
+    "_request": "910617922"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 25,
+    "_request": "910617922"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "_request": "910617922"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 25,
+    "_request": "910617922"
+  },
+  {
+    "op": "save",
+    "_request": "910617922"
+  }
+]

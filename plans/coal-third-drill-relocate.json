@@ -1,0 +1,100 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 3
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "mine",
+    "name": "electric-mining-drill",
+    "at": [
+      -25.5,
+      -58.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -17.5,
+      -67.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -19.5,
+      -65.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -19.5,
+      -67.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -19.5,
+      -66.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -19.5,
+      -62.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -19.5,
+      -61.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -18.5,
+      -61.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "save"
+  }
+]

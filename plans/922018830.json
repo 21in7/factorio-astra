@@ -1,0 +1,414 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "922018830"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 15,
+    "_request": "922018830"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 2,
+    "_request": "922018830"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "922018830"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -2.5,
+      36.5
+    ],
+    "direction": 0,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -28.5,
+      27.5
+    ],
+    "direction": 0,
+    "_request": "922018830"
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      -5.5,
+      37.5
+    ],
+    "_request": "922018830"
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      -3.5,
+      37.5
+    ],
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -26.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -26.5,
+      29.5
+    ],
+    "direction": 8,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -26.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -24.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -23.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -22.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -21.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -16.5,
+      30.5
+    ],
+    "direction": 12,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -15.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -14.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -12.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -11.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -10.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -9.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -8.5,
+      30.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -7.5,
+      30.5
+    ],
+    "direction": 8,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -7.5,
+      31.5
+    ],
+    "direction": 8,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -7.5,
+      36.5
+    ],
+    "direction": 0,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -7.5,
+      37.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -6.5,
+      37.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -5.5,
+      37.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      37.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -3.5,
+      37.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -2.5,
+      37.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      37.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      37.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      0.5,
+      37.5
+    ],
+    "direction": 4,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -5.5,
+      39.5
+    ],
+    "direction": 0,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -2.5,
+      39.5
+    ],
+    "direction": 0,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      0.5,
+      39.5
+    ],
+    "direction": 0,
+    "_request": "922018830"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -28.5,
+      28.5
+    ],
+    "direction": 12,
+    "_request": "922018830"
+  },
+  {
+    "op": "save",
+    "_request": "922018830"
+  }
+]

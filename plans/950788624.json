@@ -1,0 +1,159 @@
+[
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      54.5,
+      -124.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      58.5,
+      -124.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      53.5,
+      -115.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      57.5,
+      -114.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      61.5,
+      -115.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      65.5,
+      -115.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      53.5,
+      -111.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      56.5,
+      -105.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      54.5,
+      -100.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      57.5,
+      -101.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "entity-ghost",
+    "at": [
+      53.5,
+      -99.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "medium-electric-pole",
+    "at": [
+      58.5,
+      -96.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      58.5,
+      -96.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "medium-electric-pole",
+    "at": [
+      63.5,
+      -103.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      63.5,
+      -103.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "mine",
+    "name": "medium-electric-pole",
+    "at": [
+      63.5,
+      -119.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      63.5,
+      -119.5
+    ],
+    "_request": "950788624"
+  },
+  {
+    "op": "save",
+    "_request": "950788624"
+  }
+]

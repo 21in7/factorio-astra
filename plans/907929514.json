@@ -1,0 +1,102 @@
+[
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      39,
+      -14
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 100,
+    "_request": "907929514"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "gun-turret",
+    "at": [
+      39,
+      -14
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 5,
+    "_request": "907929514"
+  },
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      47,
+      -14
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 100,
+    "_request": "907929514"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "gun-turret",
+    "at": [
+      47,
+      -14
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 5,
+    "_request": "907929514"
+  },
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      43,
+      -10
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 100,
+    "_request": "907929514"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "gun-turret",
+    "at": [
+      43,
+      -10
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 5,
+    "_request": "907929514"
+  },
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 100,
+    "_request": "907929514"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 5,
+    "_request": "907929514"
+  },
+  {
+    "op": "save",
+    "_request": "907929514"
+  }
+]

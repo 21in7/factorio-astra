@@ -1,0 +1,122 @@
+[
+  {
+    "op": "wait_player_item",
+    "item": "gun-turret",
+    "count": 4,
+    "_request": "913388626"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      43,
+      -10
+    ],
+    "_request": "913388626"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      43,
+      -10
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 2,
+    "_request": "913388626"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      47,
+      -14
+    ],
+    "_request": "913388626"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      47,
+      -14
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 2,
+    "_request": "913388626"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "_request": "913388626"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 2,
+    "_request": "913388626"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      38,
+      17
+    ],
+    "_request": "913388626"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      38,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 2,
+    "_request": "913388626"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "913388626"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      38,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 20,
+    "_request": "913388626"
+  },
+  {
+    "op": "research",
+    "name": "logistics-2",
+    "_request": "913388626"
+  },
+  {
+    "op": "save",
+    "_request": "913388626"
+  }
+]

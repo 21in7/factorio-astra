@@ -1,0 +1,65 @@
+[
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 60,
+    "_request": "895467690"
+  },
+  {
+    "op": "walk",
+    "to": [
+      48,
+      -106
+    ],
+    "timeout": 9000,
+    "_request": "895467690"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "895467690"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      42,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "895467690"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "895467690"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      53,
+      -125
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 20,
+    "_request": "895467690"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "895467690"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      21.5
+    ],
+    "item": "plastic-bar",
+    "_request": "934386190"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      17.5
+    ],
+    "_request": "934386190"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      17.5
+    ],
+    "direction": 0,
+    "_request": "934386190"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      18.5
+    ],
+    "_request": "934386190"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      18.5
+    ],
+    "direction": 0,
+    "_request": "934386190"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      19.5
+    ],
+    "_request": "934386190"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      19.5
+    ],
+    "direction": 0,
+    "_request": "934386190"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      20.5
+    ],
+    "_request": "934386190"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      20.5
+    ],
+    "direction": 0,
+    "_request": "934386190"
+  },
+  {
+    "op": "save",
+    "_request": "934386190"
+  }
+]

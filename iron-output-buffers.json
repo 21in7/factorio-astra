@@ -1,0 +1,177 @@
+[
+  {
+    "op": "research",
+    "name": "automation-2"
+  },
+  {
+    "op": "put",
+    "id": 288,
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30
+  },
+  {
+    "op": "put",
+    "id": 470,
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30
+  },
+  {
+    "op": "put",
+    "id": 478,
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30
+  },
+  {
+    "op": "walk",
+    "to": [
+      38,
+      -94
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      38.5,
+      -100.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      40.5,
+      -105.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      43.5,
+      -108.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      40.5,
+      -97.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      40.5,
+      -98.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      40.5,
+      -103.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      41.5,
+      -103.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      43.5,
+      -106.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      44.5,
+      -106.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      42.5,
+      -94.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      42.5,
+      -95.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -97.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      47.5,
+      -98.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -97.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      51.5,
+      -98.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -97.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      55.5,
+      -98.5
+    ],
+    "direction": 0
+  }
+]

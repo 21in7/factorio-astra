@@ -1,0 +1,226 @@
+[
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -23,
+      -61
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -22.5,
+      -55.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -23.5,
+      -55.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -24.5,
+      -55.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      -55.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -26.5,
+      -55.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -27.5,
+      -55.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -28.5,
+      -55.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -29.5,
+      -55.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "walk",
+    "to": [
+      -23,
+      -67
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -26.5,
+      -67.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -24.5,
+      -67.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -24.5,
+      -68.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -28.5,
+      -71.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -28.5,
+      -72.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "walk",
+    "to": [
+      -5,
+      41
+    ]
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "furnace_result",
+    "item": "steel-plate",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 10
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 10
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

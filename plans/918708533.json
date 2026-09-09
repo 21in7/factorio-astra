@@ -1,0 +1,155 @@
+[
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 2,
+    "_request": "918708533"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2,
+    "_request": "918708533"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 3,
+    "_request": "918708533"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "918708533"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      19.5,
+      33.5
+    ],
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      30.5
+    ],
+    "direction": 0,
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      31.5
+    ],
+    "direction": 0,
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      32.5
+    ],
+    "direction": 0,
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      33.5
+    ],
+    "direction": 0,
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      34.5
+    ],
+    "direction": 0,
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      35.5
+    ],
+    "direction": 0,
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      17.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      14.5,
+      26.5
+    ],
+    "direction": 4,
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      10.5,
+      26.5
+    ],
+    "direction": 4,
+    "_request": "918708533"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      19.5,
+      35.5
+    ],
+    "direction": 4,
+    "_request": "918708533"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "lab",
+    "at": [
+      8.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "production-science-pack",
+    "count": 1,
+    "_request": "918708533"
+  },
+  {
+    "op": "save",
+    "_request": "918708533"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "op": "mine",
+    "name": "medium-electric-pole",
+    "at": [
+      0.5,
+      3.5
+    ],
+    "ticks": 120,
+    "_request": "907195896"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      0.5,
+      1.5
+    ],
+    "_request": "907195896"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      0.5,
+      3.5
+    ],
+    "direction": 12,
+    "_request": "907195896"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      1.5,
+      3.5
+    ],
+    "direction": 12,
+    "_request": "907195896"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      2.5,
+      3.5
+    ],
+    "direction": 12,
+    "_request": "907195896"
+  },
+  {
+    "op": "build",
+    "name": "fast-inserter",
+    "at": [
+      3.5,
+      3.5
+    ],
+    "direction": 4,
+    "_request": "907195896"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      9.5
+    ],
+    "inventory": "chest",
+    "item": "electronic-circuit",
+    "count": 20,
+    "_request": "907195896"
+  },
+  {
+    "op": "put",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "inventory": "chest",
+    "item": "repair-pack",
+    "count": 2,
+    "_request": "907195896"
+  },
+  {
+    "op": "research",
+    "name": "electric-energy-accumulators",
+    "_request": "907195896"
+  },
+  {
+    "op": "save",
+    "_request": "907195896"
+  }
+]

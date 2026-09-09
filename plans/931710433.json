@@ -1,0 +1,155 @@
+[
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2,
+    "_request": "931710433"
+  },
+  {
+    "op": "craft",
+    "recipe": "piercing-rounds-magazine",
+    "count": 9,
+    "_request": "931710433"
+  },
+  {
+    "op": "mine",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      -120.5
+    ],
+    "_request": "931710433"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      -119.5
+    ],
+    "_request": "931710433"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      -119.5
+    ],
+    "recipe": "firearm-magazine",
+    "_request": "931710433"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      7.5,
+      -121.5
+    ],
+    "direction": 0,
+    "_request": "931710433"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      10.5,
+      -120.5
+    ],
+    "direction": 12,
+    "_request": "931710433"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "gun-turret",
+    "count": 2,
+    "_request": "931710433"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -29,
+      -65
+    ],
+    "_request": "931710433"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -29,
+      -65
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 4,
+    "_request": "931710433"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -36,
+      -65
+    ],
+    "_request": "931710433"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -36,
+      -65
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 4,
+    "_request": "931710433"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "931710433"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -29,
+      -65
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 5,
+    "_request": "931710433"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -36,
+      -65
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 5,
+    "_request": "931710433"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -31,
+      -68
+    ],
+    "tolerance": 1,
+    "_request": "931710433"
+  },
+  {
+    "op": "save",
+    "_request": "931710433"
+  }
+]

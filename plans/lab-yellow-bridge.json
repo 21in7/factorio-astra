@@ -1,0 +1,56 @@
+[
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      18.5,
+      25.5
+    ]
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      18.5,
+      26.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      18.5,
+      26.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      18.5,
+      25.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      18.5,
+      25.5
+    ],
+    "item": "utility-science-pack"
+  },
+  {
+    "op": "save"
+  }
+]

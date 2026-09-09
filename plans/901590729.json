@@ -1,0 +1,105 @@
+[
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "901590729"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "901590729"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "901590729"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "901590729"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "901590729"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "901590729"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      33.5,
+      9.5
+    ],
+    "_request": "901590729"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 4,
+    "_request": "901590729"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200,
+    "_request": "901590729"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 4,
+    "_request": "901590729"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "901590729"
+  }
+]

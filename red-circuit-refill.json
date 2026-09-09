@@ -1,0 +1,130 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -25.5,
+      -79.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 600
+  },
+  {
+    "op": "craft",
+    "recipe": "copper-cable",
+    "count": 300
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 30
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 3
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 4
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -81.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "plastic-bar",
+    "count": 300
+  },
+  {
+    "op": "walk",
+    "to": [
+      25,
+      22
+    ],
+    "timeout": 9000
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

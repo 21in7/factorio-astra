@@ -1,0 +1,89 @@
+[
+  {
+    "op": "craft",
+    "recipe": "iron-gear-wheel",
+    "count": 20,
+    "_request": "894148427"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 33,
+    "_request": "894148427"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-1",
+    "count": 1,
+    "_request": "894148427"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "894148427"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "steel-plate",
+    "count": 20,
+    "_request": "894148427"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-gear-wheel",
+    "count": 20,
+    "_request": "894148427"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "pipe",
+    "count": 40,
+    "_request": "894148427"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "_request": "894148427"
+  },
+  {
+    "op": "wait_research",
+    "name": "chemical-science-pack",
+    "_request": "894148427"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "recipe": "chemical-science-pack",
+    "_request": "894148427"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "894148427"
+  }
+]

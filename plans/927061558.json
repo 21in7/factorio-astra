@@ -1,0 +1,61 @@
+[
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 1,
+    "_request": "927061558"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "927061558"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      -120.5,
+      -59.5
+    ],
+    "_request": "927061558"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -29.5,
+      -79.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 96,
+    "_request": "927061558"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -124.5,
+      -59.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 96,
+    "_request": "927061558"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -120.5,
+      -50.5
+    ],
+    "inventory": "chest",
+    "item": "utility-science-pack",
+    "count": 3,
+    "_request": "927061558"
+  },
+  {
+    "op": "save",
+    "_request": "927061558"
+  }
+]

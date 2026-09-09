@@ -1,0 +1,96 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "911235569"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "911235569"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "911235569"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "911235569"
+  },
+  {
+    "op": "craft",
+    "recipe": "storage-tank",
+    "count": 2,
+    "_request": "911235569"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 4,
+    "_request": "911235569"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 14,
+    "_request": "911235569"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 2,
+    "_request": "911235569"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 4,
+    "_request": "911235569"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 16,
+    "_request": "911235569"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 2,
+    "_request": "911235569"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "911235569"
+  }
+]

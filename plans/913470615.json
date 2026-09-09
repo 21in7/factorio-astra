@@ -1,0 +1,106 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "913470615"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "913470615"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "913470615"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "913470615"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 60,
+    "_request": "913470615"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      9.5
+    ],
+    "inventory": "chest",
+    "item": "electronic-circuit",
+    "count": 200,
+    "_request": "913470615"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2,
+    "_request": "913470615"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "913470615"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      38,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 20,
+    "_request": "913470615"
+  },
+  {
+    "op": "research",
+    "name": "logistics-2",
+    "_request": "913470615"
+  },
+  {
+    "op": "save",
+    "_request": "913470615"
+  }
+]

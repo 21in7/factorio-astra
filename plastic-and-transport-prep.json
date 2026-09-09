@@ -1,0 +1,39 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 80
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 10
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "wait_research",
+    "name": "plastics"
+  },
+  {
+    "op": "recipe",
+    "name": "chemical-plant",
+    "at": [
+      -81.5,
+      -103.5
+    ],
+    "recipe": "plastic-bar",
+    "_request": "890076933"
+  },
+  {
+    "op": "research",
+    "name": "sulfur-processing",
+    "_request": "890076933"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "890076933"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "op": "research",
+    "name": "low-density-structure",
+    "_request": "905969160"
+  },
+  {
+    "op": "research",
+    "name": "advanced-material-processing-2",
+    "_request": "905969160"
+  },
+  {
+    "op": "research",
+    "name": "flammables",
+    "_request": "905969160"
+  },
+  {
+    "op": "research",
+    "name": "concrete",
+    "_request": "905969160"
+  },
+  {
+    "op": "research",
+    "name": "solar-energy",
+    "_request": "905969160"
+  },
+  {
+    "op": "research",
+    "name": "electric-energy-accumulators",
+    "_request": "905969160"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "905969160"
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -34.5,
+      19.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -39.5,
+      20.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      -36.5,
+      18.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-2",
+    "at": [
+      -36.5,
+      18.5
+    ],
+    "recipe": "grenade"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      -40.5,
+      18.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-2",
+    "at": [
+      -40.5,
+      18.5
+    ],
+    "recipe": "military-science-pack"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -36.5,
+      15.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -40.5,
+      21.5
+    ]
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -40.5,
+      21.5
+    ],
+    "bar": 2
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -36.5,
+      16.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -38.5,
+      18.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -40.5,
+      20.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "put",
+    "at": [
+      -36.5,
+      15.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 125
+  },
+  {
+    "op": "put",
+    "at": [
+      -36.5,
+      15.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 250
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      -40.5,
+      18.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "stone-wall",
+    "count": 50
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      -40.5,
+      18.5
+    ],
+    "inventory": "assembling_machine_input",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 25
+  },
+  {
+    "op": "save"
+  }
+]

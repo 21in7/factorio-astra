@@ -1,0 +1,46 @@
+[
+  {
+    "op": "mine",
+    "name": "gun-turret",
+    "at": [
+      -29,
+      -65
+    ],
+    "_request": "931834287"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -23,
+      -91
+    ],
+    "_request": "931834287"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -23,
+      -91
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 9,
+    "_request": "931834287"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -20.5,
+      -103.5
+    ],
+    "_request": "931834287"
+  },
+  {
+    "op": "save",
+    "_request": "931834287"
+  }
+]

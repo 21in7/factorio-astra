@@ -1,0 +1,174 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      40.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      40.5,
+      -103.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      43.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      42.5,
+      -94.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -97.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -105.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -105.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -105.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 60
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 5
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 4
+  },
+  {
+    "op": "walk",
+    "to": [
+      -20,
+      -70
+    ]
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

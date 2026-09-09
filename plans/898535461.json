@@ -1,0 +1,124 @@
+[
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -119
+    ],
+    "_request": "898535461"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -17.5,
+      -55.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 700,
+    "_request": "898535461"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -33,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "898535461"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -29,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "898535461"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -25,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "898535461"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -35,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "898535461"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -31,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "898535461"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -28,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "898535461"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -17,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "898535461"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -84.5,
+      -103.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 300,
+    "_request": "898535461"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "898535461"
+  }
+]

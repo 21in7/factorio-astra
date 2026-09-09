@@ -1,0 +1,46 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 1,
+    "_request": "949751954"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "949751954"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      33.5
+    ],
+    "direction": 8,
+    "_request": "949751954"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      34.5
+    ],
+    "direction": 8,
+    "_request": "949751954"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -47.5,
+      35.5
+    ],
+    "direction": 8,
+    "_request": "949751954"
+  },
+  {
+    "op": "save",
+    "_request": "949751954"
+  }
+]

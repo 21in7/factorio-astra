@@ -1,0 +1,104 @@
+[
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 30,
+    "_request": "896177066"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 30,
+    "_request": "896177066"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "896177066"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "896177066"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "896177066"
+  },
+  {
+    "op": "craft",
+    "recipe": "steel-furnace",
+    "count": 3,
+    "_request": "896177066"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "896177066"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      48,
+      -116
+    ],
+    "_request": "896177066"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      52,
+      -116
+    ],
+    "_request": "896177066"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      56,
+      -116
+    ],
+    "_request": "896177066"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "896177066"
+  }
+]

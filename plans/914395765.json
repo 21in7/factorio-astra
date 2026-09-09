@@ -1,0 +1,327 @@
+[
+  {
+    "op": "wait_player_item",
+    "item": "transport-belt",
+    "count": 2,
+    "_request": "914395765"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      8.5
+    ],
+    "direction": 8,
+    "_request": "914395765"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      12.5
+    ],
+    "direction": 4,
+    "_request": "914395765"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -1.5,
+      9.5
+    ],
+    "direction": 8,
+    "_request": "914395765"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -1.5,
+      11.5
+    ],
+    "direction": 0,
+    "_request": "914395765"
+  },
+  {
+    "op": "rotate",
+    "name": "long-handed-inserter",
+    "at": [
+      0.5,
+      14.5
+    ],
+    "_request": "914395765"
+  },
+  {
+    "op": "rotate",
+    "name": "long-handed-inserter",
+    "at": [
+      0.5,
+      14.5
+    ],
+    "_request": "914395765"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      17.5
+    ],
+    "inventory": "chest",
+    "item": "productivity-module",
+    "count": 1,
+    "_request": "914395765"
+  },
+  {
+    "op": "save",
+    "_request": "914395765"
+  },
+  {
+    "op": "craft",
+    "recipe": "electric-mining-drill",
+    "count": 3,
+    "_request": "914395765"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "914395765"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -17.5,
+      -55.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 750,
+    "_request": "914395765"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -17,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "914395765"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -28,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "914395765"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -31,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "914395765"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -35,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "914395765"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -29,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "914395765"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -25,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 100,
+    "_request": "914395765"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -43,
+      -64
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "914395765"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -48,
+      -66
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "914395765"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -51,
+      -66
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "914395765"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "914395765"
+  },
+  {
+    "op": "mine",
+    "name": "burner-mining-drill",
+    "at": [
+      -43,
+      -66
+    ],
+    "_request": "914395765"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -43.5,
+      -66.5
+    ],
+    "direction": 8,
+    "_request": "914395765"
+  },
+  {
+    "op": "mine",
+    "name": "burner-mining-drill",
+    "at": [
+      -48,
+      -68
+    ],
+    "_request": "914395765"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -48.5,
+      -68.5
+    ],
+    "direction": 8,
+    "_request": "914395765"
+  },
+  {
+    "op": "mine",
+    "name": "burner-mining-drill",
+    "at": [
+      -51,
+      -68
+    ],
+    "_request": "914395765"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -51.5,
+      -68.5
+    ],
+    "direction": 8,
+    "_request": "914395765"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -44.5,
+      -69.5
+    ],
+    "_request": "914395765"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -50.5,
+      -72.5
+    ],
+    "_request": "914395765"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -42.5,
+      -61.5
+    ],
+    "bar": 6,
+    "_request": "914395765"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -47.5,
+      -63.5
+    ],
+    "bar": 6,
+    "_request": "914395765"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -50.5,
+      -63.5
+    ],
+    "bar": 6,
+    "_request": "914395765"
+  },
+  {
+    "op": "save",
+    "_request": "914395765"
+  }
+]

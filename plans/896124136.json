@@ -1,0 +1,58 @@
+[
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      -8.5,
+      47.5
+    ],
+    "ticks": 300,
+    "_request": "896124136"
+  },
+  {
+    "op": "mine",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      48.5
+    ],
+    "ticks": 300,
+    "_request": "896124136"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -8.5,
+      46.5
+    ],
+    "direction": 8,
+    "_request": "896124136"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      47.5
+    ],
+    "_request": "896124136"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -8.5,
+      47.5
+    ],
+    "inventory": "chest",
+    "item": "stone",
+    "count": 200,
+    "_request": "896124136"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "896124136"
+  }
+]

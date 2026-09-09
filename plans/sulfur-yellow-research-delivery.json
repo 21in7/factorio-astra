@@ -1,0 +1,105 @@
+[
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      -94.5,
+      -69.5
+    ]
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -93.5,
+      -69.5
+    ],
+    "inventory": "chest",
+    "item": "sulfur",
+    "count": 50
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -93.5,
+      -69.5
+    ],
+    "item": "sulfur",
+    "count": 50
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -94.5,
+      -69.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -94.5,
+      -69.5
+    ],
+    "item": "sulfur"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -120.5,
+      -50.5
+    ],
+    "item": "utility-science-pack",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      16.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "utility-science-pack",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      16.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "chemical-science-pack",
+    "count": 10
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 50
+  },
+  {
+    "op": "save"
+  }
+]

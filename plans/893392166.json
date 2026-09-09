@@ -1,0 +1,127 @@
+[
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      29.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      28.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      27.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      26.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      25.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      24.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      23.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      22.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      20.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      18.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      29.5
+    ],
+    "direction": 12,
+    "_request": "893392166"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "893392166"
+  }
+]

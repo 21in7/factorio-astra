@@ -1,0 +1,146 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -25.5,
+      -79.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 600,
+    "_request": "896784596"
+  },
+  {
+    "op": "craft",
+    "recipe": "copper-cable",
+    "count": 300,
+    "_request": "896784596"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 30,
+    "_request": "896784596"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 3,
+    "_request": "896784596"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 4,
+    "_request": "896784596"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "896784596"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -81.5,
+      -106.5
+    ],
+    "inventory": "chest",
+    "item": "plastic-bar",
+    "count": 300,
+    "_request": "896784596"
+  },
+  {
+    "op": "walk",
+    "to": [
+      25,
+      22
+    ],
+    "timeout": 9000,
+    "_request": "896784596"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "896784596"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100,
+    "_request": "896784596"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      22.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200,
+    "_request": "896784596"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100,
+    "_request": "896784596"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200,
+    "_request": "896784596"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 100,
+    "_request": "896784596"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200,
+    "_request": "896784596"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "896784596"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": [
+      -348.3125,
+      -327.375
+    ],
+    "_request": "914985081"
+  },
+  {
+    "op": "craft",
+    "recipe": "pumpjack",
+    "count": 2,
+    "_request": "914985081"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 19,
+    "_request": "914985081"
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 1,
+    "_request": "914985081"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "914985081"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -343,
+      -334
+    ],
+    "tolerance": 1,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -348.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -347.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -346.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -345.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -344.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -343.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -342.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -341.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -340.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -332.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pumpjack",
+    "at": [
+      -349.5,
+      -330.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -330.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -331.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -342.5,
+      -329.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -343.5,
+      -329.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -341.5,
+      -329.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -340.5,
+      -329.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -328.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -329.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -351.5,
+      -327.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pumpjack",
+    "at": [
+      -344.5,
+      -327.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -339.5,
+      -327.5
+    ],
+    "direction": 0,
+    "_request": "914985081"
+  },
+  {
+    "op": "save",
+    "_request": "914985081"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 4,
+    "_request": "910403855"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2,
+    "_request": "910403855"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 10,
+    "_request": "910403855"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      7.5,
+      49.5
+    ],
+    "direction": 12,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      7.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      6.5,
+      48.5
+    ],
+    "direction": 0,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      49.5
+    ],
+    "direction": 4,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      50.5
+    ],
+    "direction": 12,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      7.5,
+      50.5
+    ],
+    "direction": 12,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      9.5,
+      50.5
+    ],
+    "direction": 12,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      50.5
+    ],
+    "direction": 12,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      5,
+      55
+    ],
+    "_request": "910403855"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      5,
+      55
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 30,
+    "_request": "910403855"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      14,
+      55
+    ],
+    "_request": "910403855"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      14,
+      55
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 30,
+    "_request": "910403855"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      14,
+      55
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 1,
+    "_request": "910403855"
+  },
+  {
+    "op": "save",
+    "_request": "910403855"
+  }
+]

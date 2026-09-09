@@ -1,0 +1,93 @@
+[
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "909377242"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "909377242"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "909377242"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      43.5,
+      -117.5
+    ],
+    "_request": "909377242"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      46.5,
+      -116.5
+    ],
+    "direction": 12,
+    "_request": "909377242"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      45.5,
+      -116.5
+    ],
+    "direction": 4,
+    "_request": "909377242"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      44.5,
+      -116.5
+    ],
+    "direction": 4,
+    "_request": "909377242"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      43.5,
+      -116.5
+    ],
+    "direction": 4,
+    "_request": "909377242"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      43.5,
+      -114.5
+    ],
+    "direction": 0,
+    "_request": "909377242"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 1,
+    "_request": "909377242"
+  },
+  {
+    "op": "save",
+    "_request": "909377242"
+  }
+]

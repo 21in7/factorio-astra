@@ -1,0 +1,12 @@
+{
+  "saved_at": "2026-09-09T20:15:13+09:00",
+  "save": "saves/astra-session-end-2026-09-09.zip",
+  "sha256": "03ee7fa5e24b2a2bf36adf5ebd444255678b6db6a86fc805561578a90aa358cc",
+  "last_observed_tick": 4281720,
+  "research": {
+    "current": "rocket-silo",
+    "progress": 0.18999977862979722
+  },
+  "game_closed": true,
+  "queued_actions": 0
+}

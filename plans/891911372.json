@@ -1,0 +1,89 @@
+[
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 3,
+    "_request": "891911372"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 40,
+    "_request": "891911372"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "891911372"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -2,
+      17
+    ],
+    "_request": "891911372"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -2,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 25,
+    "_request": "891911372"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      18,
+      17
+    ],
+    "_request": "891911372"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      18,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 25,
+    "_request": "891911372"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      38,
+      17
+    ],
+    "_request": "891911372"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      38,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 25,
+    "_request": "891911372"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "891911372"
+  }
+]

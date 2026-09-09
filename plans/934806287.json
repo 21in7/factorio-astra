@@ -1,0 +1,157 @@
+[
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 1,
+    "_request": "934806287"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "934806287"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1,
+    "_request": "934806287"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1,
+    "_request": "934806287"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "934806287"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      7.5,
+      -130.5
+    ],
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      7.5,
+      -126.5
+    ],
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      6.5,
+      -127.5
+    ],
+    "_request": "934806287"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      6.5,
+      -127.5
+    ],
+    "bar": 2,
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      6.5,
+      -128.5
+    ],
+    "direction": 8,
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      6.5,
+      -125.5
+    ],
+    "direction": 8,
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      7.5,
+      -127.5
+    ],
+    "direction": 8,
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      7.5,
+      -122.5
+    ],
+    "direction": 0,
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      -124.5
+    ],
+    "direction": 4,
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      7.5,
+      -124.5
+    ],
+    "direction": 4,
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "934806287"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      7.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "934806287"
+  },
+  {
+    "op": "save",
+    "_request": "934806287"
+  }
+]

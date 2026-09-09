@@ -1,0 +1,41 @@
+[
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      32.5,
+      23.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 100,
+    "_request": "902482505"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-gear-wheel",
+    "count": 20,
+    "_request": "902482505"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "902482505"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      46.5,
+      6.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-gear-wheel",
+    "count": 20,
+    "_request": "902482505"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "902482505"
+  }
+]

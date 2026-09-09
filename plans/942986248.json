@@ -1,0 +1,68 @@
+[
+  {
+    "op": "mine",
+    "name": "assembling-machine-1",
+    "at": [
+      -120.5,
+      -53.5
+    ],
+    "_request": "942986248"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 1,
+    "_request": "942986248"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "942986248"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      -120.5,
+      -53.5
+    ],
+    "_request": "942986248"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-2",
+    "at": [
+      -120.5,
+      -53.5
+    ],
+    "recipe": "utility-science-pack",
+    "_request": "942986248"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      -120.5,
+      -53.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "processing-unit",
+    "count": 100,
+    "_request": "942986248"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      -120.5,
+      -53.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "low-density-structure",
+    "count": 100,
+    "_request": "942986248"
+  },
+  {
+    "op": "save",
+    "_request": "942986248"
+  }
+]

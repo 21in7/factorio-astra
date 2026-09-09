@@ -1,0 +1,224 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 40,
+    "_request": "904588435"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "904588435"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "904588435"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      26.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 22,
+    "_request": "904588435"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      26.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 22,
+    "_request": "904588435"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      30.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 23,
+    "_request": "904588435"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      30.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 23,
+    "_request": "904588435"
+  },
+  {
+    "op": "mine",
+    "name": "iron-chest",
+    "at": [
+      26.5,
+      16.5
+    ],
+    "ticks": 300,
+    "_request": "904588435"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      26.5,
+      16.5
+    ],
+    "direction": 4,
+    "_request": "904588435"
+  },
+  {
+    "op": "mine",
+    "name": "iron-chest",
+    "at": [
+      30.5,
+      16.5
+    ],
+    "ticks": 300,
+    "_request": "904588435"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      30.5,
+      16.5
+    ],
+    "direction": 4,
+    "_request": "904588435"
+  },
+  {
+    "op": "craft",
+    "recipe": "roboport",
+    "count": 1,
+    "_request": "904588435"
+  },
+  {
+    "op": "craft",
+    "recipe": "passive-provider-chest",
+    "count": 1,
+    "_request": "904588435"
+  },
+  {
+    "op": "craft",
+    "recipe": "storage-chest",
+    "count": 1,
+    "_request": "904588435"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "904588435"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "904588435"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      4.5,
+      -2.5
+    ],
+    "_request": "904588435"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      4.5,
+      -8.5
+    ],
+    "_request": "904588435"
+  },
+  {
+    "op": "build",
+    "name": "roboport",
+    "at": [
+      2,
+      -9
+    ],
+    "_request": "904588435"
+  },
+  {
+    "op": "build",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "_request": "904588435"
+  },
+  {
+    "op": "build",
+    "name": "storage-chest",
+    "at": [
+      5.5,
+      -6.5
+    ],
+    "_request": "904588435"
+  },
+  {
+    "op": "put",
+    "name": "roboport",
+    "at": [
+      2,
+      -9
+    ],
+    "inventory": "roboport_robot",
+    "item": "construction-robot",
+    "count": 5,
+    "_request": "904588435"
+  },
+  {
+    "op": "put",
+    "name": "passive-provider-chest",
+    "at": [
+      5.5,
+      -8.5
+    ],
+    "inventory": "chest",
+    "item": "repair-pack",
+    "count": 3,
+    "_request": "904588435"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "904588435"
+  }
+]

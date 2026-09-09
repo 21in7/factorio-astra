@@ -1,0 +1,210 @@
+[
+  {
+    "op": "mine",
+    "name": "gun-turret",
+    "at": [
+      -17,
+      -63
+    ]
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -14,
+      -64
+    ]
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -14,
+      -64
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 14
+  },
+  {
+    "op": "mine",
+    "name": "electric-mining-drill",
+    "at": [
+      -21.5,
+      -57.5
+    ]
+  },
+  {
+    "op": "mine",
+    "name": "electric-mining-drill",
+    "at": [
+      -21.5,
+      -53.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -15.5,
+      -61.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -21.5,
+      -63.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -17.5,
+      -63.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -21.5,
+      -61.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -22.5,
+      -61.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -23.5,
+      -61.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -24.5,
+      -61.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      -61.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -26.5,
+      -61.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -29.5,
+      -61.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -19.5,
+      -60.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -23.5,
+      -60.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -30.5,
+      -61.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -17.5,
+      -61.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -17.5,
+      -60.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -18.5,
+      -60.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -24.5,
+      -60.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      -60.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "save"
+  }
+]

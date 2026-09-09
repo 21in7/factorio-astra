@@ -1,0 +1,159 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      43.5
+    ],
+    "item": "copper-plate",
+    "count": 50
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      -12.5,
+      44.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "steel-plate",
+    "count": 20
+  },
+  {
+    "op": "craft",
+    "recipe": "piercing-rounds-magazine",
+    "count": 15
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "stone-wall",
+    "count": 3
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "take",
+    "name": "gun-turret",
+    "at": [
+      -45,
+      35
+    ],
+    "inventory": "turret_ammo",
+    "item": "firearm-magazine",
+    "count": 100
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -45,
+      35
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 10
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      -49.5,
+      33.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      -49.5,
+      34.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      -49.5,
+      35.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      67,
+      -120
+    ],
+    "direction": 4
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      67,
+      -120
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 10
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      67,
+      -107
+    ],
+    "direction": 4
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      67,
+      -107
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 10
+  },
+  {
+    "op": "save"
+  }
+]

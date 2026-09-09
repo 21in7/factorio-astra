@@ -1,0 +1,216 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      9.5
+    ],
+    "inventory": "chest",
+    "item": "electronic-circuit",
+    "count": 100,
+    "_request": "912284215"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      14.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 100,
+    "_request": "912284215"
+  },
+  {
+    "op": "craft",
+    "recipe": "efficiency-module",
+    "count": 20,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      51.5,
+      -118.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      55.5,
+      -118.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      43.5,
+      -114.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      39.5,
+      -114.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      47.5,
+      -110.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      51.5,
+      -110.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      55.5,
+      -110.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      47.5,
+      -102.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      51.5,
+      -102.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "wait_player_item",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "put",
+    "name": "electric-mining-drill",
+    "at": [
+      55.5,
+      -102.5
+    ],
+    "inventory": "mining_drill_modules",
+    "item": "efficiency-module",
+    "count": 2,
+    "_request": "912284215"
+  },
+  {
+    "op": "save",
+    "_request": "912284215"
+  }
+]

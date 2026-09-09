@@ -1,0 +1,127 @@
+[
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      -109.5,
+      -68.5
+    ],
+    "_request": "942730988"
+  },
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      -109.5,
+      -73.5
+    ],
+    "_request": "942730988"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -109.5,
+      -74.5
+    ],
+    "_request": "942730988"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      -109.5,
+      -75.5
+    ],
+    "_request": "942730988"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "942730988"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "942730988"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "942730988"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -108.5,
+      -68.5
+    ],
+    "_request": "942730988"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -109.5,
+      -69.5
+    ],
+    "direction": 0,
+    "_request": "942730988"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -109.5,
+      -73.5
+    ],
+    "direction": 8,
+    "_request": "942730988"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -109.5,
+      -74.5
+    ],
+    "direction": 0,
+    "_request": "942730988"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -109.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "942730988"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -109.5,
+      -68.5
+    ],
+    "direction": 8,
+    "_request": "942730988"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -109.5,
+      -68.5
+    ],
+    "item": "electronic-circuit",
+    "_request": "942730988"
+  },
+  {
+    "op": "save",
+    "_request": "942730988"
+  }
+]

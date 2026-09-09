@@ -1,0 +1,795 @@
+[
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -338.5,
+      -311.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -328.5,
+      -311.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -327.5,
+      -311.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -326.5,
+      -311.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -316.5,
+      -311.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -315.5,
+      -311.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -314.5,
+      -311.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -304.5,
+      -311.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -303.5,
+      -311.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -302.5,
+      -311.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -301.5,
+      -311.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -300.5,
+      -311.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -299.5,
+      -311.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -311.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -310.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -300.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -299.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -298.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -288.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -287.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -286.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -276.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -275.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -274.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -264.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -263.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -262.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -252.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -251.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -250.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -240.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -239.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -238.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -228.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -227.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -226.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -216.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -215.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -214.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -204.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -203.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -202.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -192.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -191.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -190.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -180.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -179.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -178.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -298.5,
+      -168.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -167.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -166.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -165.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -298.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -297.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -287.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -286.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -285.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -275.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -274.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -273.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -263.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -262.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -261.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -251.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -250.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -249.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -239.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -238.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -237.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -227.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -226.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -225.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -215.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -214.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -213.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -203.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -202.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -201.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -191.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -190.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -189.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -179.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -178.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -177.5,
+      -164.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "pipe-to-ground",
+    "at": [
+      -167.5,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -166.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -165.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -164.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -163.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -162.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -161.5,
+      -164.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "pump",
+    "at": [
+      -160,
+      -164.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

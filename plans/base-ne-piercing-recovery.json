@@ -1,0 +1,166 @@
+[
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      39.5,
+      -12.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      39,
+      -14
+    ]
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      39,
+      -14
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 10
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      39.5,
+      -12.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      44.5,
+      -9.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      43,
+      -10
+    ]
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      43,
+      -10
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 10
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      44.5,
+      -9.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      47.5,
+      -12.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      47,
+      -14
+    ]
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      47,
+      -14
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 10
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      47.5,
+      -12.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      54.5,
+      -9.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ]
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 10
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      54.5,
+      -9.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 2
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "save"
+  }
+]

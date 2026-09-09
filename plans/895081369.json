@@ -1,0 +1,274 @@
+[
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "transport-belt",
+    "count": 126,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "underground-belt",
+    "count": 2,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "pipe-to-ground",
+    "count": 8,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "pump",
+    "count": 1,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "burner-mining-drill",
+    "count": 1,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "assembling-machine-1",
+    "count": 2,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "coal",
+    "count": 207,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "stone",
+    "count": 16,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "iron-ore",
+    "count": 5,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "iron-plate",
+    "count": 791,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "copper-plate",
+    "count": 264,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "steel-plate",
+    "count": 6,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "sulfur",
+    "count": 60,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "iron-gear-wheel",
+    "count": 15,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "copper-cable",
+    "count": 25,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "electronic-circuit",
+    "count": 7,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "pistol",
+    "count": 2,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "submachine-gun",
+    "count": 2,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "firearm-magazine",
+    "count": 43,
+    "_request": "895081369"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      77.46484375,
+      216.7734375
+    ],
+    "inventory": "character_corpse",
+    "item": "light-armor",
+    "count": 2,
+    "_request": "895081369"
+  },
+  {
+    "op": "walk",
+    "to": [
+      25,
+      12
+    ],
+    "timeout": 9000,
+    "_request": "895081369"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 15,
+    "_request": "895081369"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 3,
+    "_request": "895081369"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1,
+    "_request": "895081369"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "895081369"
+  }
+]

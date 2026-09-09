@@ -1,0 +1,142 @@
+[
+  {
+    "op": "wait_inventory",
+    "name": "stone-furnace",
+    "at": [
+      -43,
+      -64
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 20,
+    "_request": "907431834"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -43,
+      -64
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 20,
+    "_request": "907431834"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "stone-furnace",
+    "at": [
+      -48,
+      -66
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 20,
+    "_request": "907431834"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -48,
+      -66
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 20,
+    "_request": "907431834"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "stone-furnace",
+    "at": [
+      -51,
+      -66
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 20,
+    "_request": "907431834"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -51,
+      -66
+    ],
+    "inventory": "furnace_result",
+    "item": "stone-brick",
+    "count": 20,
+    "_request": "907431834"
+  },
+  {
+    "op": "craft",
+    "recipe": "steel-furnace",
+    "count": 6,
+    "_request": "907431834"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "907431834"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -29,
+      -82
+    ],
+    "_request": "907431834"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -25,
+      -82
+    ],
+    "_request": "907431834"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -35,
+      -74
+    ],
+    "_request": "907431834"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -31,
+      -74
+    ],
+    "_request": "907431834"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -28,
+      -74
+    ],
+    "_request": "907431834"
+  },
+  {
+    "op": "build",
+    "name": "steel-furnace",
+    "at": [
+      -17,
+      -74
+    ],
+    "_request": "907431834"
+  },
+  {
+    "op": "save",
+    "_request": "907431834"
+  }
+]

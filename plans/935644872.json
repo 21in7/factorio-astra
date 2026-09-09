@@ -1,0 +1,56 @@
+[
+  {
+    "op": "take",
+    "at": [
+      -5.5,
+      35.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-plate",
+    "count": 2,
+    "_request": "935644872"
+  },
+  {
+    "op": "take",
+    "at": [
+      -9.5,
+      39.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-plate",
+    "count": 2,
+    "_request": "935644872"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2,
+    "_request": "935644872"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "935644872"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      52.5,
+      10.5
+    ],
+    "_request": "935644872"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      51.5,
+      30.5
+    ],
+    "_request": "935644872"
+  },
+  {
+    "op": "save",
+    "_request": "935644872"
+  }
+]

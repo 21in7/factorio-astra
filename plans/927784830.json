@@ -1,0 +1,143 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "927784830"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "927784830"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -6.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 100,
+    "_request": "927784830"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      9.5
+    ],
+    "inventory": "chest",
+    "item": "electronic-circuit",
+    "count": 100,
+    "_request": "927784830"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 11,
+    "_request": "927784830"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 3,
+    "_request": "927784830"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1,
+    "_request": "927784830"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 1,
+    "_request": "927784830"
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 1,
+    "_request": "927784830"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "927784830"
+  },
+  {
+    "op": "mine",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      56.5
+    ],
+    "_request": "927784830"
+  },
+  {
+    "op": "put",
+    "name": "steel-furnace",
+    "at": [
+      -5,
+      53
+    ],
+    "inventory": "furnace_source",
+    "item": "iron-plate",
+    "count": 50,
+    "_request": "927784830"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      55.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 10,
+    "_request": "927784830"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      55.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 10,
+    "_request": "927784830"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      56.5
+    ],
+    "direction": 0,
+    "_request": "927784830"
+  },
+  {
+    "op": "save",
+    "_request": "927784830"
+  }
+]

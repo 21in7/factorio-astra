@@ -1,0 +1,83 @@
+[
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -344.5,
+      -316.5
+    ],
+    "_request": "888066467"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -342.5,
+      -321.5
+    ],
+    "_request": "888066467"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -346.5,
+      -324.5
+    ],
+    "_request": "888066467"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -351.5,
+      -327.5
+    ],
+    "_request": "888066467"
+  },
+  {
+    "op": "build",
+    "name": "pumpjack",
+    "at": [
+      -345.5,
+      -318.5
+    ],
+    "direction": 0,
+    "_request": "888066467"
+  },
+  {
+    "op": "build",
+    "name": "pumpjack",
+    "at": [
+      -348.5,
+      -321.5
+    ],
+    "direction": 0,
+    "_request": "888066467"
+  },
+  {
+    "op": "build",
+    "name": "pumpjack",
+    "at": [
+      -344.5,
+      -327.5
+    ],
+    "direction": 0,
+    "_request": "888066467"
+  },
+  {
+    "op": "build",
+    "name": "pumpjack",
+    "at": [
+      -349.5,
+      -330.5
+    ],
+    "direction": 0,
+    "_request": "888066467"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "888066467"
+  }
+]

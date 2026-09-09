@@ -1,0 +1,122 @@
+[
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      27.5,
+      22.5
+    ],
+    "ticks": 300,
+    "_request": "903903347"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      28.5,
+      22.5
+    ],
+    "ticks": 300,
+    "_request": "903903347"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      29.5,
+      22.5
+    ],
+    "ticks": 300,
+    "_request": "903903347"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      30.5,
+      22.5
+    ],
+    "ticks": 300,
+    "_request": "903903347"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      30.5,
+      22.5
+    ],
+    "direction": 4,
+    "_request": "903903347"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      29.5,
+      22.5
+    ],
+    "direction": 4,
+    "_request": "903903347"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      28.5,
+      22.5
+    ],
+    "direction": 4,
+    "_request": "903903347"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      27.5,
+      22.5
+    ],
+    "direction": 4,
+    "_request": "903903347"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "plastic-bar",
+    "count": 4,
+    "_request": "903903347"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "903903347"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      63,
+      -110
+    ],
+    "_request": "903903347"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      45,
+      23
+    ],
+    "_request": "903903347"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "903903347"
+  }
+]

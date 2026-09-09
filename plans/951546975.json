@@ -1,0 +1,66 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 1,
+    "_request": "951546975"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "951546975"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      34.5,
+      -123.5
+    ],
+    "direction": 4,
+    "_request": "951546975"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      34.5,
+      -119.5
+    ],
+    "direction": 12,
+    "_request": "951546975"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      34.5,
+      -104.5
+    ],
+    "direction": 12,
+    "_request": "951546975"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      34.5,
+      -121.5
+    ],
+    "direction": 0,
+    "_request": "951546975"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "long-handed-inserter",
+    "at": [
+      34.5,
+      -121.5
+    ],
+    "item": "coal",
+    "_request": "951546975"
+  },
+  {
+    "op": "save",
+    "_request": "951546975"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -114.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -113.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -112.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -111.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -110.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -109.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -108.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -107.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -106.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -105.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      65.5,
+      -124.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      66.5,
+      -124.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      67.5,
+      -124.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      68.5,
+      -124.5
+    ],
+    "_request": "912107066"
+  },
+  {
+    "op": "save",
+    "_request": "912107066"
+  }
+]

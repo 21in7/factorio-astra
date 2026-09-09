@@ -1,0 +1,1318 @@
+[
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      47.5,
+      -102.5
+    ],
+    "direction": 8,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      48.0,
+      -100
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      47.5,
+      -98.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -97.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      51.5,
+      -102.5
+    ],
+    "direction": 8,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "stone-furnace",
+    "at": [
+      52.0,
+      -100
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      51.5,
+      -98.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -97.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      46.5,
+      -99.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48.0,
+      -108.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52.0,
+      -108.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56.0,
+      -108.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48.0,
+      -116.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52.0,
+      -116.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56.0,
+      -116.0
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48.0,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52.0,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 30,
+    "_request": "893011053"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -2,
+      22
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      4.5,
+      19.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      19.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      12.5,
+      15.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      12.5,
+      19.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      8.5,
+      26.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      12.5,
+      26.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      8.5,
+      16.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      15.5,
+      19.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      4.5,
+      17.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      8.5,
+      17.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      13.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      14.5,
+      19.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      6.5,
+      19.5
+    ],
+    "direction": 12,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      17.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      8.5,
+      21.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      21.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      8.5,
+      24.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      24.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      8.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      12.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      10.5,
+      26.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      10.5,
+      21.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      6.5,
+      17.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      14.5,
+      17.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      14.5,
+      13.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      22.5
+    ],
+    "direction": 8,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      12.5,
+      22.5
+    ],
+    "direction": 8,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      9.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      10.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      11.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      12.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      20.5,
+      26.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      20.5,
+      24.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      20.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      24.5,
+      26.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      24.5,
+      24.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      24.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "lab",
+    "at": [
+      28.5,
+      26.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      28.5,
+      24.5
+    ],
+    "direction": 0,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      28.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      17.5,
+      26.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      22.5,
+      26.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      26.5,
+      26.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      13.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      14.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      15.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      16.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      18.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      20.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      22.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      23.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      24.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      25.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      26.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      27.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      28.5,
+      23.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      18.5,
+      15.5
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      0.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      1.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      2.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      3.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      4.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      5.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      7.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      9.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      10.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      11.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      12.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      13.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      14.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      15.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      16.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      17.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      18.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      19.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      20.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      22.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      23.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      24.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      25.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      26.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      27.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      28.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      29.5,
+      10.5
+    ],
+    "direction": 4,
+    "_request": "893011053"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      4.5,
+      19.5
+    ],
+    "recipe": "iron-gear-wheel",
+    "_request": "893011053"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      12.5,
+      15.5
+    ],
+    "recipe": "iron-gear-wheel",
+    "_request": "893011053"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      8.5,
+      19.5
+    ],
+    "recipe": "automation-science-pack",
+    "_request": "893011053"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      12.5,
+      19.5
+    ],
+    "recipe": "automation-science-pack",
+    "_request": "893011053"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-1",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "recipe": "engine-unit",
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 200,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 200,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "wooden-chest",
+    "at": [
+      -13.5,
+      32.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 150,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -5.5,
+      32.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 150,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -6.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 150,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      8.5,
+      16.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 150,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      15.5,
+      19.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 150,
+    "_request": "893011053"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 120,
+    "_request": "893011053"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -2,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 50,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      18,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 50,
+    "_request": "893011053"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      38,
+      17
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "firearm-magazine",
+    "count": 50,
+    "_request": "893011053"
+  },
+  {
+    "op": "walk",
+    "to": [
+      -77,
+      -108
+    ],
+    "_request": "893011053"
+  },
+  {
+    "op": "recipe",
+    "name": "chemical-plant",
+    "at": [
+      -73.5,
+      -103.5
+    ],
+    "recipe": "sulfur",
+    "_request": "893011053"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "893011053"
+  }
+]

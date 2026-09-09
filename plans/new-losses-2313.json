@@ -1,0 +1,28 @@
+[
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -101.5,
+      "x": -57.5
+    },
+    "id": 9312,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -101.5,
+      "x": -56.5
+    },
+    "id": 9310,
+    "direction": 12,
+    "ghost_name": "pipe-to-ground",
+    "inventories": {},
+    "fluids": {}
+  }
+]

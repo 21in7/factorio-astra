@@ -1,0 +1,287 @@
+[
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -348.5
+    },
+    "id": 8522,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -347.5
+    },
+    "id": 8520,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -346.5
+    },
+    "id": 8519,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -345.5
+    },
+    "id": 8516,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -344.5
+    },
+    "id": 8513,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -343.5
+    },
+    "id": 8512,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -342.5
+    },
+    "id": 8509,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -341.5
+    },
+    "id": 8507,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -340.5
+    },
+    "id": 8506,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -332.5,
+      "x": -339.5
+    },
+    "id": 8505,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -330.5,
+      "x": -349.5
+    },
+    "id": 8524,
+    "direction": 0,
+    "ghost_name": "pumpjack",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -330.5,
+      "x": -339.5
+    },
+    "id": 8514,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -331.5,
+      "x": -339.5
+    },
+    "id": 8510,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -329.5,
+      "x": -342.5
+    },
+    "id": 8545,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -329.5,
+      "x": -343.5
+    },
+    "id": 8528,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -329.5,
+      "x": -341.5
+    },
+    "id": 8530,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -329.5,
+      "x": -340.5
+    },
+    "id": 8523,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -328.5,
+      "x": -339.5
+    },
+    "id": 8525,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -329.5,
+      "x": -339.5
+    },
+    "id": 8518,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -327.5,
+      "x": -351.5
+    },
+    "id": 8529,
+    "direction": 0,
+    "ghost_name": "small-electric-pole",
+    "inventories": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -327.5,
+      "x": -344.5
+    },
+    "id": 8548,
+    "direction": 0,
+    "ghost_name": "pumpjack",
+    "inventories": {},
+    "fluids": {}
+  },
+  {
+    "name": "entity-ghost",
+    "type": "entity-ghost",
+    "position": {
+      "y": -327.5,
+      "x": -339.5
+    },
+    "id": 8551,
+    "direction": 0,
+    "ghost_name": "pipe",
+    "inventories": {},
+    "fluids": {}
+  }
+]

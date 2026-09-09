@@ -1,0 +1,38 @@
+[
+  {
+    "op": "research",
+    "name": "construction-robotics",
+    "_request": "901795095"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 4,
+    "_request": "901795095"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "901795095"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      45,
+      23
+    ],
+    "_request": "901795095"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "901795095"
+  }
+]

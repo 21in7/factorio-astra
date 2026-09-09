@@ -1,0 +1,86 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      16.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "934970509"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      12.5,
+      12.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "934970509"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "item": "steel-plate",
+    "count": 50,
+    "_request": "934970509"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -6.5,
+      39.5
+    ],
+    "item": "copper-plate",
+    "count": 100,
+    "_request": "934970509"
+  },
+  {
+    "op": "craft",
+    "recipe": "electric-mining-drill",
+    "count": 1,
+    "_request": "934970509"
+  },
+  {
+    "op": "craft",
+    "recipe": "steel-furnace",
+    "count": 1,
+    "_request": "934970509"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2,
+    "_request": "934970509"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 1,
+    "_request": "934970509"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 3,
+    "_request": "934970509"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 12,
+    "_request": "934970509"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "934970509"
+  }
+]

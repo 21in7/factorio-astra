@@ -1,0 +1,146 @@
+[
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      43.5
+    ],
+    "bar": 2
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      4.5,
+      45.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      3.5,
+      45.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      6.5,
+      48.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      4.5,
+      49.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      4.5,
+      48.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      4.5,
+      45.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      4.5,
+      44.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      43.5
+    ],
+    "bar": 2
+  },
+  {
+    "op": "mine",
+    "name": "small-electric-pole",
+    "at": [
+      24.5,
+      45.5
+    ],
+    "ticks": 300
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      23.5,
+      45.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      26.5,
+      48.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      24.5,
+      49.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      24.5,
+      48.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      24.5,
+      45.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      24.5,
+      44.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

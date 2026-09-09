@@ -1,0 +1,246 @@
+[
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -129.875,
+      "x": -201.125
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -129.3125,
+      "x": -197.125
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -133.9375,
+      "x": -198
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -128.625,
+      "x": -204.375
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -133.5625,
+      "x": -203.5625
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -124.5625,
+      "x": -202.5625
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -129.6875,
+      "x": -193.6875
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -124.9375,
+      "x": -194.3125
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -139.625,
+      "x": -205.125
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -121.4375,
+      "x": -191.1875
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -138.9375,
+      "x": -208.4375
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -137.25,
+      "x": -213.5625
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -140.5625,
+      "x": -220.4375
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -135.4375,
+      "x": -222.875
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -93.8125,
+      "x": -192.9375
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -89.9375,
+      "x": -187.9375
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -85.875,
+      "x": -198.125
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -84.8125,
+      "x": -196.4375
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -83.9375,
+      "x": -201.375
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -84,
+      "x": -190.1875
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -82.125,
+      "x": -189
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-grey-trunk",
+    "at": {
+      "y": -80.6875,
+      "x": -193.3125
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "mine",
+    "name": "dead-tree-desert",
+    "at": {
+      "y": -77.5,
+      "x": -190.375
+    },
+    "ticks": 300,
+    "_request": "887211534"
+  },
+  {
+    "op": "craft",
+    "recipe": "small-electric-pole",
+    "count": 40,
+    "_request": "887211534"
+  },
+  {
+    "op": "walk",
+    "to": [
+      33,
+      -94
+    ],
+    "_request": "887211534"
+  }
+]

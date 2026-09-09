@@ -1,0 +1,230 @@
+[
+  {
+    "op": "take",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "engine-unit",
+    "count": 4,
+    "_request": "900804410"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "engine-unit",
+    "count": 1,
+    "_request": "900804410"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "engine-unit",
+    "count": 1,
+    "_request": "900804410"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      22.5,
+      15.5
+    ],
+    "reverse": true,
+    "_request": "900804410"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -108.5,
+      -87.5
+    ],
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -112.5,
+      -79.5
+    ],
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      -114.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "900804410"
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-2",
+    "at": [
+      -114.5,
+      -75.5
+    ],
+    "recipe": "electric-engine-unit",
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -111.5,
+      -80.5
+    ],
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -112.5,
+      -80.5
+    ],
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -113.5,
+      -80.5
+    ],
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -114.5,
+      -80.5
+    ],
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -114.5,
+      -79.5
+    ],
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -114.5,
+      -78.5
+    ],
+    "_request": "900804410"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -114.5,
+      -77.5
+    ],
+    "_request": "900804410"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      -114.5,
+      -75.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "engine-unit",
+    "count": 5,
+    "_request": "900804410"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      -114.5,
+      -75.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "electronic-circuit",
+    "count": 10,
+    "_request": "900804410"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-2",
+    "at": [
+      -114.5,
+      -75.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "electric-engine-unit",
+    "count": 4,
+    "_request": "900804410"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-2",
+    "at": [
+      -114.5,
+      -75.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "electric-engine-unit",
+    "count": 4,
+    "_request": "900804410"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-2",
+    "at": [
+      -114.5,
+      -75.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "electric-engine-unit",
+    "count": 1,
+    "_request": "900804410"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-2",
+    "at": [
+      -114.5,
+      -75.5
+    ],
+    "inventory": "assembling_machine_output",
+    "item": "electric-engine-unit",
+    "count": 1,
+    "_request": "900804410"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "900804410"
+  }
+]

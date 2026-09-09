@@ -1,0 +1,121 @@
+[
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "_request": "903999013"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "903999013"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "903999013"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "903999013"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "_request": "903999013"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "903999013"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "903999013"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "903999013"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 2,
+    "_request": "903999013"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "903999013"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "_request": "903999013"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "_request": "903999013"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "903999013"
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 80
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -72.5
+    ],
+    "item": "iron-plate",
+    "count": 80
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 15
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 2
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 2
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 6
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 2
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -91.5,
+      -60.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -91.5,
+      -54.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      -89.5,
+      -59.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-2",
+    "at": [
+      -89.5,
+      -59.5
+    ],
+    "recipe": "copper-cable"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      -89.5,
+      -55.5
+    ]
+  },
+  {
+    "op": "recipe",
+    "name": "assembling-machine-2",
+    "at": [
+      -89.5,
+      -55.5
+    ],
+    "recipe": "electronic-circuit"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -94.5,
+      -65.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -94.5,
+      -65.5
+    ],
+    "item": "iron-plate"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -92.5,
+      -64.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -92.5,
+      -64.5
+    ],
+    "item": "copper-plate"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -94.5,
+      -64.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -89.5,
+      -64.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -88.5,
+      -64.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -88.5,
+      -63.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -89.5,
+      -63.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -90.5,
+      -63.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -91.5,
+      -63.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -92.5,
+      -63.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -92.5,
+      -62.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -93.5,
+      -62.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -93.5,
+      -61.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -93.5,
+      -60.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -93.5,
+      -59.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -93.5,
+      -58.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -93.5,
+      -57.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -93.5,
+      -56.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -93.5,
+      -55.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -92.5,
+      -55.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -91.5,
+      -64.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -91.5,
+      -62.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -91.5,
+      -61.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -90.5,
+      -61.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -90.5,
+      -62.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -89.5,
+      -62.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -61.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -61.5
+    ],
+    "item": "copper-plate"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -57.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -57.5
+    ],
+    "item": "copper-cable"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -91.5,
+      -55.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -91.5,
+      -55.5
+    ],
+    "item": "iron-plate"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -89.5,
+      -52.5
+    ]
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -89.5,
+      -52.5
+    ],
+    "bar": 2
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -53.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -89.5,
+      -53.5
+    ],
+    "item": "electronic-circuit"
+  },
+  {
+    "op": "save"
+  }
+]

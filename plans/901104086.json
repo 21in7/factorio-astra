@@ -1,0 +1,258 @@
+[
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 1,
+    "_request": "901104086"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -102.5,
+      -81.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -99.5,
+      -73.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -99.5,
+      -64.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -69.5
+    ],
+    "direction": 0,
+    "_request": "901104086"
+  },
+  {
+    "op": "recipe",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -69.5
+    ],
+    "recipe": "sulfuric-acid",
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -63.5
+    ],
+    "direction": 0,
+    "_request": "901104086"
+  },
+  {
+    "op": "recipe",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -63.5
+    ],
+    "recipe": "battery",
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -98.5,
+      -74.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -98.5,
+      -73.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -98.5,
+      -72.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -72.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -71.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -67.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -66.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "pipe",
+    "at": [
+      -97.5,
+      -65.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -60.5
+    ],
+    "_request": "901104086"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -60.5
+    ],
+    "inventory": "chest",
+    "bar": 2,
+    "_request": "901104086"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -96.5,
+      -61.5
+    ],
+    "direction": 0,
+    "_request": "901104086"
+  },
+  {
+    "op": "put",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -69.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 50,
+    "_request": "901104086"
+  },
+  {
+    "op": "put",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -69.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-plate",
+    "count": 10,
+    "_request": "901104086"
+  },
+  {
+    "op": "put",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -63.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-plate",
+    "count": 25,
+    "_request": "901104086"
+  },
+  {
+    "op": "put",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -63.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-plate",
+    "count": 25,
+    "_request": "901104086"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -60.5
+    ],
+    "inventory": "chest",
+    "item": "battery",
+    "count": 10,
+    "_request": "901104086"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -96.5,
+      -60.5
+    ],
+    "inventory": "chest",
+    "item": "battery",
+    "count": 10,
+    "_request": "901104086"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "901104086"
+  }
+]

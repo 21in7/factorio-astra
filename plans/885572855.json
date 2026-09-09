@@ -1,0 +1,188 @@
+[
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "submachine-gun",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "light-armor",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "firearm-magazine",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "radar",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "steel-plate",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "iron-plate",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "copper-plate",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "coal",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "stone",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "wood",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "small-electric-pole",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "transport-belt",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "iron-ore",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "take",
+    "name": "character-corpse",
+    "at": [
+      260.17578125,
+      -40.34375
+    ],
+    "inventory": "character_corpse",
+    "item": "pistol",
+    "count": 10000,
+    "_request": "885572855"
+  },
+  {
+    "op": "research",
+    "name": "oil-gathering",
+    "_request": "885572855"
+  },
+  {
+    "op": "walk",
+    "to": [
+      165,
+      -52
+    ],
+    "_request": "885572855"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "885572855"
+  }
+]

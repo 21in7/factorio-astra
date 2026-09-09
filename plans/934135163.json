@@ -1,0 +1,41 @@
+[
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -120.5,
+      -50.5
+    ],
+    "inventory": "chest",
+    "item": "utility-science-pack",
+    "count": 90,
+    "_request": "934135163"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -120.5,
+      -50.5
+    ],
+    "item": "utility-science-pack",
+    "count": 90,
+    "_request": "934135163"
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      16.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "utility-science-pack",
+    "count": 90,
+    "_request": "934135163"
+  },
+  {
+    "op": "save",
+    "_request": "934135163"
+  }
+]

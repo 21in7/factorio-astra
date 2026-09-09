@@ -1,0 +1,48 @@
+[
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 1,
+    "_request": "908279224"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 4,
+    "_request": "908279224"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1,
+    "_request": "908279224"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 5,
+    "_request": "908279224"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 1,
+    "_request": "908279224"
+  },
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 9,
+    "_request": "908279224"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1,
+    "_request": "908279224"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "908279224"
+  }
+]

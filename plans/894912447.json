@@ -1,0 +1,128 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "894912447"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "894912447"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "894912447"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "894912447"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "894912447"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "copper-plate",
+    "count": 100,
+    "_request": "894912447"
+  },
+  {
+    "op": "craft",
+    "recipe": "submachine-gun",
+    "count": 1,
+    "_request": "894912447"
+  },
+  {
+    "op": "craft",
+    "recipe": "light-armor",
+    "count": 1,
+    "_request": "894912447"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 2,
+    "_request": "894912447"
+  },
+  {
+    "op": "craft",
+    "recipe": "firearm-magazine",
+    "count": 50,
+    "_request": "894912447"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "894912447"
+  },
+  {
+    "op": "equip",
+    "inventory": "character_guns",
+    "item": "submachine-gun",
+    "count": 1,
+    "_request": "894912447"
+  },
+  {
+    "op": "swap_equipment",
+    "inventory": "character_guns",
+    "a": 1,
+    "b": 2,
+    "_request": "894912447"
+  },
+  {
+    "op": "equip",
+    "inventory": "character_armor",
+    "item": "light-armor",
+    "count": 1,
+    "_request": "894912447"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "894912447"
+  }
+]

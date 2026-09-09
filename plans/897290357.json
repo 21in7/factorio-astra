@@ -1,0 +1,83 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      4.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "897290357"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      24.5,
+      35.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "897290357"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "897290357"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-gear-wheel",
+    "count": 80,
+    "_request": "897290357"
+  },
+  {
+    "op": "craft",
+    "recipe": "pipe",
+    "count": 160,
+    "_request": "897290357"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "897290357"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-gear-wheel",
+    "count": 80,
+    "_request": "897290357"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      20.5,
+      15.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "pipe",
+    "count": 100,
+    "_request": "897290357"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "897290357"
+  }
+]

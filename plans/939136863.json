@@ -1,0 +1,96 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 2,
+    "_request": "939136863"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1,
+    "_request": "939136863"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1,
+    "_request": "939136863"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "939136863"
+  },
+  {
+    "op": "mine",
+    "name": "electric-mining-drill",
+    "at": [
+      -35.5,
+      -76.5
+    ],
+    "_request": "939136863"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -37.5,
+      -80.5
+    ],
+    "_request": "939136863"
+  },
+  {
+    "op": "build",
+    "name": "electric-mining-drill",
+    "at": [
+      -35.5,
+      -80.5
+    ],
+    "direction": 8,
+    "_request": "939136863"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -35.5,
+      -78.5
+    ],
+    "direction": 8,
+    "_request": "939136863"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -35.5,
+      -77.5
+    ],
+    "direction": 8,
+    "_request": "939136863"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -35.5,
+      -76.5
+    ],
+    "direction": 8,
+    "_request": "939136863"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -35.5,
+      -75.5
+    ],
+    "direction": 0,
+    "_request": "939136863"
+  },
+  {
+    "op": "save",
+    "_request": "939136863"
+  }
+]

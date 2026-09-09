@@ -1,0 +1,153 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 5
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "craft",
+    "recipe": "medium-electric-pole",
+    "count": 1
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -107.5,
+      -53.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "inserter_filter",
+    "name": "long-handed-inserter",
+    "at": [
+      -107.5,
+      -53.5
+    ],
+    "item": "electronic-circuit"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -105.5,
+      -57.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -105.5,
+      -57.5
+    ],
+    "item": "electronic-circuit"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      -104.5,
+      -52.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -107.5,
+      -51.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -106.5,
+      -51.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -105.5,
+      -51.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -105.5,
+      -52.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -105.5,
+      -56.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -105.5,
+      -53.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -105.5,
+      -55.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "save"
+  }
+]

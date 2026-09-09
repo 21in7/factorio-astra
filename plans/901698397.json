@@ -1,0 +1,87 @@
+[
+  {
+    "op": "mine",
+    "name": "underground-belt",
+    "at": [
+      35.5,
+      15.5
+    ],
+    "ticks": 300,
+    "_request": "901698397"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      34.5,
+      15.5
+    ],
+    "direction": 12,
+    "_request": "901698397"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      35.5,
+      15.5
+    ],
+    "direction": 12,
+    "_request": "901698397"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 4,
+    "_request": "901698397"
+  },
+  {
+    "op": "take",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 200,
+    "_request": "901698397"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "assembling-machine-1",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "copper-cable",
+    "count": 4,
+    "_request": "901698397"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "901698397"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      45,
+      23
+    ],
+    "_request": "901698397"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "901698397"
+  }
+]

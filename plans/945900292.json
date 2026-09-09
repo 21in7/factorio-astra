@@ -1,0 +1,93 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      39.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "945900292"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      34.5,
+      43.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "945900292"
+  },
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 1,
+    "_request": "945900292"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "945900292"
+  },
+  {
+    "op": "craft",
+    "recipe": "piercing-rounds-magazine",
+    "count": 10,
+    "_request": "945900292"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "945900292"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      -46,
+      34
+    ],
+    "direction": 12,
+    "_request": "945900292"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -46,
+      34
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 16,
+    "_request": "945900292"
+  },
+  {
+    "op": "repair",
+    "name": "gun-turret",
+    "at": [
+      -43,
+      25
+    ],
+    "_request": "945900292"
+  },
+  {
+    "op": "put",
+    "name": "gun-turret",
+    "at": [
+      -43,
+      25
+    ],
+    "inventory": "turret_ammo",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 4,
+    "_request": "945900292"
+  },
+  {
+    "op": "save",
+    "_request": "945900292"
+  }
+]

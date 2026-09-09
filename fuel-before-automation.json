@@ -1,0 +1,255 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -17.5,
+      -55.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 1200
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -33,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -29,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -25,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -35,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -31,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -28,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -17,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -84.5,
+      -103.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 200
+  },
+  {
+    "op": "walk",
+    "to": [
+      33,
+      -94
+    ]
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      40,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      43,
+      -103
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      46,
+      -106
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      43,
+      -97
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56,
+      -100
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48,
+      -108
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52,
+      -108
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56,
+      -108
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      48,
+      -116
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      52,
+      -116
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      56,
+      -116
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40
+  },
+  {
+    "op": "save",
+    "name": "astra-progress"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "op": "mine",
+    "name": "long-handed-inserter",
+    "at": [
+      8.5,
+      51.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      53.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      54.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      55.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      56.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      57.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      58.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      9.5,
+      58.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      10.5,
+      58.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "mine",
+    "name": "transport-belt",
+    "at": [
+      11.5,
+      58.5
+    ],
+    "_request": "922488001"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      57.5
+    ],
+    "direction": 8,
+    "_request": "922488001"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      58.5
+    ],
+    "direction": 4,
+    "_request": "922488001"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      9.5,
+      58.5
+    ],
+    "direction": 4,
+    "_request": "922488001"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      10.5,
+      58.5
+    ],
+    "direction": 4,
+    "_request": "922488001"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      11.5,
+      58.5
+    ],
+    "direction": 4,
+    "_request": "922488001"
+  },
+  {
+    "op": "save",
+    "_request": "922488001"
+  }
+]

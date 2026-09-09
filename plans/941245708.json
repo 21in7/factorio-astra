@@ -1,0 +1,61 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -93.5,
+      -69.5
+    ],
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "941245708"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -94.5,
+      -69.5
+    ],
+    "item": "sulfur",
+    "_request": "941245708"
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      -96.5,
+      -71.5
+    ],
+    "item": "iron-plate",
+    "_request": "941245708"
+  },
+  {
+    "op": "take",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -63.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "941245708"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "chemical-plant",
+    "at": [
+      -96.5,
+      -63.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "iron-plate",
+    "count": 2,
+    "_request": "941245708"
+  },
+  {
+    "op": "save",
+    "_request": "941245708"
+  }
+]

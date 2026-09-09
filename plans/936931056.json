@@ -1,0 +1,778 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 39,
+    "_request": "936931056"
+  },
+  {
+    "op": "craft",
+    "recipe": "underground-belt",
+    "count": 5,
+    "_request": "936931056"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 1,
+    "_request": "936931056"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -36.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -35.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -34.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -33.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -28.5,
+      21.5
+    ],
+    "direction": 12,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -27.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -26.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -25.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -24.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -23.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -22.5,
+      21.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -21.5,
+      21.5
+    ],
+    "direction": 8,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -21.5,
+      22.5
+    ],
+    "direction": 8,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -21.5,
+      23.5
+    ],
+    "direction": 8,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -21.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -20.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -15.5,
+      24.5
+    ],
+    "direction": 12,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -14.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -13.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -12.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -11.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -10.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -9.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -8.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -7.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -6.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -5.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -3.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -2.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      24.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      24.5
+    ],
+    "direction": 8,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -0.5,
+      25.5
+    ],
+    "direction": 8,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      -0.5,
+      30.5
+    ],
+    "direction": 0,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      31.5
+    ],
+    "direction": 8,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      32.5
+    ],
+    "direction": 8,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      0.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      1.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      2.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      3.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      4.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      5.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      6.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      7.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      8.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      9.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      10.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      11.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      12.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      13.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      14.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      15.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      20.5,
+      33.5
+    ],
+    "direction": 12,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      21.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      22.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      23.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      24.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      25.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      26.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      27.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      28.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      29.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      30.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      31.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      32.5,
+      33.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      33.5,
+      33.5
+    ],
+    "direction": 8,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      33.5,
+      34.5
+    ],
+    "direction": 4,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      34.5,
+      34.5
+    ],
+    "direction": 0,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      34.5,
+      33.5
+    ],
+    "direction": 0,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "underground-belt",
+    "at": [
+      34.5,
+      28.5
+    ],
+    "direction": 8,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      34.5,
+      27.5
+    ],
+    "direction": 12,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      33.5,
+      27.5
+    ],
+    "direction": 0,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      33.5,
+      26.5
+    ],
+    "direction": 12,
+    "_request": "936931056"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -38.5,
+      21.5
+    ],
+    "direction": 12,
+    "_request": "936931056"
+  },
+  {
+    "op": "save",
+    "_request": "936931056"
+  }
+]

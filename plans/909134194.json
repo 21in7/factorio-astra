@@ -1,0 +1,42 @@
+[
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -42.5,
+      -61.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 5,
+    "_request": "909134194"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -47.5,
+      -63.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 5,
+    "_request": "909134194"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -50.5,
+      -63.5
+    ],
+    "inventory": "chest",
+    "item": "stone-brick",
+    "count": 5,
+    "_request": "909134194"
+  },
+  {
+    "op": "save",
+    "_request": "909134194"
+  }
+]

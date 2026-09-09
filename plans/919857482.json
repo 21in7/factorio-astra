@@ -1,0 +1,54 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      14.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 100,
+    "_request": "919857482"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -16.5,
+      43.5
+    ],
+    "inventory": "chest",
+    "item": "advanced-circuit",
+    "count": 100,
+    "_request": "919857482"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      14.5,
+      39.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "919857482"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      61.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 100,
+    "_request": "919857482"
+  },
+  {
+    "op": "save",
+    "_request": "919857482"
+  }
+]

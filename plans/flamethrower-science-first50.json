@@ -1,0 +1,209 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -40.5,
+      21.5
+    ],
+    "item": "military-science-pack",
+    "count": 36
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      8.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 6
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      12.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 6
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      16.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 6
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      20.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 6
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      24.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 6
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      28.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 6
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -40.5,
+      21.5
+    ],
+    "inventory": "chest",
+    "item": "military-science-pack",
+    "count": 14
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -40.5,
+      21.5
+    ],
+    "item": "military-science-pack",
+    "count": 14
+  },
+  {
+    "op": "put",
+    "at": [
+      -36.5,
+      15.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 5
+  },
+  {
+    "op": "put",
+    "at": [
+      -36.5,
+      15.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 10
+  },
+  {
+    "op": "put",
+    "at": [
+      -40.5,
+      18.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "stone-wall",
+    "count": 2
+  },
+  {
+    "op": "put",
+    "at": [
+      -40.5,
+      18.5
+    ],
+    "inventory": "assembling_machine_input",
+    "player_inventory": "character_ammo",
+    "item": "piercing-rounds-magazine",
+    "count": 1
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      8.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 2
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      12.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 2
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      16.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 2
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      20.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 2
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      24.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 3
+  },
+  {
+    "op": "put",
+    "name": "lab",
+    "at": [
+      28.5,
+      26.5
+    ],
+    "inventory": "lab_input",
+    "item": "military-science-pack",
+    "count": 3
+  },
+  {
+    "op": "save"
+  }
+]

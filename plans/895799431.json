@@ -1,0 +1,282 @@
+[
+  {
+    "op": "research",
+    "name": "electric-energy-distribution-1",
+    "_request": "895799431"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      47.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 300,
+    "_request": "895799431"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      51.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 300,
+    "_request": "895799431"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 300,
+    "_request": "895799431"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 5,
+    "_request": "895799431"
+  },
+  {
+    "op": "walk",
+    "to": [
+      3,
+      49
+    ],
+    "timeout": 9000,
+    "_request": "895799431"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -3.5,
+      46.5
+    ],
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "small-electric-pole",
+    "at": [
+      -3.5,
+      41.5
+    ],
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      1.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      0.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -0.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -1.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -2.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -3.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -4.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      -5.5,
+      47.5
+    ],
+    "direction": 12,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      46.5
+    ],
+    "direction": 8,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -4.5,
+      43.5
+    ],
+    "direction": 8,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "_request": "895799431"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -4.5,
+      42.5
+    ],
+    "bar": 3,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      46.5
+    ],
+    "direction": 8,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      43.5
+    ],
+    "direction": 8,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "_request": "895799431"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "bar": 3,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      1.5,
+      46.5
+    ],
+    "direction": 8,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      1.5,
+      43.5
+    ],
+    "direction": 8,
+    "_request": "895799431"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "_request": "895799431"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      1.5,
+      42.5
+    ],
+    "bar": 3,
+    "_request": "895799431"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "895799431"
+  }
+]

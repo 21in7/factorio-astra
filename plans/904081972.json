@@ -1,0 +1,122 @@
+[
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 18,
+    "_request": "904081972"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 18,
+    "_request": "904081972"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 18,
+    "_request": "904081972"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "904081972"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -1.5,
+      42.5
+    ],
+    "inventory": "chest",
+    "item": "steel-plate",
+    "count": 2,
+    "_request": "904081972"
+  },
+  {
+    "op": "rotate",
+    "name": "inserter",
+    "at": [
+      -1.5,
+      41.5
+    ],
+    "reverse": true,
+    "_request": "904081972"
+  },
+  {
+    "op": "craft",
+    "recipe": "assembling-machine-2",
+    "count": 2,
+    "_request": "904081972"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "904081972"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      26.5,
+      19.5
+    ],
+    "_request": "904081972"
+  },
+  {
+    "op": "build",
+    "name": "assembling-machine-2",
+    "at": [
+      30.5,
+      19.5
+    ],
+    "_request": "904081972"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "904081972"
+  },
+  {
+    "op": "put",
+    "name": "assembling-machine-2",
+    "at": [
+      46.5,
+      26.5
+    ],
+    "inventory": "assembling_machine_input",
+    "item": "sulfur",
+    "count": 100,
+    "_request": "904081972"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "904081972"
+  }
+]

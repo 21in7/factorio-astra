@@ -1,0 +1,351 @@
+[
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      55.5,
+      -113.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 600,
+    "_request": "904325567"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -17.5,
+      -55.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 1000,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -33,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -29,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -25,
+      -82
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -35,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -31,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -28,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "stone-furnace",
+    "at": [
+      -17,
+      -74
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 40,
+    "_request": "904325567"
+  },
+  {
+    "op": "craft",
+    "recipe": "iron-chest",
+    "count": 3,
+    "_request": "904325567"
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 3,
+    "_request": "904325567"
+  },
+  {
+    "op": "craft",
+    "recipe": "long-handed-inserter",
+    "count": 3,
+    "_request": "904325567"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "904325567"
+  },
+  {
+    "op": "mine",
+    "name": "medium-electric-pole",
+    "at": [
+      0.5,
+      41.5
+    ],
+    "ticks": 300,
+    "_request": "904325567"
+  },
+  {
+    "op": "build",
+    "name": "medium-electric-pole",
+    "at": [
+      3.5,
+      41.5
+    ],
+    "_request": "904325567"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -5.5,
+      41.5
+    ],
+    "_request": "904325567"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -5.5,
+      41.5
+    ],
+    "bar": 5,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -5.5,
+      41.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 200,
+    "_request": "904325567"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -5.5,
+      43.5
+    ],
+    "direction": 0,
+    "_request": "904325567"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      -2.5,
+      41.5
+    ],
+    "_request": "904325567"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      -2.5,
+      41.5
+    ],
+    "bar": 5,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      -2.5,
+      41.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 200,
+    "_request": "904325567"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      -2.5,
+      43.5
+    ],
+    "direction": 0,
+    "_request": "904325567"
+  },
+  {
+    "op": "build",
+    "name": "iron-chest",
+    "at": [
+      0.5,
+      41.5
+    ],
+    "_request": "904325567"
+  },
+  {
+    "op": "inventory_bar",
+    "name": "iron-chest",
+    "at": [
+      0.5,
+      41.5
+    ],
+    "bar": 5,
+    "_request": "904325567"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      0.5,
+      41.5
+    ],
+    "inventory": "chest",
+    "item": "coal",
+    "count": 200,
+    "_request": "904325567"
+  },
+  {
+    "op": "build",
+    "name": "long-handed-inserter",
+    "at": [
+      0.5,
+      43.5
+    ],
+    "direction": 0,
+    "_request": "904325567"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "904325567"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "stone-furnace",
+    "at": [
+      -5,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 5,
+    "_request": "904325567"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "904325567"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "stone-furnace",
+    "at": [
+      -2,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 5,
+    "_request": "904325567"
+  },
+  {
+    "op": "take",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 50,
+    "_request": "904325567"
+  },
+  {
+    "op": "wait_inventory",
+    "name": "stone-furnace",
+    "at": [
+      1,
+      45
+    ],
+    "inventory": "fuel",
+    "item": "coal",
+    "count": 5,
+    "_request": "904325567"
+  },
+  {
+    "op": "save",
+    "name": "astra-progress",
+    "_request": "904325567"
+  }
+]

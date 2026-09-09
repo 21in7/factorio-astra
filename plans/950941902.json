@@ -1,0 +1,235 @@
+[
+  {
+    "op": "walk_direction",
+    "direction": 12,
+    "ticks": 20,
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -114.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -113.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -112.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -111.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -110.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -109.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -108.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "walk",
+    "to": [
+      65,
+      -105
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -107.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -106.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -104.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -103.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -102.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      69.5,
+      -101.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      64.5,
+      -101.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      65.5,
+      -101.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      66.5,
+      -101.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      67.5,
+      -101.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      68.5,
+      -101.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "walk",
+    "to": [
+      65,
+      -121.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      64.5,
+      -124.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      65.5,
+      -124.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      66.5,
+      -124.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      67.5,
+      -124.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "build",
+    "name": "stone-wall",
+    "at": [
+      68.5,
+      -124.5
+    ],
+    "_request": "950941902"
+  },
+  {
+    "op": "save",
+    "_request": "950941902"
+  }
+]

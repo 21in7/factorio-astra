@@ -1,0 +1,110 @@
+[
+  {
+    "op": "craft",
+    "recipe": "gun-turret",
+    "count": 1,
+    "_request": "919754294"
+  },
+  {
+    "op": "wait_crafting",
+    "_request": "919754294"
+  },
+  {
+    "op": "build",
+    "name": "gun-turret",
+    "at": [
+      54,
+      -8
+    ],
+    "direction": 0,
+    "_request": "919754294"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      17.5
+    ],
+    "inventory": "chest",
+    "item": "productivity-module",
+    "count": 10,
+    "_request": "919754294"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -9.5,
+      44.5
+    ],
+    "inventory": "chest",
+    "item": "electric-furnace",
+    "count": 10,
+    "_request": "919754294"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      57.5
+    ],
+    "inventory": "chest",
+    "item": "electric-furnace",
+    "count": 10,
+    "_request": "919754294"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      18.5,
+      65.5
+    ],
+    "inventory": "chest",
+    "item": "productivity-module",
+    "count": 10,
+    "_request": "919754294"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      2.5,
+      61.5
+    ],
+    "inventory": "chest",
+    "item": "iron-plate",
+    "count": 30,
+    "_request": "919754294"
+  },
+  {
+    "op": "take",
+    "name": "iron-chest",
+    "at": [
+      -43.5,
+      -68.5
+    ],
+    "inventory": "chest",
+    "item": "stone",
+    "count": 200,
+    "_request": "919754294"
+  },
+  {
+    "op": "put",
+    "name": "iron-chest",
+    "at": [
+      11.5,
+      65.5
+    ],
+    "inventory": "chest",
+    "item": "stone",
+    "count": 200,
+    "_request": "919754294"
+  },
+  {
+    "op": "save",
+    "_request": "919754294"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "op": "craft",
+    "recipe": "transport-belt",
+    "count": 8
+  },
+  {
+    "op": "craft",
+    "recipe": "inserter",
+    "count": 2
+  },
+  {
+    "op": "wait_crafting"
+  },
+  {
+    "op": "mine",
+    "name": "long-handed-inserter",
+    "at": [
+      61.5,
+      -112.5
+    ]
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -111.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -110.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -109.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -108.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -107.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -106.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -105.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -104.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -103.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -102.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -101.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -100.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -99.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -98.5
+    ],
+    "direction": 0
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      61.5,
+      -113.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "transport-belt",
+    "at": [
+      62.5,
+      -113.5
+    ],
+    "direction": 4
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      60.5,
+      -98.5
+    ],
+    "direction": 12
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      60.5,
+      -98.5
+    ],
+    "item": "iron-plate"
+  },
+  {
+    "op": "build",
+    "name": "inserter",
+    "at": [
+      61.5,
+      -112.5
+    ],
+    "direction": 8
+  },
+  {
+    "op": "inserter_filter",
+    "name": "inserter",
+    "at": [
+      61.5,
+      -112.5
+    ],
+    "item": "iron-plate"
+  },
+  {
+    "op": "save"
+  }
+]
